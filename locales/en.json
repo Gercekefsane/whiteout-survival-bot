@@ -1161,5 +1161,10 @@
   "transfer_tracker_checking": "Checking for new transfer sneak peeks",
   "transfer_tracker_no_new": "No new transfer sneak peeks found.",
   "transfer_tracker_found": "{count} new sneak peek(s) found. Analyzing...",
-  "transfer_tracker_results": "Transfer Tracker Results"
+  "transfer_tracker_results": "Transfer Tracker Results",
+  "wiki_new_item": "New Game Item",
+  "wiki_description": "Description",
+  "wiki_sources": "Sources",
+  "wiki_event_leak": "Event Leak (Sneak Peek)",
+  "wiki_event_official": "New Event"
 }
