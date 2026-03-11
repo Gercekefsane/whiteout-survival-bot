@@ -1151,5 +1151,15 @@
   "weekday_short_sun": "Sun",
   "usage_text": "Usage",
   "addevent_no_args": "Usage: /addevent [ID] [days]",
-  "use_addevent": "Use /addevent to add one."
+  "use_addevent": "Use /addevent to add one.",
+  "transfer_update_title": "Transfer Schedule Updated",
+  "transfer_update_desc": "Official transfer dates have been updated!",
+  "transfer_update_groups": "State Groups",
+  "transfer_update_check": "Use /transfer [state] to see your transfer details.",
+  "transfer_update_personal": "Transfer Update for Your State",
+  "transfer_update_affected": "New transfer dates have been announced that include your state!",
+  "transfer_tracker_checking": "Checking for new transfer sneak peeks",
+  "transfer_tracker_no_new": "No new transfer sneak peeks found.",
+  "transfer_tracker_found": "{count} new sneak peek(s) found. Analyzing...",
+  "transfer_tracker_results": "Transfer Tracker Results"
 }
