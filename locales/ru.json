@@ -1096,5 +1096,11 @@
   "wiki_description": "Описание",
   "wiki_sources": "Источники",
   "wiki_event_leak": "Утечка события (Sneak Peek)",
-  "wiki_event_official": "Новое событие"
+  "wiki_event_official": "Новое событие",
+  "bulkadd_title": "Массовое добавление",
+  "bulkadd_hint": "Вставьте FID через пробел или запятую. TAG не нужен — альянс определяется автоматически.",
+  "bulkadd_count": "Участников для добавления",
+  "bulkadd_truncated": "⚠️ Лимит! Только первые {limit} будут обработаны.",
+  "bulkadd_skipped": "Пропущено (лимит)",
+  "bulkadd_remaining": "Оставшиеся слоты"
 }
