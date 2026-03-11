@@ -1145,5 +1145,16 @@
   "bulkadd_count": "Eklenecek üye",
   "bulkadd_truncated": "⚠️ Limite ulaşıldı! Sadece ilk {limit} tanesi işlenecek.",
   "bulkadd_skipped": "Atlanan (limit)",
-  "bulkadd_remaining": "Kalan slot"
+  "bulkadd_remaining": "Kalan slot",
+  "starts_in": "{minutes} DAKİKA SONRA BAŞLIYOR!",
+  "event_started": "ETKİNLİK BAŞLADI!",
+  "opening_rallies": "Rally Açanlar",
+  "joining_rallies": "Rally Katılım (Hero Sırası)",
+  "important_tip": "Önemli İpucu",
+  "bear_trap_tip": "Doğru heroların yoksa, askerlerini HİÇ hero OLMADAN gönder.\nYanlış hero göndermektense hiç göndermemek daha iyidir.",
+  "bear_trap_recall": "🚨 Bear Trap başlamadan önce askerlerini GERİ ÇEKMEYİ unutma!",
+  "canyon_tip": "Rally hasarına odaklan. En güçlü heroları gönder.",
+  "foundry_tip": "En iyi sonuç için alliance ile koordine ol.",
+  "crazy_joe_tip": "Zorluk önerisi için Crazy Joe hesaplayıcısını kullan (/calc).",
+  "fortress_tip": "Kaleyi savun ve müttefiklere takviye gönder."
 }
