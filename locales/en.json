@@ -1166,5 +1166,11 @@
   "wiki_description": "Description",
   "wiki_sources": "Sources",
   "wiki_event_leak": "Event Leak (Sneak Peek)",
-  "wiki_event_official": "New Event"
+  "wiki_event_official": "New Event",
+  "bulkadd_title": "Bulk Add Members",
+  "bulkadd_hint": "Paste FIDs separated by spaces or commas. No TAG needed — alliance is auto-detected from group.",
+  "bulkadd_count": "Members to add",
+  "bulkadd_truncated": "⚠️ Limit reached! Only first {limit} will be processed.",
+  "bulkadd_skipped": "Skipped (limit)",
+  "bulkadd_remaining": "Remaining slots"
 }
