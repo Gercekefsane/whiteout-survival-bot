@@ -48,12 +48,12 @@
 
 ## 🔢 Latest Version: v1.9.0
 
-> **Released:** 2026-03-10
+> **Released:** 2026-03-11
 
-  - **Subscription Expiry Warnings**: 7/3/1 day warnings before plan expires
-  - **Grace Period**: 3-day grace period after expiry, all members keep access
-  - **Member Priority System**: Hybrid: admin override + first-registered priority
-  - **/managemembers**: View and manage member priorities when over limit
+  - **Transfer Tracker**: Auto-monitors wiki for new transfer schedules, AI image analysis, Google Sheets update
+  - **Wiki Items Tracker**: Monitors new game items from wiki, AI translation, broadcast to groups
+  - **Wiki Events Tracker**: Monitors game events (official + Korean leaks), multi-image albums
+  - **Beautiful Bear Trap Notifications**: Competitor-quality design with hero recommendations (P2W/F2P)
 
 > 📋 **[Full Changelog →](CHANGELOG.md)**
 
