@@ -1134,5 +1134,10 @@
   "transfer_tracker_checking": "Yeni transfer sneak peek'leri kontrol ediliyor",
   "transfer_tracker_no_new": "Yeni transfer sneak peek'i bulunamadı.",
   "transfer_tracker_found": "{count} yeni sneak peek bulundu. Analiz ediliyor...",
-  "transfer_tracker_results": "Transfer Takip Sonuçları"
+  "transfer_tracker_results": "Transfer Takip Sonuçları",
+  "wiki_new_item": "Yeni Oyun Eşyası",
+  "wiki_description": "Açıklama",
+  "wiki_sources": "Kaynaklar",
+  "wiki_event_leak": "Etkinlik Sızıntısı (Sneak Peek)",
+  "wiki_event_official": "Yeni Etkinlik"
 }
