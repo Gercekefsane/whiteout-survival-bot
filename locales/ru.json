@@ -1091,5 +1091,10 @@
   "transfer_tracker_checking": "Проверка новых анонсов трансферов",
   "transfer_tracker_no_new": "Новых анонсов трансферов не найдено.",
   "transfer_tracker_found": "Найдено {count} новых анонсов. Анализируем...",
-  "transfer_tracker_results": "Результаты отслеживания трансферов"
+  "transfer_tracker_results": "Результаты отслеживания трансферов",
+  "wiki_new_item": "Новый игровой предмет",
+  "wiki_description": "Описание",
+  "wiki_sources": "Источники",
+  "wiki_event_leak": "Утечка события (Sneak Peek)",
+  "wiki_event_official": "Новое событие"
 }
