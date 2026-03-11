@@ -1172,5 +1172,16 @@
   "bulkadd_count": "Members to add",
   "bulkadd_truncated": "⚠️ Limit reached! Only first {limit} will be processed.",
   "bulkadd_skipped": "Skipped (limit)",
-  "bulkadd_remaining": "Remaining slots"
+  "bulkadd_remaining": "Remaining slots",
+  "starts_in": "STARTS IN {minutes} MIN!",
+  "event_started": "EVENT STARTED!",
+  "opening_rallies": "Opening Rallies",
+  "joining_rallies": "Joining Rallies (Hero Order)",
+  "important_tip": "Important Tip",
+  "bear_trap_tip": "If you don't have the correct heroes, send troops with NO heroes.\nIt's better to send no heroes than wrong heroes.",
+  "bear_trap_recall": "🚨 Remember to RECALL your troops before Bear Trap starts!",
+  "canyon_tip": "Focus on rally damage. Send your strongest heroes.",
+  "foundry_tip": "Coordinate with alliance for best results.",
+  "crazy_joe_tip": "Use the Crazy Joe calculator (/calc) for difficulty recommendation.",
+  "fortress_tip": "Defend your fortress and send reinforcements to allies."
 }
