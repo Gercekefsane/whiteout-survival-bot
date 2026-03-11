@@ -13,8 +13,8 @@
 
 <br>
 
-[![Version](https://img.shields.io/badge/version-v1.8.1-brightgreen?style=flat-square)]()
-[![Changelog](https://img.shields.io/badge/changelog-v1.8.1-blue?style=flat-square)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-v1.9.0-brightgreen?style=flat-square)]()
+[![Changelog](https://img.shields.io/badge/changelog-v1.9.0-blue?style=flat-square)](CHANGELOG.md)
 [![Python](https://img.shields.io/badge/Python-3.13+-3776AB?style=flat-square&logo=python&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-4169E1?style=flat-square&logo=postgresql&logoColor=white)]()
 [![Platform](https://img.shields.io/badge/Platform-Telegram%20%2B%20Discord-blue?style=flat-square)]()
@@ -46,7 +46,7 @@
 
 ---
 
-## 🔢 Latest Version: v1.8.1
+## 🔢 Latest Version: v1.9.0
 
 > **Released:** 2026-03-10
 
@@ -461,7 +461,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 <div align="center">
 
-**v1.8.1** · Last updated: 2026-03-11
+**v1.9.0** · Last updated: 2026-03-11
 
 <br>
 
