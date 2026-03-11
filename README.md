@@ -397,7 +397,7 @@ Your **FID (Fighter ID)** is your unique player identifier in WhiteOut Survival.
 | Language | Code | Status |
 |----------|------|--------|
 | 🇬🇧 English | `en` | ✅ Full |
-| 🇷🇺 Русский | `ru` | ✅ Full |
+| 🇷🇺 RU | `ru` | ✅ Full |
 | 🇹🇷 Türkçe | `tr` | ✅ Full |
 
 Language files are in the [`locales/`](locales/) directory.
