@@ -1081,5 +1081,15 @@
   "weekday_short_sun": "Вс",
   "usage_text": "Использование",
   "addevent_no_args": "Использование: /addevent [ID] [дни]",
-  "use_addevent": "Используйте /addevent для добавления."
+  "use_addevent": "Используйте /addevent для добавления.",
+  "transfer_update_title": "Расписание трансферов обновлено",
+  "transfer_update_desc": "Официальные даты трансферов обновлены!",
+  "transfer_update_groups": "Группы штатов",
+  "transfer_update_check": "Используйте /transfer [штат] для просмотра деталей.",
+  "transfer_update_personal": "Обновление трансфера для вашего штата",
+  "transfer_update_affected": "Объявлены новые даты трансфера, включающие ваш штат!",
+  "transfer_tracker_checking": "Проверка новых анонсов трансферов",
+  "transfer_tracker_no_new": "Новых анонсов трансферов не найдено.",
+  "transfer_tracker_found": "Найдено {count} новых анонсов. Анализируем...",
+  "transfer_tracker_results": "Результаты отслеживания трансферов"
 }
