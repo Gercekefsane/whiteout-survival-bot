@@ -1124,5 +1124,15 @@
   "weekday_short_sun": "Paz",
   "usage_text": "Kullanım",
   "addevent_no_args": "Kullanım: /addevent [ID] [günler]",
-  "use_addevent": "Eklemek için /addevent kullanın."
+  "use_addevent": "Eklemek için /addevent kullanın.",
+  "transfer_update_title": "Transfer Takvimi Güncellendi",
+  "transfer_update_desc": "Resmi transfer tarihleri güncellendi!",
+  "transfer_update_groups": "State Grupları",
+  "transfer_update_check": "Transfer detaylarınızı görmek için /transfer [state] kullanın.",
+  "transfer_update_personal": "State'iniz İçin Transfer Güncellemesi",
+  "transfer_update_affected": "State'inizi içeren yeni transfer tarihleri duyuruldu!",
+  "transfer_tracker_checking": "Yeni transfer sneak peek'leri kontrol ediliyor",
+  "transfer_tracker_no_new": "Yeni transfer sneak peek'i bulunamadı.",
+  "transfer_tracker_found": "{count} yeni sneak peek bulundu. Analiz ediliyor...",
+  "transfer_tracker_results": "Transfer Takip Sonuçları"
 }
