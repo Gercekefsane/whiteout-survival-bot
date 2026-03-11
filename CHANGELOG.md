@@ -2,33 +2,6 @@
 
 All notable changes to this project are documented here.
 
-## v1.9.0 — 2026-03-11
-
-### ✨ Added
-- **Transfer Tracker**: Auto-monitors wiki for new transfer schedules, AI image analysis, Google Sheets update
-- **Wiki Items Tracker**: Monitors new game items from wiki, AI translation, broadcast to groups
-- **Wiki Events Tracker**: Monitors game events (official + Korean leaks), multi-image albums
-- **Beautiful Bear Trap Notifications**: Competitor-quality design with hero recommendations (P2W/F2P)
-- **Bulkadd Simplified**: No TAG needed, auto-detect alliance, premium limit enforcement
-- **/checktransfer**: Manual trigger for transfer sneak peek checking
-- **/checkwiki & /testwiki**: Manual wiki content checking and testing
-- **Config Toggles**: Enable/disable items/events tracking, pin, broadcast per type
-
-### 🔧 Fixed
-- **Event Notifications Language**: All event commands now respect group language settings
-- **Registration DM Error**: Fixed ON CONFLICT error on user_dm_status table
-- **Wiki Content Scraper**: Fixed content-section div selector and title cleanup
-- **Image Scraper**: Fixed generic wiki icon appearing for all items
-- **Translation Artifacts**: Fixed literal \n in AI translations
-
-### 🔄 Changed
-- **Bear Trap Notifications**: Beautiful design with alliance tag, hero recommendations, tips
-- **Transfer Announcements**: Now pinned in groups, sent to Discord
-- **Event Type Names**: Fully localized in TR/EN/RU via locale keys
-- **First-Run Protection**: Wiki tracker seeds DB without broadcasting on startup
-
----
-
 ## v1.8.1 — 2026-03-10
 
 ### ✨ Added
