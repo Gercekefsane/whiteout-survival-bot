@@ -1018,14 +1018,6 @@
   "changelog_version": "Версия",
   "changelog_full_info": "См. CHANGELOG.md для всех изменений",
   "changelog_not_found": "Файл журнала изменений не найден",
-  "register_confirm_button": "✅ Да, информация верна",
-  "register_confirm_prompt": "ℹ️ Ваша информация верна?",
-  "register_complete_button": "✅ Завершить регистрацию и включить уведомления",
-  "register_dm_pending_notice": "⏳ <b>Регистрация почти завершена - последний шаг!</b>\n\n📲 Нажмите кнопку, чтобы активировать уведомления и получать подарочные коды.\n\n💡 Кнопка откроет личный чат с ботом для завершения регистрации.",
-  "register_confirmed_title": "✅ FID подтверждён!",
-  "register_confirmed_processing": "⏳ Обработка...\n\n🎁 Проверка подарочных кодов...\n📋 Отправка Google форм...\n\nПожалуйста, подождите, скоро завершится.",
-  "register_confirmed_complete": "🎉 Все операции завершены!",
-  "register_confirmed_dm_enabled": "🔔 Теперь мы можем отправлять вам личные уведомления!\n\n💡 Изменить настройки: /mynotifications",
   "cj_main_desc": "Гайд по ивенту Crazy Joe — информация о волнах, калькулятор очков и рекомендация сложности.",
   "cj_select_option": "Выберите опцию:",
   "cj_btn_wave_guide": "Гайд по волнам",
@@ -1090,3 +1082,4 @@
   "usage_text": "Использование",
   "addevent_no_args": "Использование: /addevent [ID] [дни]",
   "use_addevent": "Используйте /addevent для добавления."
+}
