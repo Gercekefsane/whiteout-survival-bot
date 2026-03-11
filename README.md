@@ -369,7 +369,7 @@ Your **FID (Fighter ID)** is your unique player identifier in WhiteOut Survival.
 | **Database** | PostgreSQL 15+ | Connection pooling, composite keys |
 | **HTTP Client** | aiohttp | Async API calls, session management |
 | **CAPTCHA Solver** | ONNX Runtime (local) | Custom model, ~98% accuracy, ~3.5ms |
-| **Proxy** | Webshare rotating proxies | Rate limit avoidance |
+| **Proxy** | Residental rotating proxies | Rate limit avoidance |
 | **Hosting** | Dedicated Server | 24/7 uptime, Windows Server |
 | **Payments** | Stripe (optional) | Subscription management |
 
@@ -461,7 +461,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 <div align="center">
 
-**v1.8.1** · Last updated: 2026-03-10
+**v1.8.1** · Last updated: 2026-03-11
 
 <br>
 
