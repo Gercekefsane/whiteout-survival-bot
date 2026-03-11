@@ -1139,5 +1139,11 @@
   "wiki_description": "Açıklama",
   "wiki_sources": "Kaynaklar",
   "wiki_event_leak": "Etkinlik Sızıntısı (Sneak Peek)",
-  "wiki_event_official": "Yeni Etkinlik"
+  "wiki_event_official": "Yeni Etkinlik",
+  "bulkadd_title": "Toplu Üye Ekleme",
+  "bulkadd_hint": "FID numaralarını boşluk veya virgülle yapıştırın. TAG gerekmez — alliance gruptan otomatik algılanır.",
+  "bulkadd_count": "Eklenecek üye",
+  "bulkadd_truncated": "⚠️ Limite ulaşıldı! Sadece ilk {limit} tanesi işlenecek.",
+  "bulkadd_skipped": "Atlanan (limit)",
+  "bulkadd_remaining": "Kalan slot"
 }
