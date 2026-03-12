@@ -1140,6 +1140,7 @@
   "wiki_sources": "Kaynaklar",
   "wiki_event_leak": "Etkinlik Sızıntısı (Sneak Peek)",
   "wiki_event_official": "Yeni Etkinlik",
+  "bulkadd_disabled": "🚫 /bulkadd komutu devre dışı bırakıldı. Lütfen üyeleri tek tek eklemek için /addmember kullanın.",
   "bulkadd_title": "Toplu Üye Ekleme",
   "bulkadd_hint": "FID numaralarını boşluk veya virgülle yapıştırın. TAG gerekmez — alliance gruptan otomatik algılanır.",
   "bulkadd_count": "Eklenecek üye",
