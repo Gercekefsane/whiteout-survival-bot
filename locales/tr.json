@@ -1172,7 +1172,7 @@
   "map_hours": "saat",
   "map_days": "gün",
   "map_click_below": "Harita editörünü açmak için aşağıdaki butona tıklayın:",
-  "map_setcoord_usage": "📍 <b>Koordinat Ayarla</b>\n\nKullanım: <code>/setcoord X Y</code>\nÖrnek: <code>/setcoord 480 443</code>",
+  "map_setcoord_usage": "📍 <b>Koordinat Ayarla</b>\n\nKullanım: <code>/setcoord X:480 Y:443</code>\n\nKabul edilen formatlar:\n<code>/setcoord 480 443</code>\n<code>/setcoord 480,443</code>",
   "map_setcoord_invalid": "❌ Koordinatlar sayı olmalıdır.",
   "map_setcoord_not_linked": "❌ Oyun hesabınız bu alliance'a bağlı değil.\nÖnce /register kullanın.",
   "map_no_active_map": "❌ Bu alliance için aktif harita bulunamadı.",
