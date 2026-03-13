@@ -1129,7 +1129,7 @@
   "map_hours": "часов",
   "map_days": "дней",
   "map_click_below": "Нажмите кнопку ниже, чтобы открыть редактор карты:",
-  "map_setcoord_usage": "📍 <b>Установить Координаты</b>\n\nИспользование: <code>/setcoord X Y</code>\nПример: <code>/setcoord 480 443</code>",
+  "map_setcoord_usage": "📍 <b>Установить Координаты</b>\n\nИспользование: <code>/setcoord X:480 Y:443</code>\n\nТакже принимается:\n<code>/setcoord 480 443</code>\n<code>/setcoord 480,443</code>",
   "map_setcoord_invalid": "❌ Координаты должны быть числами.",
   "map_setcoord_not_linked": "❌ Ваш игровой аккаунт не привязан к этому альянсу.\nСначала используйте /register.",
   "map_no_active_map": "❌ Активная карта для этого альянса не найдена.",
