@@ -1199,7 +1199,7 @@
   "map_hours": "hours",
   "map_days": "days",
   "map_click_below": "Click the button below to open the map editor:",
-  "map_setcoord_usage": "📍 <b>Set Coordinate</b>\n\nUsage: <code>/setcoord X Y</code>\nExample: <code>/setcoord 480 443</code>",
+  "map_setcoord_usage": "📍 <b>Set Coordinate</b>\n\nUsage: <code>/setcoord X:480 Y:443</code>\n\nAlso accepted:\n<code>/setcoord 480 443</code>\n<code>/setcoord 480,443</code>",
   "map_setcoord_invalid": "❌ Coordinates must be numbers.",
   "map_setcoord_not_linked": "❌ Your game account is not linked to this alliance.\nUse /register first.",
   "map_no_active_map": "❌ No active map found for this alliance.",
