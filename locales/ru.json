@@ -1169,5 +1169,8 @@
   "hero_bt_tip2": "Используйте 3 героев одного типа для бонуса типа",
   "hero_bt_tip3": "Герои более нового поколения обычно сильнее",
   "hero_gen_range": "Герои Gen {from}-{to}",
-  "hero_type_heroes": "Герои типа {type}"
+  "hero_type_heroes": "Герои типа {type}",
+  "hero_skills": "Навыки",
+  "hero_special": "Специальные способности",
+  "hero_story": "История"
 }
