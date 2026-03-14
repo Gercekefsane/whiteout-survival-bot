@@ -2,6 +2,30 @@
 
 All notable changes to this project are documented here.
 
+## v1.11.0 — 2026-03-15
+
+### ✨ Added
+- **Alliance Leaderboard**: /leaderboard — Furnace rankings, top growers, alliance overview stats
+- **Inactive Member Detection**: /inactive [days] — Find members with no activity in last N days
+- **Gift Code Statistics**: /codestats — Detailed redemption stats per code
+- **WhiteLabel System**: Full bot management with /wl commands and /mybot customer view
+- **WhiteLabel Expiry**: Auto-suspend expired bots, expiry date management, audit logging
+- **Hero Wiki Scraper**: Auto-scrapes wiki every 6h, extracts skills/story/abilities
+- **Hero AI Translation**: OpenAI auto-translates hero data to TR/RU
+- **Hero Detail View**: Inline skills, special abilities, story from DB
+
+### 🔧 Fixed
+- **Chat Not Found Spam**: Bear trap notifications auto-disable on unreachable chat
+- **Hero Wiki Scraper**: Fixed content-hero CSS selector, ASCII-only slug filter
+- **Website Links**: Fixed Discord invite + Telegram username on woscontrol.com
+
+### 🔄 Changed
+- **GitHub README**: WOSCONTROL.COM as H1 at the very top
+- **GitHub Auto-Push**: WhiteLabel promo docs + docs/ folder tracked
+- **Bot Username Check**: Auto-verify TG/Discord usernames on startup
+
+---
+
 ## v1.10.0 — 2026-03-14
 
 ### ✨ Added
