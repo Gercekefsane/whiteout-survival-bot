@@ -2,6 +2,30 @@
 
 All notable changes to this project are documented here.
 
+## v1.10.0 — 2026-03-14
+
+### ✨ Added
+- **Interactive Map Commands (Discord)**: /map, /mapimage, /setcoord, /place, /placemember slash commands
+- **Auto Hive Formation Types**: 4 placement patterns — Diamond, Square, Cross, Compact (bot + web)
+- **Setcoord Interactive Flow**: Building type selection: City, HQ, Trap, Flag, Farm, Mine, Water, Mountain
+- **Hero Guide**: /hero command with 60+ heroes, tier list, Bear Trap recommendations, wiki links
+- **Discord Event Image Grouping**: Wiki event images sent as grouped embeds (up to 10 per message)
+- **Map Setup Callback**: /start command now has Map Manager button linking to /mapsetup
+
+### 🔧 Fixed
+- **Flag Placement**: Exactly 4 flags at trap diagonal corners
+- **Map Image Crash**: Fixed send_map_image_with_actions bot=None parameter crash
+- **Announcements SQL Error**: Fixed 14-value vs 13-column mismatch in game_announcements INSERT
+- **Turkish Translations**: Added missing /register command locale keys
+
+### 🔄 Changed
+- **Bulkadd Removed**: Deprecated /bulkadd command removed from both TG and Discord
+- **Web Map Editor**: Auto-place split button with formation type dropdown
+- **State Notifications**: Verified Discord channel delivery
+- **GitHub Auto-Sync**: Integrated watcher thread into bot process, website URL in README
+
+---
+
 ## v1.9.0 — 2026-03-11
 
 ### ✨ Added
