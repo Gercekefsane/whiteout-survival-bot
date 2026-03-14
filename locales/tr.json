@@ -1220,5 +1220,8 @@
   "hero_bt_tip2": "Tür bonusu için aynı türden 3 kahraman kullanın",
   "hero_bt_tip3": "Yüksek jenerasyon kahramanlar genellikle daha güçlüdür",
   "hero_gen_range": "Gen {from}-{to} Kahramanlar",
-  "hero_type_heroes": "{type} Kahramanları"
+  "hero_type_heroes": "{type} Kahramanları",
+  "hero_skills": "Yetenekler",
+  "hero_special": "Özel Yetenekler",
+  "hero_story": "Hikaye"
 }
