@@ -1,16 +1,23 @@
 <div align="center">
 
+<a href="https://woscontrol.com">
+<h1>🌐 woscontrol.com</h1>
+<h3>Whiteout Survival & Kingshot Bot Platform</h3>
+</a>
+
+<br>
+
+<a href="https://woscontrol.com">
+<img src="https://img.shields.io/badge/🌐_VISIT-woscontrol%2Ecom-FF6600?style=for-the-badge&labelColor=000000&logoColor=white" alt="woscontrol.com" height="60">
+</a>
+
+<br><br>
+
 # ❄️ WhiteOut Survival Bot
 
 ### The Ultimate Gift Code & Alliance Management Bot for WhiteOut Survival
 
 <br>
-
-<a href="https://woscontrol.com">
-<img src="https://img.shields.io/badge/🌐_VISIT_OUR_WEBSITE-woscontrol%2Ecom-FF6600?style=for-the-badge&labelColor=222222&logoColor=white&scale=2" alt="woscontrol.com" height="55">
-</a>
-
-<br><br>
 
 [![Add to Telegram](https://img.shields.io/badge/Telegram-Add%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WhiteoutGuildBot)
 [![Add to Discord](https://img.shields.io/badge/Discord-Add%20Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1462815590141132905&permissions=8&scope=bot%20applications.commands)
