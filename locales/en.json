@@ -1239,5 +1239,8 @@
   "hero_bt_tip2": "Use 3 heroes of same type for type bonus",
   "hero_bt_tip3": "Higher gen heroes generally outperform lower gen",
   "hero_gen_range": "Gen {from}-{to} Heroes",
-  "hero_type_heroes": "{type} Heroes"
+  "hero_type_heroes": "{type} Heroes",
+  "hero_skills": "Skills",
+  "hero_special": "Special Abilities",
+  "hero_story": "Story"
 }
