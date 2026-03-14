@@ -67,6 +67,8 @@
   "user_not_found": "❌ Geçersiz FID veya kullanıcı bulunamadı.",
   "api_error": "❌ Kullanıcı bilgileri alınamadı. API hatası.",
   "api_timeout_title": "⏳ Oyun Sunucusu Geçici Olarak Yanıt Vermiyor",
+  "api_timeout_retrying": "Otomatik olarak tekrar deneniyor... (3/3)",
+  "api_timeout_failed": "Oyun sunucusuna ulaşılamadı. Lütfen birkaç dakika sonra tekrar deneyin.",
   "api_timeout_desc": "Oyun sunucusuna bağlanılamadı. Bu genellikle geçici bir sorundur.\n\n💡 Birkaç dakika sonra tekrar deneyin.",
   "retry_register": "🔄 Tekrar Dene",
   "members_list_title": "👥 <b>Alliance Üyeleri:</b>",
