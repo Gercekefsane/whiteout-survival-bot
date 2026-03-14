@@ -1269,5 +1269,15 @@
   "lb_no_codes": "No gift code data yet.",
   "unlinked_group_title": "Alliance Setup Required",
   "unlinked_group_desc": "This group doesn't have an alliance set up yet.\n\nAn alliance must be created to use bot features:",
-  "unlinked_group_hint": "Setup: /setupalliance [TAG] [Name]\n\n• 🎁 Automatic gift code redemption\n• 👥 Member tracking & notifications\n• 📊 Leaderboards & statistics\n• 🔔 Event reminders"
+  "unlinked_group_hint": "Setup: /setupalliance [TAG] [Name]\n\n• 🎁 Automatic gift code redemption\n• 👥 Member tracking & notifications\n• 📊 Leaderboards & statistics\n• 🔔 Event reminders",
+  "unlinked_dc_title": "Alliance Setup Required",
+  "unlinked_dc_desc": "This server doesn't have an alliance linked yet.",
+  "unlinked_dc_steps": "Setup steps:",
+  "unlinked_dc_step1": "`/addalliance [TAG] [Name]` — Create your alliance",
+  "unlinked_dc_step2": "`/setgroup [link_code]` — Link this server",
+  "unlinked_dc_features": "This unlocks all bot features:",
+  "unlinked_dc_feat_codes": "Automatic gift code redemption",
+  "unlinked_dc_feat_members": "Member tracking & notifications",
+  "unlinked_dc_feat_lb": "Leaderboards & statistics",
+  "unlinked_dc_feat_events": "Event reminders"
 }
