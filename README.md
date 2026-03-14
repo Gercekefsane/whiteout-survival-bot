@@ -6,6 +6,12 @@
 
 <br>
 
+<a href="https://woscontrol.com">
+<img src="https://img.shields.io/badge/🌐_VISIT_OUR_WEBSITE-woscontrol%2Ecom-FF6600?style=for-the-badge&labelColor=222222&logoColor=white&scale=2" alt="woscontrol.com" height="55">
+</a>
+
+<br><br>
+
 [![Add to Telegram](https://img.shields.io/badge/Telegram-Add%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WhiteoutGuildBot)
 [![Add to Discord](https://img.shields.io/badge/Discord-Add%20Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1462815590141132905&permissions=8&scope=bot%20applications.commands)
 [![Contact Admin](https://img.shields.io/badge/Contact-Admin-E4405F?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/btuncsiper)
@@ -82,7 +88,6 @@ The bot operates on both **Telegram** and **Discord** simultaneously, with a sha
 ### 👥 Alliance Member Management
 - **Quick registration** — members type `/register [FID]` and they're in
 - **DM confirmation** — automatic DM verification for secure registration
-- **Bulk operations** — add or remove dozens of members at once with `/bulkadd`
 - **Cross-game detection** — automatically identifies which game (WOS/Kingshot) a player belongs to
 - **Member export** — export your full member list as a file
 
@@ -208,6 +213,7 @@ The bot operates on both **Telegram** and **Discord** simultaneously, with a sha
 | `/codes` | 🎁 View all known gift codes and their status |
 | `/language` | 🌐 Change your language preference |
 | `/calc` | 🧮 Open game calculators (troops, gear, charms) |
+| `/hero` | 🦸 Hero guide, tier list & Bear Trap recommendations |
 | `/premium` | 👑 View subscription plan and usage limits |
 | `/changelog` | 📋 View bot version history |
 | `/support` | 💬 Contact support |
@@ -226,7 +232,6 @@ The bot operates on both **Telegram** and **Discord** simultaneously, with a sha
 |---------|-------------|
 | `/addmember [FID] [TAG]` | ➕ Add a member to your alliance |
 | `/removemember [FID] [TAG]` | ➖ Remove a member |
-| `/bulkadd [FIDs] [TAG]` | 📥 Bulk add multiple members |
 | `/history [FID]` | 🕵️ View a player's full change history |
 | `/delete` | 🗑️ Delete your own account |
 
@@ -460,6 +465,12 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 <div align="center">
+
+<a href="https://woscontrol.com">
+<img src="https://img.shields.io/badge/🌐_WEBSITE-woscontrol%2Ecom-FF6600?style=for-the-badge&labelColor=222222" alt="woscontrol.com" height="45">
+</a>
+
+<br><br>
 
 **v1.10.0** · Last updated: 2026-03-14
 
