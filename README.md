@@ -13,8 +13,8 @@
 
 <br>
 
-[![Version](https://img.shields.io/badge/version-v1.9.0-brightgreen?style=flat-square)]()
-[![Changelog](https://img.shields.io/badge/changelog-v1.9.0-blue?style=flat-square)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-v1.10.0-brightgreen?style=flat-square)]()
+[![Changelog](https://img.shields.io/badge/changelog-v1.10.0-blue?style=flat-square)](CHANGELOG.md)
 [![Python](https://img.shields.io/badge/Python-3.13+-3776AB?style=flat-square&logo=python&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-4169E1?style=flat-square&logo=postgresql&logoColor=white)]()
 [![Platform](https://img.shields.io/badge/Platform-Telegram%20%2B%20Discord-blue?style=flat-square)]()
@@ -46,14 +46,14 @@
 
 ---
 
-## 🔢 Latest Version: v1.9.0
+## 🔢 Latest Version: v1.10.0
 
-> **Released:** 2026-03-11
+> **Released:** 2026-03-14
 
-  - **Transfer Tracker**: Auto-monitors wiki for new transfer schedules, AI image analysis, Google Sheets update
-  - **Wiki Items Tracker**: Monitors new game items from wiki, AI translation, broadcast to groups
-  - **Wiki Events Tracker**: Monitors game events (official + Korean leaks), multi-image albums
-  - **Beautiful Bear Trap Notifications**: Competitor-quality design with hero recommendations (P2W/F2P)
+  - **Interactive Map Commands (Discord)**: /map, /mapimage, /setcoord, /place, /placemember slash commands
+  - **Auto Hive Formation Types**: 4 placement patterns — Diamond, Square, Cross, Compact (bot + web)
+  - **Setcoord Interactive Flow**: Building type selection: City, HQ, Trap, Flag, Farm, Mine, Water, Mountain
+  - **Hero Guide**: /hero command with 60+ heroes, tier list, Bear Trap recommendations, wiki links
 
 > 📋 **[Full Changelog →](CHANGELOG.md)**
 
@@ -461,7 +461,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 <div align="center">
 
-**v1.9.0** · Last updated: 2026-03-14
+**v1.10.0** · Last updated: 2026-03-14
 
 <br>
 
