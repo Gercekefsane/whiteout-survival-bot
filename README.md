@@ -461,7 +461,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 <div align="center">
 
-**v1.9.0** · Last updated: 2026-03-13
+**v1.9.0** · Last updated: 2026-03-14
 
 <br>
 
