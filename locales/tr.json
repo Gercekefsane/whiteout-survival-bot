@@ -1250,5 +1250,15 @@
   "lb_no_codes": "Henüz hediye kodu verisi yok.",
   "unlinked_group_title": "Alliance Kurulumu Gerekli",
   "unlinked_group_desc": "Bu grupta henüz bir alliance oluşturulmamış.\n\nBot özelliklerini kullanabilmek için bir alliance kurulumu yapılmalıdır:",
-  "unlinked_group_hint": "Kurulum için: /setupalliance [TAG] [İsim]\n\n• 🎁 Otomatik hediye kodu kullanımı\n• 👥 Üye takibi ve bildirimler\n• 📊 Liderlik tabloları\n• 🔔 Etkinlik hatırlatmaları"
+  "unlinked_group_hint": "Kurulum için: /setupalliance [TAG] [İsim]\n\n• 🎁 Otomatik hediye kodu kullanımı\n• 👥 Üye takibi ve bildirimler\n• 📊 Liderlik tabloları\n• 🔔 Etkinlik hatırlatmaları",
+  "unlinked_dc_title": "Alliance Kurulumu Gerekli",
+  "unlinked_dc_desc": "Bu sunucuda henüz bir alliance oluşturulmamış.",
+  "unlinked_dc_steps": "Kurulum adımları:",
+  "unlinked_dc_step1": "`/addalliance [TAG] [İsim]` — Alliance oluşturun",
+  "unlinked_dc_step2": "`/setgroup [bağlantı_kodu]` — Bu sunucuyu bağlayın",
+  "unlinked_dc_features": "Bot özelliklerinin kilidi açılır:",
+  "unlinked_dc_feat_codes": "Otomatik hediye kodu kullanımı",
+  "unlinked_dc_feat_members": "Üye takibi ve bildirimler",
+  "unlinked_dc_feat_lb": "Liderlik tabloları ve istatistikler",
+  "unlinked_dc_feat_events": "Etkinlik hatırlatmaları"
 }
