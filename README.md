@@ -26,8 +26,8 @@
 
 <br>
 
-[![Version](https://img.shields.io/badge/version-v1.10.0-brightgreen?style=flat-square)]()
-[![Changelog](https://img.shields.io/badge/changelog-v1.10.0-blue?style=flat-square)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-v1.11.0-brightgreen?style=flat-square)]()
+[![Changelog](https://img.shields.io/badge/changelog-v1.11.0-blue?style=flat-square)](CHANGELOG.md)
 [![Python](https://img.shields.io/badge/Python-3.13+-3776AB?style=flat-square&logo=python&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-4169E1?style=flat-square&logo=postgresql&logoColor=white)]()
 [![Platform](https://img.shields.io/badge/Platform-Telegram%20%2B%20Discord-blue?style=flat-square)]()
@@ -59,14 +59,14 @@
 
 ---
 
-## 🔢 Latest Version: v1.10.0
+## 🔢 Latest Version: v1.11.0
 
-> **Released:** 2026-03-14
+> **Released:** 2026-03-15
 
-  - **Interactive Map Commands (Discord)**: /map, /mapimage, /setcoord, /place, /placemember slash commands
-  - **Auto Hive Formation Types**: 4 placement patterns — Diamond, Square, Cross, Compact (bot + web)
-  - **Setcoord Interactive Flow**: Building type selection: City, HQ, Trap, Flag, Farm, Mine, Water, Mountain
-  - **Hero Guide**: /hero command with 60+ heroes, tier list, Bear Trap recommendations, wiki links
+  - **Alliance Leaderboard**: /leaderboard — Furnace rankings, top growers, alliance overview stats
+  - **Inactive Member Detection**: /inactive [days] — Find members with no activity in last N days
+  - **Gift Code Statistics**: /codestats — Detailed redemption stats per code
+  - **WhiteLabel System**: Full bot management with /wl commands and /mybot customer view
 
 > 📋 **[Full Changelog →](CHANGELOG.md)**
 
@@ -479,7 +479,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 <br><br>
 
-**v1.10.0** · Last updated: 2026-03-14
+**v1.11.0** · Last updated: 2026-03-15
 
 <br>
 
