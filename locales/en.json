@@ -1266,5 +1266,8 @@
   "lb_no_inactive": "All members are active!",
   "lb_inactive_count": "inactive members",
   "lb_codestats_title": "Gift Code Statistics",
-  "lb_no_codes": "No gift code data yet."
+  "lb_no_codes": "No gift code data yet.",
+  "unlinked_group_title": "Alliance Setup Required",
+  "unlinked_group_desc": "This group doesn't have an alliance set up yet.\n\nAn alliance must be created to use bot features:",
+  "unlinked_group_hint": "Setup: /setupalliance [TAG] [Name]\n\n• 🎁 Automatic gift code redemption\n• 👥 Member tracking & notifications\n• 📊 Leaderboards & statistics\n• 🔔 Event reminders"
 }
