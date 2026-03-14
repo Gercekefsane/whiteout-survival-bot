@@ -67,6 +67,8 @@
   "user_not_found": "❌ Invalid FID or user not found.",
   "api_error": "❌ Could not fetch user data. API error.",
   "api_timeout_title": "⏳ Game Server Temporarily Unavailable",
+  "api_timeout_retrying": "Automatically retrying...",
+  "api_timeout_failed": "Could not reach the game server. Please try again in a few minutes.",
   "api_timeout_desc": "Could not connect to the game server. This is usually a temporary issue.\n\n💡 Please try again in a few minutes.",
   "retry_register": "🔄 Retry",
   "members_list_title": "👥 <b>Alliance Members:</b>",
