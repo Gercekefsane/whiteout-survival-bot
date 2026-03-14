@@ -1176,5 +1176,13 @@
   "map_setcoord_invalid": "❌ Koordinatlar sayı olmalıdır.",
   "map_setcoord_not_linked": "❌ Oyun hesabınız bu alliance'a bağlı değil.\nÖnce /register kullanın.",
   "map_no_active_map": "❌ Bu alliance için aktif harita bulunamadı.",
-  "map_position_updated": "✅ <b>Konum Güncellendi</b>\n\nOyuncu: <b>{nickname}</b>\nHarita: <b>{map_name}</b>\nKonum: <b>({x}, {y})</b>"
+  "map_position_updated": "✅ <b>Konum Güncellendi</b>\n\nOyuncu: <b>{nickname}</b>\nHarita: <b>{map_name}</b>\nKonum: <b>({x}, {y})</b>",
+  "register_complete_button": "✅ Kaydı Tamamla ve Bildirimleri Aç",
+  "register_dm_pending_notice": "⏳ <b>Kayıt neredeyse tamamlandı - son adım!</b>\n\n📲 Bildirimleri etkinleştirmek ve hediye kodlarını almak için butona dokunun.\n\n💡 Buton, kaydı tamamlamak için bot ile özel sohbet açacaktır.",
+  "register_confirmed_title": "✅ FID Onaylandı!",
+  "register_confirmed_processing": "⏳ İşleniyor...\n\n🎁 Hediye kodları kontrol ediliyor...\n📋 Google formları gönderiliyor...\n\nLütfen bekleyin, kısa sürede tamamlanacak.",
+  "register_confirmed_complete": "🎉 Tüm İşlemler Tamamlandı!",
+  "register_confirmed_dm_enabled": "🔔 Artık size kişisel bildirimler gönderebiliriz!\n\n💡 Ayarları değiştirmek için /mynotifications",
+  "register_confirm_button": "✅ Evet, Bilgiler Doğru",
+  "register_confirm_prompt": "ℹ️ Bilgileriniz doğru mu?"
 }
