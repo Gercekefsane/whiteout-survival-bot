@@ -63,10 +63,10 @@
 
 > **Released:** 2026-03-15
 
-  - **Alliance Leaderboard**: /leaderboard — Furnace rankings, top growers, alliance overview stats
-  - **Inactive Member Detection**: /inactive [days] — Find members with no activity in last N days
-  - **Gift Code Statistics**: /codestats — Detailed redemption stats per code
-  - **WhiteLabel System**: Full bot management with /wl commands and /mybot customer view
+  - **Website i18n System**: Full 4-language support (EN/TR/RU/KO) with 500+ translation keys across all pages
+  - **Korean Language**: Complete Korean locale added for both bot and website
+  - **Gift Code Web Redemption**: Job-based redemption system — website creates DB jobs, bot processes them with captcha solving
+  - **Alliance Directory**: woscontrol.com/alliances — Alliance listing with member counts, kingdom info, game types, platform badges
 
 > 📋 **[Full Changelog →](CHANGELOG.md)**
 
