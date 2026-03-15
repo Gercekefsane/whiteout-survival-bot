@@ -1310,5 +1310,9 @@
   "yt_add_views": "total views",
   "yt_add_cover": "Cover",
   "yt_add_avatar": "Avatar",
-  "yt_add_fetched": "📡 Auto-fetched via YouTube Data API v3"
+  "yt_add_fetched": "📡 Auto-fetched via YouTube Data API v3",
+  "premium_payment_success": "Payment Successful!",
+  "premium_payment_activated": "Your premium plan has been activated. Thank you for your purchase!",
+  "premium_payment_cancelled": "Payment Cancelled",
+  "premium_payment_pending": "Your payment is being processed. Plan will be activated shortly."
 }
