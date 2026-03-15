@@ -535,7 +535,7 @@
   "welcome_example": "💡 예시",
   "welcome_footer": "✨ 등록 후 모든 기프트 코드가 자동으로 적용됩니다!",
   "welcome_find_fid": "📍 FID를 이렇게 찾으세요:",
-  "welcome_tg_greeting": "👋 Welcome {user}!\n\n🏰 You joined **[{tag}] {name}**.\n\n━━━━━━━━━━━━━━━━━━━━━━\n📝 **Register & Get Gift Codes!**\n━━━━━━━━━━━━━━━━━━━━━━\n\nTo receive automatic gift codes, you need to register:\n\n**How to register?**\n1️⃣ In game, tap your **Avatar**\n2️⃣ Press **Settings** (⚙️) button\n3️⃣ Copy your **FID** number\n4️⃣ Type here: `/register YOUR_FID`\n\n**Example:** `/register 123456789`\n\n✨ After registration, all gift codes will be automatically applied to your account!",
+  "welcome_tg_greeting": "👋 {user}님 환영합니다!\n\n🏰 **[{tag}] {name}**에 가입했습니다.\n\n━━━━━━━━━━━━━━━━━━━━━━\n📝 **등록하고 기프트 코드를 받으세요!**\n━━━━━━━━━━━━━━━━━━━━━━\n\n자동 기프트 코드를 받으려면 등록이 필요합니다:\n\n**등록 방법**\n1️⃣ 게임에서 **아바타**를 탭하세요\n2️⃣ **설정** (⚙️) 버튼을 누르세요\n3️⃣ **FID** 번호를 복사하세요\n4️⃣ 여기에 입력: `/register 내_FID`\n\n**예시:** `/register 123456789`\n\n✨ 등록 후 모든 기프트 코드가 자동으로 계정에 적용됩니다!",
   "activity_construction": "건설의 날",
   "activity_research": "연구의 날",
   "activity_training": "병력 훈련의 날",
