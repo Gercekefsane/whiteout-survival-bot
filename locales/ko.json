@@ -1310,5 +1310,9 @@
   "yt_add_views": "총 조회수",
   "yt_add_cover": "커버",
   "yt_add_avatar": "아바타",
-  "yt_add_fetched": "📡 YouTube Data API v3로 자동 가져옴"
+  "yt_add_fetched": "📡 YouTube Data API v3로 자동 가져옴",
+  "premium_payment_success": "결제 완료!",
+  "premium_payment_activated": "프리미엄 플랜이 활성화되었습니다. 구매해 주셔서 감사합니다!",
+  "premium_payment_cancelled": "결제 취소됨",
+  "premium_payment_pending": "결제가 처리 중입니다. 곧 플랜이 활성화됩니다."
 }
