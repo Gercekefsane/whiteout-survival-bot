@@ -1314,5 +1314,18 @@
   "premium_payment_success": "결제 완료!",
   "premium_payment_activated": "프리미엄 플랜이 활성화되었습니다. 구매해 주셔서 감사합니다!",
   "premium_payment_cancelled": "결제 취소됨",
-  "premium_payment_pending": "결제가 처리 중입니다. 곧 플랜이 활성화됩니다."
+  "premium_payment_pending": "결제가 처리 중입니다. 곧 플랜이 활성화됩니다.",
+  "premium_expiry_7d": "📢 구독 만료 예정",
+  "premium_expiry_3d": "⚠️ 긴급: 곧 만료됩니다",
+  "premium_expiry_1d": "🔴 마지막 날: 내일 만료",
+  "premium_expiry_warn_group": "📦 <b>[{tag}]</b> {plan} 플랜이 <b>{days}일</b> 후 만료됩니다.",
+  "premium_expiry_warn_renew": "모든 기능을 유지하려면 지금 갱신하세요!",
+  "premium_expired_title": "⏰ 구독 만료",
+  "premium_expired_plan_change": "📦 {plan} → <b>무료</b>",
+  "premium_expired_grace": "⏳ <b>{days}일 유예 기간 시작</b>",
+  "premium_expired_grace_info": "이 기간 동안 모든 멤버가 기프트 코드를 계속 받을 수 있습니다.",
+  "premium_expired_grace_ends": "유예 기간 종료: {date}",
+  "premium_expired_over_limit": "⚠️ 유예 기간 후 <b>{excess}</b>명의 멤버가 기프트 코드를 받을 수 없습니다.",
+  "premium_expired_priority": "우선순위: 먼저 등록한 멤버가 활성 상태를 유지합니다.",
+  "premium_expired_renew": "💡 /premium - 갱신"
 }
