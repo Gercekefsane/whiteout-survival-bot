@@ -1292,6 +1292,8 @@
   "yt_welcome_desc": "You have been selected as a YouTuber partner by WOS Control.",
   "yt_welcome_page": "Your channel is now listed on our YouTubers page:",
   "yt_welcome_promo_info": "When you publish a video with 'woscontrol' in the title or description, you'll be automatically featured on our page!",
+  "yt_welcome_how_to_featured_title": "How to Get Featured?",
+  "yt_welcome_how_to_featured": "1️⃣ Publish a YouTube video about Whiteout Survival\n2️⃣ Include the word <b>woscontrol</b> in the video title or description\n3️⃣ Our system automatically detects it and promotes you to ⭐ Featured!\n\n💡 Example title: \"Best WOS Tips — woscontrol.com\"",
   "yt_welcome_featured_reward": "⭐ Featured status lasts 7 days and renews with each new promotion video.",
   "yt_welcome_contact": "If you have questions, contact us:",
   "yt_promo_thanks_title": "🎉 Thank you {channel_name}!",
