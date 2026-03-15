@@ -2,6 +2,46 @@
 
 All notable changes to this project are documented here.
 
+## v2.0.0 — 2026-03-15
+
+### ✨ Added
+- **Website i18n System**: Full 4-language support (EN/TR/RU/KO) with 500+ translation keys across all pages
+- **Korean Language**: Complete Korean locale added for both bot and website
+- **Gift Code Web Redemption**: Job-based redemption system — website creates DB jobs, bot processes them with captcha solving
+- **Alliance Directory**: woscontrol.com/alliances — Alliance listing with member counts, kingdom info, game types, platform badges
+- **Alliance Detail Modal**: Leaderboard (top 10 players), gift code stats, game distribution, FC level mapping
+- **Alliance Join System**: Bot-powered join via DM invite — login → select platform → bot sends invite link
+- **YouTuber System**: YouTube Data API v3 integration — auto-fetch channel info, banners, subscriber/view counts
+- **YouTuber Promotion Videos**: Auto-detect woscontrol videos via RSS, show in Tanıtım modal on each card
+- **YouTuber Auto-Feature**: Auto-promote YouTubers with woscontrol videos in last 7 days to Featured
+- **YouTuber Notifications**: Bot sends thank you DM to YouTubers when promotion video detected
+- **YouTuber Welcome DM**: /addyoutuber sends welcome DM to verify bot can reach the YouTuber
+- **FOMO Widget**: Social proof notifications — member joins, code redeems, new codes, new YouTubers, alliance web joins
+- **Golden CTA Banner**: Animated gift code banner on homepage with sparkle effects
+- **Profile Alliance Info**: Show alliance, plan, member count/limit, gift code stats on profile page
+- **SEO Improvements**: sitemap.xml, hreflang tags, structured metadata
+- **Browser Fingerprint**: Anti-abuse fingerprint system with localStorage persistence for gift code rate limiting
+- **Auto Alliance Info Refresh**: Bot refreshes group names and invite links hourly
+- **YouTube Auto-Refresh**: 15-minute refresh interval for YouTuber data from config
+
+### 🔧 Fixed
+- **Telegram Auth**: Use actual TelegramLogin widget everywhere, strip non-TG params from hash verification
+- **Premium Table Error**: Fixed 'premium nesnesi mevcut değil' — use alliance_subscriptions + premium_plans
+- **FC Level Display**: Show FC3-4 instead of raw 49 using LEVEL_MAPPING
+- **Discord Join**: Fixed 'Timeout context manager' error with run_coroutine_threadsafe
+- **Mobile Responsive**: Global overflow-x hidden, responsive FOMO widget, alliance cards
+- **Wrong Telegram Links**: Fixed 4 WhiteOutSurvival_Bot → WhiteoutGuildBot
+- **Login Redirect**: Discord OAuth returns to originating page (alliances/profile) instead of /codes
+
+### 🔄 Changed
+- **Bot Messages Localized**: Web join notifications, YouTuber messages use get_text() from locales/*.json
+- **Country Flags**: Flag emojis only — no text codes like TR/US
+- **/addyoutuber**: Rewritten — YouTube API auto-fetch, promo video check, welcome DM verification
+- **Alliance Join Modal**: Platform-matching login buttons, proper join context text
+- **YouTuber Cards**: Redesigned with banners, view counts, country flags, action buttons
+
+---
+
 ## v1.11.0 — 2026-03-15
 
 ### ✨ Added
