@@ -1240,5 +1240,9 @@
   "yt_add_views": "просмотров",
   "yt_add_cover": "Обложка",
   "yt_add_avatar": "Аватар",
-  "yt_add_fetched": "📡 Автоматически через YouTube Data API v3"
+  "yt_add_fetched": "📡 Автоматически через YouTube Data API v3",
+  "premium_payment_success": "Оплата прошла успешно!",
+  "premium_payment_activated": "Ваш премиум план активирован. Спасибо за покупку!",
+  "premium_payment_cancelled": "Оплата отменена",
+  "premium_payment_pending": "Ваш платёж обрабатывается. План будет активирован в ближайшее время."
 }
