@@ -31,7 +31,7 @@
 [![Python](https://img.shields.io/badge/Python-3.13+-3776AB?style=flat-square&logo=python&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-4169E1?style=flat-square&logo=postgresql&logoColor=white)]()
 [![Platform](https://img.shields.io/badge/Platform-Telegram%20%2B%20Discord-blue?style=flat-square)]()
-[![Languages](https://img.shields.io/badge/Languages-EN%20%7C%20RU%20%7C%20TR-orange?style=flat-square)](locales/)
+[![Languages](https://img.shields.io/badge/Languages-EN%20%7C%20KO%20%7C%20RU%20%7C%20TR-orange?style=flat-square)](locales/)
 [![Uptime](https://img.shields.io/badge/Uptime-24%2F7-brightgreen?style=flat-square)]()
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/Gercekefsane/whiteout-survival-bot?style=flat-square)]()
@@ -409,6 +409,7 @@ Your **FID (Fighter ID)** is your unique player identifier in WhiteOut Survival.
 | Language | Code | Status |
 |----------|------|--------|
 | 🇬🇧 English | `en` | ✅ Full |
+| 🇰🇷 한국어 | `ko` | ✅ Full |
 | 🇷🇺 Русский | `ru` | ✅ Full |
 | 🇹🇷 Türkçe | `tr` | ✅ Full |
 
