@@ -1295,5 +1295,18 @@
   "premium_payment_success": "Ödeme Başarılı!",
   "premium_payment_activated": "Premium planınız aktif edildi. Satın aldığınız için teşekkürler!",
   "premium_payment_cancelled": "Ödeme İptal Edildi",
-  "premium_payment_pending": "Ödemeniz işleniyor. Plan kısa sürede aktif edilecek."
+  "premium_payment_pending": "Ödemeniz işleniyor. Plan kısa sürede aktif edilecek.",
+  "premium_expiry_7d": "📢 Abonelik Bitiyor",
+  "premium_expiry_3d": "⚠️ ACİL: Abonelik Yakında Bitiyor",
+  "premium_expiry_1d": "🔴 SON GÜN: Yarın Bitiyor",
+  "premium_expiry_warn_group": "📦 <b>[{tag}]</b> {plan} planı <b>{days} gün</b> sonra bitiyor.",
+  "premium_expiry_warn_renew": "Tüm özelliklerinizi korumak için şimdi yenileyin!",
+  "premium_expired_title": "⏰ Abonelik Bitti",
+  "premium_expired_plan_change": "📦 {plan} → <b>Ücretsiz</b>",
+  "premium_expired_grace": "⏳ <b>{days} günlük geçiş süreci başladı</b>",
+  "premium_expired_grace_info": "Bu sürede tüm üyeler hediye kodu almaya devam eder.",
+  "premium_expired_grace_ends": "Geçiş bitiş: {date}",
+  "premium_expired_over_limit": "⚠️ Geçiş sonrası <b>{excess}</b> üye hediye kodu alamayacak.",
+  "premium_expired_priority": "Öncelik: İlk kaydolan üyeler aktif kalır.",
+  "premium_expired_renew": "💡 /premium - Yenile"
 }
