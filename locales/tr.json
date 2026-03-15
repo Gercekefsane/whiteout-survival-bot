@@ -1291,5 +1291,9 @@
   "yt_add_views": "toplam izlenme",
   "yt_add_cover": "Kapak",
   "yt_add_avatar": "Avatar",
-  "yt_add_fetched": "📡 YouTube Data API v3 ile otomatik alındı"
+  "yt_add_fetched": "📡 YouTube Data API v3 ile otomatik alındı",
+  "premium_payment_success": "Ödeme Başarılı!",
+  "premium_payment_activated": "Premium planınız aktif edildi. Satın aldığınız için teşekkürler!",
+  "premium_payment_cancelled": "Ödeme İptal Edildi",
+  "premium_payment_pending": "Ödemeniz işleniyor. Plan kısa sürede aktif edilecek."
 }
