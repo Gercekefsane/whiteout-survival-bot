@@ -1298,5 +1298,17 @@
   "yt_add_views": "총 조회수",
   "yt_add_cover": "커버",
   "yt_add_avatar": "아바타",
-  "yt_add_fetched": "📡 YouTube Data API v3로 자동 가져옴"
+  "yt_add_fetched": "📡 YouTube Data API v3로 자동 가져옴",
+  "setlang_available": "사용 가능한 언어",
+  "setlang_usage": "사용법",
+  "setlang_invalid": "잘못된 언어 코드입니다.",
+  "setlang_success": "언어가 성공적으로 변경되었습니다!",
+  "error_generic": "오류가 발생했습니다. 다시 시도하세요.",
+  "bot_not_admin": "❌ 봇에 관리자 권한이 없습니다!\n\n봇을 관리자로 설정하고 다음 권한을 부여하세요:\n• 채팅 관리\n• 사용자 초대 (초대 링크 생성)\n• 멤버 제한/차단",
+  "bot_no_invite_permission": "❌ 봇에 초대 링크 생성 권한이 없습니다!\n\n봇 관리자 설정에서 '사용자 초대' 권한을 활성화하세요.",
+  "bot_no_restrict_permission": "❌ 봇이 멤버를 관리할 수 없습니다!\n\n봇 관리자 설정에서 '멤버 제한' 권한을 활성화하세요.",
+  "bot_permission_check_failed": "❌ 봇 권한을 확인할 수 없습니다. 봇이 관리자인가요?",
+  "bot_permissions_insufficient": "⚠️ 이 그룹에서 봇 권한이 부족합니다!\n\n필요한 권한:\n{permissions}\n\n봇 관리자 설정을 업데이트하세요.",
+  "yt_welcome_how_to_featured_title": "추천 등록 방법",
+  "yt_welcome_how_to_featured": "1️⃣ Whiteout Survival 관련 YouTube 영상을 게시하세요\n2️⃣ 영상 제목이나 설명에 <b>woscontrol</b>을 포함하세요\n3️⃣ 시스템이 자동으로 감지하여 ⭐ 추천으로 등록합니다!\n\n💡 제목 예시: \"Best WOS Tips — woscontrol.com\""
 }
