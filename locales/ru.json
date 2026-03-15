@@ -1244,5 +1244,18 @@
   "premium_payment_success": "Оплата прошла успешно!",
   "premium_payment_activated": "Ваш премиум план активирован. Спасибо за покупку!",
   "premium_payment_cancelled": "Оплата отменена",
-  "premium_payment_pending": "Ваш платёж обрабатывается. План будет активирован в ближайшее время."
+  "premium_payment_pending": "Ваш платёж обрабатывается. План будет активирован в ближайшее время.",
+  "premium_expiry_7d": "📢 Подписка заканчивается",
+  "premium_expiry_3d": "⚠️ СРОЧНО: Скоро заканчивается",
+  "premium_expiry_1d": "🔴 ПОСЛЕДНИЙ ДЕНЬ: Истекает завтра",
+  "premium_expiry_warn_group": "📦 <b>[{tag}]</b> план {plan} истекает через <b>{days} дн.</b>",
+  "premium_expiry_warn_renew": "Продлите сейчас, чтобы сохранить все функции!",
+  "premium_expired_title": "⏰ Подписка истекла",
+  "premium_expired_plan_change": "📦 {plan} → <b>Бесплатный</b>",
+  "premium_expired_grace": "⏳ <b>Начался переходный период {days} дн.</b>",
+  "premium_expired_grace_info": "Все участники продолжают получать коды в этот период.",
+  "premium_expired_grace_ends": "Переходный период до: {date}",
+  "premium_expired_over_limit": "⚠️ После переходного периода <b>{excess}</b> участников потеряют доступ к кодам.",
+  "premium_expired_priority": "Приоритет: Первые зарегистрированные участники остаются активными.",
+  "premium_expired_renew": "💡 /premium - Продлить"
 }
