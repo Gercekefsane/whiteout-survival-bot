@@ -1314,5 +1314,18 @@
   "premium_payment_success": "Payment Successful!",
   "premium_payment_activated": "Your premium plan has been activated. Thank you for your purchase!",
   "premium_payment_cancelled": "Payment Cancelled",
-  "premium_payment_pending": "Your payment is being processed. Plan will be activated shortly."
+  "premium_payment_pending": "Your payment is being processed. Plan will be activated shortly.",
+  "premium_expiry_7d": "📢 Subscription Expiring",
+  "premium_expiry_3d": "⚠️ URGENT: Expiring Soon",
+  "premium_expiry_1d": "🔴 LAST DAY: Expires Tomorrow",
+  "premium_expiry_warn_group": "📦 <b>[{tag}]</b> {plan} plan expires in <b>{days} day(s)</b>.",
+  "premium_expiry_warn_renew": "Renew now to keep all your features!",
+  "premium_expired_title": "⏰ Subscription Expired",
+  "premium_expired_plan_change": "📦 {plan} → <b>Free</b>",
+  "premium_expired_grace": "⏳ <b>{days}-day grace period started</b>",
+  "premium_expired_grace_info": "All members keep receiving gift codes during this period.",
+  "premium_expired_grace_ends": "Grace ends: {date}",
+  "premium_expired_over_limit": "⚠️ After grace, <b>{excess}</b> members will lose gift code access.",
+  "premium_expired_priority": "Priority: First registered members stay active.",
+  "premium_expired_renew": "💡 /premium - Renew"
 }
