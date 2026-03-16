@@ -1310,6 +1310,7 @@
   "premium_expired_renew": " /premium - Yenile",
   "migrate_title": "Göç Hesaplayıcı",
   "migrate_current_state": "Mevcut Eyalet",
+  "migrate_first_state": "İlk Eyalet",
   "migrate_state_age": "Eyalet Yaşı",
   "migrate_eligibility": "Transfer Uygunluğu",
   "migrate_required_days": "Gereken Eyalet Yaşı",
@@ -1331,6 +1332,14 @@
   "migrate_select_account": "Kontrol etmek istediğiniz hesabı seçin",
   "migrate_enter_state": "Eyalet Numaranızı Girin",
   "migrate_enter_state_hint": "Krallık/eyalet numarasını girin (örn. 1124)",
+  "migrate_enter_first_state": "İLK Eyalet Numaranızı Girin",
+  "migrate_enter_first_state_hint": "Oyuna ilk başladığınız eyaleti girin (transfer yaptıysanız mevcut eyaletiniz değil)",
   "migrate_calculating": "Göç seçenekleri hesaplanıyor...",
-  "migrate_state_error": "Eyalet verisi alınamadı"
+  "migrate_state_error": "Eyalet verisi alınamadı",
+  "migrate_future_fc_title": "Gelecekteki FC Seviye Etkisi",
+  "migrate_already_unlocked": "eyaletinizde zaten açık",
+  "migrate_if_upgrade": "Yükseltirseniz gereksinim şu olur",
+  "migrate_unlocks_in": "açılmasına kalan",
+  "migrate_see_transfer": "Transfer takvimi ve güç limitleri: /transfer",
+  "transfer_see_migrate": "Göç hesaplayıcı: /migrate"
 }
