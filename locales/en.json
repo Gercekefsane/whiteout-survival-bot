@@ -1389,5 +1389,16 @@
   "migrate_if_upgrade": "If you upgrade, requirement becomes",
   "migrate_unlocks_in": "unlocks in",
   "migrate_see_transfer": "Transfer schedule & power limits: /transfer",
-  "transfer_see_migrate": "Migration calculator: /migrate"
+  "transfer_see_migrate": "Migration calculator: /migrate",
+  "captcha_stats_title": "Captcha Solver Statistics",
+  "captcha_active": "Active",
+  "captcha_inactive": "Inactive",
+  "captcha_session": "This session",
+  "captcha_today": "Today",
+  "captcha_week": "Last 7 Days",
+  "captcha_alltime": "All Time",
+  "captcha_daily": "Daily Chart",
+  "captcha_no_data": "No data yet",
+  "web_giftcodes_link": "🌐 Redeem gift codes on web: https://woscontrol.com/codes",
+  "web_alliances_link": "🌐 View your alliance on web: https://woscontrol.com/alliances"
 }
