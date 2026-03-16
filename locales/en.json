@@ -1399,6 +1399,11 @@
   "captcha_alltime": "All Time",
   "captcha_daily": "Daily Chart",
   "captcha_no_data": "No data yet",
+  "captcha_total_solved": "Total solved",
+  "captcha_avg_speed": "Avg speed",
+  "captcha_codes_redeemed": "Codes redeemed",
+  "captcha_unique_codes": "unique codes",
+  "captcha_by_solver": "By Solver",
   "web_giftcodes_link": "🌐 Redeem gift codes on web: https://woscontrol.com/codes",
   "web_alliances_link": "🌐 View your alliance on web: https://woscontrol.com/alliances"
 }
