@@ -1359,5 +1359,7 @@
   "migrate_future_fc_title": "Future FC Tier Impact",
   "migrate_already_unlocked": "is already unlocked in your state",
   "migrate_if_upgrade": "If you upgrade, requirement becomes",
-  "migrate_unlocks_in": "unlocks in"
+  "migrate_unlocks_in": "unlocks in",
+  "migrate_see_transfer": "Transfer schedule & power limits: /transfer",
+  "transfer_see_migrate": "Migration calculator: /migrate"
 }
