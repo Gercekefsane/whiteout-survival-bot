@@ -1330,6 +1330,7 @@
   "premium_expired_renew": "💡 /premium - Renew",
   "migrate_title": "Migration Calculator",
   "migrate_current_state": "Current State",
+  "migrate_first_state": "First State",
   "migrate_state_age": "State Age",
   "migrate_eligibility": "Transfer Eligibility",
   "migrate_required_days": "Required State Age",
@@ -1351,6 +1352,12 @@
   "migrate_select_account": "Select the account to check",
   "migrate_enter_state": "Enter Your State Number",
   "migrate_enter_state_hint": "Enter the kingdom/state number (e.g. 1124)",
+  "migrate_enter_first_state": "Enter Your FIRST State Number",
+  "migrate_enter_first_state_hint": "Enter the state you were FIRST placed in (not your current state if you transferred)",
   "migrate_calculating": "Calculating migration options...",
-  "migrate_state_error": "Could not fetch state data"
+  "migrate_state_error": "Could not fetch state data",
+  "migrate_future_fc_title": "Future FC Tier Impact",
+  "migrate_already_unlocked": "is already unlocked in your state",
+  "migrate_if_upgrade": "If you upgrade, requirement becomes",
+  "migrate_unlocks_in": "unlocks in"
 }
