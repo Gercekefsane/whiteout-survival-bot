@@ -1379,6 +1379,11 @@
   "captcha_alltime": "Tüm Zamanlar",
   "captcha_daily": "Günlük Grafik",
   "captcha_no_data": "Henüz veri yok",
+  "captcha_total_solved": "Toplam çözülen",
+  "captcha_avg_speed": "Ort. hız",
+  "captcha_codes_redeemed": "Kullanılan kodlar",
+  "captcha_unique_codes": "benzersiz kod",
+  "captcha_by_solver": "Çözücüye Göre",
   "web_giftcodes_link": "🌐 Hediye kodlarını web'den kullan: https://woscontrol.com/codes",
   "web_alliances_link": "🌐 İttifakını web'de gör: https://woscontrol.com/alliances"
 }
