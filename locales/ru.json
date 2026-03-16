@@ -1319,5 +1319,16 @@
   "migrate_if_upgrade": "Если повысите, требование станет",
   "migrate_unlocks_in": "откроется через",
   "migrate_see_transfer": "Расписание переносов и лимиты: /transfer",
-  "transfer_see_migrate": "Калькулятор миграции: /migrate"
+  "transfer_see_migrate": "Калькулятор миграции: /migrate",
+  "captcha_stats_title": "Статистика решателя капчи",
+  "captcha_active": "Активен",
+  "captcha_inactive": "Неактивен",
+  "captcha_session": "Эта сессия",
+  "captcha_today": "Сегодня",
+  "captcha_week": "Последние 7 дней",
+  "captcha_alltime": "За всё время",
+  "captcha_daily": "Дневной график",
+  "captcha_no_data": "Данных пока нет",
+  "web_giftcodes_link": "🌐 Активируй коды на сайте: https://woscontrol.com/codes",
+  "web_alliances_link": "🌐 Смотри свой альянс на сайте: https://woscontrol.com/alliances"
 }
