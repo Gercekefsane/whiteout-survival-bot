@@ -1329,6 +1329,11 @@
   "captcha_alltime": "За всё время",
   "captcha_daily": "Дневной график",
   "captcha_no_data": "Данных пока нет",
+  "captcha_total_solved": "Всего решено",
+  "captcha_avg_speed": "Ср. скорость",
+  "captcha_codes_redeemed": "Использовано кодов",
+  "captcha_unique_codes": "уник. кодов",
+  "captcha_by_solver": "По решателю",
   "web_giftcodes_link": "🌐 Активируй коды на сайте: https://woscontrol.com/codes",
   "web_alliances_link": "🌐 Смотри свой альянс на сайте: https://woscontrol.com/alliances"
 }
