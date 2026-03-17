@@ -26,8 +26,8 @@
 
 <br>
 
-[![Version](https://img.shields.io/badge/version-v2.0.0-brightgreen?style=flat-square)]()
-[![Changelog](https://img.shields.io/badge/changelog-v2.0.0-blue?style=flat-square)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-v3.0.0-brightgreen?style=flat-square)]()
+[![Changelog](https://img.shields.io/badge/changelog-v3.0.0-blue?style=flat-square)](CHANGELOG.md)
 [![Python](https://img.shields.io/badge/Python-3.13+-3776AB?style=flat-square&logo=python&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-4169E1?style=flat-square&logo=postgresql&logoColor=white)]()
 [![Platform](https://img.shields.io/badge/Platform-Telegram%20%2B%20Discord-blue?style=flat-square)]()
@@ -59,14 +59,14 @@
 
 ---
 
-## 🔢 Latest Version: v2.0.0
+## 🔢 Latest Version: v3.0.0
 
-> **Released:** 2026-03-15
+> **Released:** 2026-03-17
 
-  - **Website i18n System**: Full 4-language support (EN/TR/RU/KO) with 500+ translation keys across all pages
-  - **Korean Language**: Complete Korean locale added for both bot and website
-  - **Gift Code Web Redemption**: Job-based redemption system — website creates DB jobs, bot processes them with captcha solving
-  - **Alliance Directory**: woscontrol.com/alliances — Alliance listing with member counts, kingdom info, game types, platform badges
+  - **Hero Database (Dynamic)**: Heroes page now fetches data from PostgreSQL instead of static embedded data — auto-updates when wiki scraper detects new heroes
+  - **Hero Detail Modal**: Click any hero to see full story, skills, charm abilities, and portrait image — all translated per user language
+  - **Hero Wiki Scraper (Korean)**: Added Korean (ko) to auto-translation pipeline — all heroes now translated to EN/TR/RU/KO via OpenAI
+  - **Heroes API Endpoint**: /api/heroes?lang=xx serves hero data from DB with translation overlay for any supported language
 
 > 📋 **[Full Changelog →](CHANGELOG.md)**
 
@@ -132,7 +132,7 @@ The bot operates on both **Telegram** and **Discord** simultaneously, with a sha
 
 ### 🌐 Multi-Platform & Multi-Language
 - **Telegram + Discord** — full feature parity, shared database
-- **English, Turkish, Russian** — per-group language configuration
+- **English, Turkish, Russian, Korean** — per-group language configuration
 - **Cross-platform sync** — register on Telegram, see data on Discord (and vice versa)
 - **🆕 Want to add your language?** Translation files are in [`/locales/`](locales/)
 
@@ -480,7 +480,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 <br><br>
 
-**v2.0.0** · Last updated: 2026-03-17
+**v3.0.0** · Last updated: 2026-03-17
 
 <br>
 
