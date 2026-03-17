@@ -2,6 +2,32 @@
 
 All notable changes to this project are documented here.
 
+## v3.0.0 — 2026-03-17
+
+### ✨ Added
+- **Hero Database (Dynamic)**: Heroes page now fetches data from PostgreSQL instead of static embedded data — auto-updates when wiki scraper detects new heroes
+- **Hero Detail Modal**: Click any hero to see full story, skills, charm abilities, and portrait image — all translated per user language
+- **Hero Wiki Scraper (Korean)**: Added Korean (ko) to auto-translation pipeline — all heroes now translated to EN/TR/RU/KO via OpenAI
+- **Heroes API Endpoint**: /api/heroes?lang=xx serves hero data from DB with translation overlay for any supported language
+- **Announcements Page**: /announcements — Browse game announcements with game filter (WOS/KS), search, expandable cards, load more pagination
+- **Announcements API**: /api/announcements — Fetches from game_announcements DB table with language/game filtering and pagination
+- **Player Search Page**: /player-search — Search any player by FID, view profile card with furnace level, kingdom, alliance, gift code history, change history
+- **Player Search API**: /api/player-search — Internal endpoint with game API + DB fallback, gift codes, change history
+- **Alliance Dashboard**: /dashboard — Auth-gated dashboard with alliance stats, searchable member table, code history, export/settings
+- **Website Navigation**: Added Announcements, Player Search, Dashboard links to navbar with full localization
+- **Locale Keys (80+)**: Added 80+ translation keys across all 4 languages for announcements, player search, and dashboard pages
+
+### 🔧 Fixed
+- **Gift Code Limit Distinction**: Properly separate 40005 (LIMIT_REACHED) vs 40008 (ALREADY_USED) — 4-column progress grid, per-item icons, limit badges
+- **Heroes Static Data**: Replaced hardcoded hero list with DB-powered dynamic data — new heroes auto-appear after wiki scan
+
+### 🔄 Changed
+- **Hero Page Architecture**: Moved from client-side static data to API-driven architecture with PostgreSQL backend
+- **Hero Cards**: Now show hero portrait images from wiki, clickable for full detail modal
+- **Version Bump**: 2.0.0 → 3.0.0
+
+---
+
 ## v2.0.0 — 2026-03-15
 
 ### ✨ Added
