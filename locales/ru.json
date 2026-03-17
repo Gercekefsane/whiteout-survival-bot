@@ -1335,5 +1335,21 @@
   "captcha_unique_codes": "уник. кодов",
   "captcha_by_solver": "По решателю",
   "web_giftcodes_link": "🌐 Активируй коды на сайте: https://woscontrol.com/codes",
-  "web_alliances_link": "🌐 Смотри свой альянс на сайте: https://woscontrol.com/alliances"
+  "web_alliances_link": "🌐 Смотри свой альянс на сайте: https://woscontrol.com/alliances",
+  "gc_redemption_title": "🎁 Активация подарочного кода",
+  "gc_complete_title": "✅ Активация завершена",
+  "gc_expired_title": "⏰ Код истёк",
+  "gc_invalid_title": "❌ Код недействителен",
+  "gc_limit_reached_title": "🚫 Лимит кода исчерпан",
+  "gc_code": "Код",
+  "gc_total": "Всего",
+  "gc_processing": "Обработка",
+  "gc_success": "Успешно",
+  "gc_already_used": "Уже использован",
+  "gc_limit_reached": "Лимит исчерпан",
+  "gc_failed": "Ошибка",
+  "gc_reason": "Причина",
+  "gc_processed": "Обработано",
+  "gc_error_breakdown": "Детали ошибок",
+  "gc_more": "ещё"
 }
