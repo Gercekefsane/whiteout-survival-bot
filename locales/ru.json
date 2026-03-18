@@ -635,6 +635,7 @@
   "delete_warning": "Это удалит участника из отслеживания.",
   "yes_delete": "Да, удалить",
   "profile_title": "Ваш профиль",
+  "profile_select": "Выберите аккаунт",
   "profile_no_fid": "FID не привязан к вашему аккаунту",
   "profile_usage": "Использование",
   "giftcode_stats": "Статистика подарочных кодов",
