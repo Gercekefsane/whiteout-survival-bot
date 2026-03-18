@@ -635,6 +635,7 @@
   "delete_warning": "This will remove the member from tracking.",
   "yes_delete": "Yes, Delete",
   "profile_title": "Your Profile",
+  "profile_select": "Select Account",
   "profile_no_fid": "No FID linked to your account",
   "profile_usage": "Usage",
   "giftcode_stats": "Gift Code Statistics",
