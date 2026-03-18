@@ -1365,5 +1365,10 @@
   "migrate_if_upgrade": "업그레이드하면 요구사항이 변경됩니다",
   "migrate_unlocks_in": "해금까지 남은 기간",
   "migrate_see_transfer": "이전 일정 및 전력 제한: /transfer",
+  "migrate_max_target": "최대 이동 가능 스테이트",
+  "migrate_same_age_only": "같은 나이의 스테이트만",
+  "migrate_target_when_eligible": "자격 획득 시 목표",
+  "migrate_daily_range_info": "자격 획득 후 매일 범위가 ~4-5 스테이트씩 증가합니다.",
+  "days_short": "일",
   "transfer_see_migrate": "이주 계산기: /migrate"
 }
