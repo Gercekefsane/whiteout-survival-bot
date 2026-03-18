@@ -1396,5 +1396,19 @@
   "captcha_unique_codes": "benzersiz kod",
   "captcha_by_solver": "Çözücüye Göre",
   "web_giftcodes_link": "🌐 Hediye kodlarını web'den kullan: https://woscontrol.com/codes",
-  "web_alliances_link": "🌐 İttifakını web'de gör: https://woscontrol.com/alliances"
+  "web_alliances_link": "🌐 İttifakını web'de gör: https://woscontrol.com/alliances",
+  "codeimage_title": "Hediye Kodu Görseli Yükleme",
+  "codeimage_usage": "Kullanım",
+  "codeimage_reply": "Bir fotoğrafa yanıt verin",
+  "codeimage_caption": "Fotoğrafı açıklamayla gönderin",
+  "codeimage_step": "Adım 1",
+  "codeimage_then_photo": "Adım 2: Fotoğraf gönderin",
+  "codeimage_hint": "Web sitesindeki hediye kodu detaylarına görsel ekler.",
+  "codeimage_not_found": "veritabanında bulunamadı.",
+  "codeimage_send_photo": "Şimdi görsel olarak ayarlamak için bir fotoğraf gönderin:",
+  "codeimage_downloading": "Görsel indiriliyor...",
+  "codeimage_saved": "Görsel kaydedildi!",
+  "codeimage_code": "Kod",
+  "codeimage_website_note": "Görsel web sitesinin kod detaylarında görünecektir.",
+  "codeimage_failed": "Görsel kaydedilemedi"
 }
