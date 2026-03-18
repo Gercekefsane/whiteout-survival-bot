@@ -1324,6 +1324,8 @@
   "migrate_max_target": "Макс. целевой штат",
   "migrate_same_age_only": "только штаты того же возраста",
   "migrate_target_when_eligible": "Цель при получении права",
+  "migrate_fc_locked": "FC уровень ещё не открыт",
+  "migrate_fc_unlocks_at": "Откроется через",
   "migrate_daily_range_info": "Каждый день после получения права диапазон увеличивается на ~4-5 штатов.",
   "days_short": "д",
   "transfer_see_migrate": "Калькулятор миграции: /migrate",
