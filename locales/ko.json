@@ -411,6 +411,7 @@
   "list_notifications": "목록",
   "select_event_type": "이벤트 유형 선택",
   "select_event_desc": "알림을 만들 이벤트를 선택하세요:",
+  "select_trap_count": "몇 개의 트랩을 설정하시겠습니까?",
   "select_time": "HH:MM 형식으로 이벤트 시간을 입력하세요 (24시간, UTC)",
   "time_format_hint": "예시: UTC 오후 2:30은 14:30",
   "notification_added": "알림이 성공적으로 추가되었습니다!",
