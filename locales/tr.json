@@ -436,6 +436,7 @@
   "list_notifications": "Liste",
   "select_event_type": "Etkinlik Türü Seçin",
   "select_event_desc": "Bildirim oluşturmak için bir etkinlik seçin:",
+  "select_trap_count": "Kaç tuzak kurmak istiyorsunuz?",
   "select_time": "Etkinlik saatini SS:DD formatında girin (24 saat, UTC)",
   "time_format_hint": "Örnek: 14:30 UTC için",
   "notification_added": "Bildirim başarıyla eklendi!",
