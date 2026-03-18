@@ -996,6 +996,8 @@
   "delete_remaining": "Kalan silme hakkı (haftalık)",
   "delete_limit_reached": "Bu hafta silme limitinize ulaştınız. 7 gün sonra tekrar deneyebilirsiniz.",
   "delete_enter_fid": "Silmek istediğiniz hesabın FID numarasını girin:",
+  "delete_select_account": "Silmek istediğiniz hesabı seçin:",
+  "back": "Geri",
   "delete_not_yours": "Bu FID size ait değil.",
   "delete_confirm_title": "Hesap Silme Onayı",
   "delete_confirm_warning": " Bu işlem geri alınamaz! Hesap tüm sistemden silinecektir.",
