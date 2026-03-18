@@ -635,6 +635,7 @@
   "delete_warning": "이 멤버가 추적에서 제거됩니다.",
   "yes_delete": "예, 삭제",
   "profile_title": "👤 프로필",
+  "profile_select": "계정 선택",
   "profile_no_fid": "계정에 연결된 FID가 없습니다",
   "profile_usage": "사용법",
   "giftcode_stats": "기프트 코드 통계",
