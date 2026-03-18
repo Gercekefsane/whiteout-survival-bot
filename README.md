@@ -480,7 +480,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 <br><br>
 
-**v3.0.0** · Last updated: 2026-03-17
+**v3.0.0** · Last updated: 2026-03-18
 
 <br>
 
