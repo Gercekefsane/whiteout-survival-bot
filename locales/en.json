@@ -411,6 +411,7 @@
   "list_notifications": "List",
   "select_event_type": "Select Event Type",
   "select_event_desc": "Choose an event to create a notification for:",
+  "select_trap_count": "How many traps do you want to set up?",
   "select_time": "Enter the event time in HH:MM format (24-hour, UTC)",
   "time_format_hint": "Example: 14:30 for 2:30 PM UTC",
   "notification_added": "Notification added successfully!",
