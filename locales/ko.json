@@ -1017,6 +1017,8 @@
   "delete_remaining": "남은 삭제 횟수 (주간)",
   "delete_limit_reached": "주간 삭제 제한에 도달했습니다. 7일 후에 다시 시도하세요.",
   "delete_enter_fid": "삭제할 계정의 FID를 입력하세요:",
+  "delete_select_account": "삭제할 계정을 선택하세요:",
+  "back": "뒤로",
   "delete_not_yours": "이 FID는 귀하의 계정이 아닙니다.",
   "delete_confirm_title": "삭제 확인",
   "delete_confirm_warning": "⚠️ 이 작업은 취소할 수 없습니다! 계정이 시스템에서 제거됩니다.",
