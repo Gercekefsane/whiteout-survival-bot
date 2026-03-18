@@ -1372,5 +1372,19 @@
   "migrate_fc_unlocks_at": "해금까지 남은 기간",
   "migrate_daily_range_info": "자격 획득 후 매일 범위가 ~4-5 스테이트씩 증가합니다.",
   "days_short": "일",
-  "transfer_see_migrate": "이주 계산기: /migrate"
+  "transfer_see_migrate": "이주 계산기: /migrate",
+  "codeimage_title": "기프트 코드 이미지 업로드",
+  "codeimage_usage": "사용법",
+  "codeimage_reply": "사진에 답장",
+  "codeimage_caption": "사진에 캡션으로 전송",
+  "codeimage_step": "1단계",
+  "codeimage_then_photo": "2단계: 사진 전송",
+  "codeimage_hint": "웹사이트에서 기프트 코드의 내용 이미지를 설정합니다.",
+  "codeimage_not_found": "데이터베이스에서 찾을 수 없습니다.",
+  "codeimage_send_photo": "지금 사진을 보내서 다음 코드의 이미지로 설정하세요:",
+  "codeimage_downloading": "이미지 다운로드 중...",
+  "codeimage_saved": "이미지 저장됨!",
+  "codeimage_code": "코드",
+  "codeimage_website_note": "이미지가 웹사이트의 코드 상세에 표시됩니다.",
+  "codeimage_failed": "이미지 저장 실패"
 }
