@@ -1023,6 +1023,8 @@
   "delete_remaining": "Remaining deletions (weekly)",
   "delete_limit_reached": "You've reached your weekly deletion limit. Try again in 7 days.",
   "delete_enter_fid": "Enter the FID of the account you want to delete:",
+  "delete_select_account": "Select an account to delete:",
+  "back": "Back",
   "delete_not_yours": "This FID doesn't belong to you.",
   "delete_confirm_title": "Delete Confirmation",
   "delete_confirm_warning": "⚠️ This action cannot be undone! The account will be removed from the system.",
