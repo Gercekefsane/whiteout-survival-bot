@@ -1430,5 +1430,6 @@
   "kingdom_limit_title": "Krallık Üye Limiti Doldu",
   "kingdom_limit_desc": "{kingdom} krallığından {count} kişi zaten bu grupta mevcut (limit: {limit}).",
   "kingdom_limit_hint": "Daha fazla üye eklemek için özel bir grup oluşturun ve /premium inceleyin.",
-  "star_bonus_hint": "Hesabınızı /github ile bağlayarak ekstra kayıt hakkı kazanın!"
+  "star_bonus_hint": "Hesabınızı /github ile bağlayarak ekstra kayıt hakkı kazanın!",
+  "web_player_link": " Oyuncu Profili: https://woscontrol.com/player-search/{fid}"
 }
