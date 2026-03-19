@@ -26,8 +26,8 @@
 
 <br>
 
-[![Version](https://img.shields.io/badge/version-v3.1.0-brightgreen?style=flat-square)]()
-[![Changelog](https://img.shields.io/badge/changelog-v3.1.0-blue?style=flat-square)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-v3.2.0-brightgreen?style=flat-square)]()
+[![Changelog](https://img.shields.io/badge/changelog-v3.2.0-blue?style=flat-square)](CHANGELOG.md)
 [![Python](https://img.shields.io/badge/Python-3.13+-3776AB?style=flat-square&logo=python&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-4169E1?style=flat-square&logo=postgresql&logoColor=white)]()
 [![Platform](https://img.shields.io/badge/Platform-Telegram%20%2B%20Discord-blue?style=flat-square)]()
@@ -59,14 +59,14 @@
 
 ---
 
-## 🔢 Latest Version: v3.1.0
+## 🔢 Latest Version: v3.2.0
 
-> **Released:** 2026-03-17
+> **Released:** 2026-03-19
 
-  - **Hero Database (Dynamic)**: Heroes page now fetches data from PostgreSQL instead of static embedded data — auto-updates when wiki scraper detects new heroes
-  - **Hero Detail Modal**: Click any hero to see full story, skills, charm abilities, and portrait image — all translated per user language
-  - **Hero Wiki Scraper (Korean)**: Added Korean (ko) to auto-translation pipeline — all heroes now translated to EN/TR/RU/KO via OpenAI
-  - **Heroes API Endpoint**: /api/heroes?lang=xx serves hero data from DB with translation overlay for any supported language
+  - **GitHub Star Bonus System**: Full GitHub integration — OAuth Device Flow account linking, star tracking, automatic bonus calculation per user
+  - **Individual Register Bonus**: GitHub star bonus now applies per-user on max_registers instead of alliance-wide max_members
+  - **Sponsor/YouTube Kingdom Limit**: Sponsor and YouTube plans enforce same-kingdom member limits based on free plan cap
+  - **/github Command**: Connect your GitHub account via Device Flow — Telegram and Discord
 
 > 📋 **[Full Changelog →](CHANGELOG.md)**
 
@@ -480,7 +480,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 <br><br>
 
-**v3.1.0** · Last updated: 2026-03-19
+**v3.2.0** · Last updated: 2026-03-19
 
 <br>
 
