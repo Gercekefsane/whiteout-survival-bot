@@ -1447,14 +1447,14 @@
   "captcha_by_solver": "By Solver",
   "web_giftcodes_link": "🌐 Redeem gift codes on web: https://woscontrol.com/codes",
   "web_alliances_link": "🌐 View your alliance on web: https://woscontrol.com/alliances",
-  "github_star_added": "GitHub Star Bonus!",
-  "github_star_removed": "GitHub Star Removed",
+  "github_star_added": "⭐ Star Bonus!",
+  "github_star_removed": "Star Removed",
   "github_bonus_applied": "Bonus Applied",
   "github_bonus_updated": "Bonus Updated",
   "github_stars": "Stars",
   "github_alliance_bonus": "Alliance",
   "github_user_bonus": "User",
-  "github_connect_cta": "Connect & support!",
+  "github_connect_cta": "Connect & earn bonuses!",
   "github_connected": "GitHub Connected!",
   "github_account_linked": "Account successfully linked",
   "github_repos_title": "Repositories",
@@ -1481,5 +1481,9 @@
   "github_not_linked": "GitHub Not Connected",
   "github_not_linked_desc": "Use /github to connect your GitHub account and earn bonuses!",
   "github_mystars_title": "My GitHub Stars",
-  "github_star_remaining": "Star {count} more repo(s) to earn additional bonuses!"
+  "github_star_remaining": "Star {count} more repo(s) to earn additional bonuses!",
+  "kingdom_limit_title": "Kingdom Member Limit Reached",
+  "kingdom_limit_desc": "{count} members from {kingdom} are already in this group (limit: {limit}).",
+  "kingdom_limit_hint": "To add more members, create a dedicated group and check /premium.",
+  "star_bonus_hint": "Connect your GitHub account with /github to earn extra register slots!"
 }
