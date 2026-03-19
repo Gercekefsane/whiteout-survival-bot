@@ -1406,5 +1406,8 @@
   "kingdom_limit_title": "왕국 멤버 제한 도달",
   "kingdom_limit_desc": "{kingdom}에서 {count}명이 이미 이 그룹에 있습니다 (제한: {limit}).",
   "kingdom_limit_hint": "더 많은 멤버를 추가하려면 전용 그룹을 만들고 /premium을 확인하세요.",
-  "star_bonus_hint": "/github로 계정을 연결하여 추가 등록 슬롯을 받으세요!"
+  "star_bonus_hint": "/github로 계정을 연결하여 추가 등록 슬롯을 받으세요!",
+  "web_player_link": " 플레이어 프로필: https://woscontrol.com/player-search/{fid}",
+  "web_giftcodes_link": " 웹에서 기프트 코드 사용: https://woscontrol.com/codes",
+  "web_alliances_link": " 웹에서 동맹 보기: https://woscontrol.com/alliances"
 }
