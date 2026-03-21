@@ -208,6 +208,8 @@
   "only_group_admins": "❌ 그룹 관리자만 이 명령어를 사용할 수 있습니다.",
   "tag_already_exists": "❌ 이 태그는 이미 사용 중입니다.",
   "alliance_created": "🏰 동맹이 생성되었습니다!",
+  "chat_bridge_topic_created": "채팅 브리지 주제가 생성되었습니다",
+  "chat_bridge_channel_created": "채팅 브리지 채널이 생성되었습니다",
   "setup_alliance_desc": "동맹 생성",
   "add_member_desc": "멤버 추가",
   "set_interval_desc": "추적 간격 설정",
