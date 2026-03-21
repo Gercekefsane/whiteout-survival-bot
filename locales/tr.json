@@ -235,6 +235,8 @@
   "only_group_admins": "❌ Bu komutu sadece grup yöneticileri kullanabilir.",
   "tag_already_exists": "❌ Bu tag zaten kullanılıyor.",
   "alliance_created": "✅ <b>Alliance Oluşturuldu!</b>",
+  "chat_bridge_topic_created": "Sohbet köprüsü konusu oluşturuldu",
+  "chat_bridge_channel_created": "Sohbet köprüsü kanalı oluşturuldu",
   "setup_alliance_desc": "Alliance oluştur",
   "add_member_desc": "Üye ekle",
   "set_interval_desc": "Kontrol aralığı ayarla",
