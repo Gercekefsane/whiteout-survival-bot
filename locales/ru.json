@@ -208,6 +208,8 @@
   "only_group_admins": "❌ Только администраторы группы могут использовать эту команду.",
   "tag_already_exists": "❌ Этот тег уже используется.",
   "alliance_created": "✅ <b>Альянс создан!</b>",
+  "chat_bridge_topic_created": "Тема чат-моста создана",
+  "chat_bridge_channel_created": "Канал чат-моста создан",
   "setup_alliance_desc": "Создать альянс",
   "add_member_desc": "Добавить участника",
   "set_interval_desc": "Установить интервал контроля",
