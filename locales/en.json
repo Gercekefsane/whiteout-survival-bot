@@ -208,6 +208,8 @@
   "only_group_admins": "❌ Only group administrators can use this command.",
   "tag_already_exists": "❌ This tag is already in use.",
   "alliance_created": "✅ <b>Alliance Created!</b>",
+  "chat_bridge_topic_created": "Chat bridge topic created",
+  "chat_bridge_channel_created": "Chat bridge channel created",
   "setup_alliance_desc": "Create alliance",
   "add_member_desc": "Add member",
   "set_interval_desc": "Set control interval",
