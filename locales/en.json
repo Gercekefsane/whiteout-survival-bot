@@ -1465,5 +1465,17 @@
   "gform_total": "total",
   "gform_open_form": "Open Form",
   "gform_expires": "Expires",
-  "gform_login_required": "Login required — auto-submit not possible"
+  "gform_login_required": "Login required — auto-submit not possible",
+  "topic_name_giftcodes": "WosControl-GiftCodes",
+  "topic_name_giftlog": "WosControl-GiftLog",
+  "dc_topic_giftcodes": "🎁 Gift code notifications from WosControl Bot",
+  "dc_topic_giftlog": "📊 Gift code & form submission logs from WosControl Bot",
+  "perm_warning_title": "⚠️ Missing Permissions!",
+  "perm_warning_body": "The bot does not have sufficient admin permissions in this group.\n\nRequired permissions:\n• Manage Topics / Channels\n• Pin Messages\n• Delete Messages\n• Invite Users\n\nPlease grant <b>full admin permissions</b> to the bot.\nOtherwise the bot will not function correctly and may leave the group.",
+  "perm_warning_urgent": "🚨 @everyone — The bot needs admin permissions to work! Please ask the group owner to grant full admin rights.",
+  "gform_tg_detected_title": "📋 Google Form Detected!",
+  "gform_tg_detected_body": "<b>{title}</b>\n🔗 <a href=\"{url}\">Open Form</a>\n\n👤 <b>Detected by:</b> {detector}\n🏰 <b>Alliance:</b> [{tag}] {alliance}\n\n📊 <b>Form Info</b>\n   {fields} fields · {pages} pages{uid_line}{expire_line}\n\n⏳ <b>Processing</b>\n   👥 {count} members ({already} already submitted)",
+  "gform_tg_complete_title": "✅ Google Form — Complete",
+  "gform_tg_complete_body": "<b>{title}</b>\n🔗 <a href=\"{url}\">Open Form</a>\n\n👤 <b>Detected by:</b> {detector} — Thank you! 🙏\n🏰 <b>Alliance:</b> [{tag}] {alliance}\n\n📊 <b>Results</b>\n   {bar} <b>{pct}%</b>\n   👥 Total: <b>{total}</b>\n   ✅ Success: <b>{success}</b> · ❌ Failed: <b>{failed}</b>",
+  "gform_tg_failed_section": "\n\n❌ <b>Failed ({count}):</b>"
 }
