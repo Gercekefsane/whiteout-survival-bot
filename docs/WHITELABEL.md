@@ -1,4 +1,4 @@
-# 🏷️ WhiteLabel System — Design Document
+## 🏷️ WhiteLabel System — Design Document
 
 ## 📋 Overview
 
