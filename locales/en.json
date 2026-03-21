@@ -1477,5 +1477,6 @@
   "gform_tg_detected_body": "<b>{title}</b>\n🔗 <a href=\"{url}\">Open Form</a>\n\n👤 <b>Detected by:</b> {detector}\n🏰 <b>Alliance:</b> [{tag}] {alliance}\n\n📊 <b>Form Info</b>\n   {fields} fields · {pages} pages{uid_line}{expire_line}\n\n⏳ <b>Processing</b>\n   👥 {count} members ({already} already submitted)",
   "gform_tg_complete_title": "✅ Google Form — Complete",
   "gform_tg_complete_body": "<b>{title}</b>\n🔗 <a href=\"{url}\">Open Form</a>\n\n👤 <b>Detected by:</b> {detector} — Thank you! 🙏\n🏰 <b>Alliance:</b> [{tag}] {alliance}\n\n📊 <b>Results</b>\n   {bar} <b>{pct}%</b>\n   👥 Total: <b>{total}</b>\n   ✅ Success: <b>{success}</b> · ❌ Failed: <b>{failed}</b>",
-  "gform_tg_failed_section": "\n\n❌ <b>Failed ({count}):</b>"
+  "gform_tg_failed_section": "\n\n❌ <b>Failed ({count}):</b>",
+  "gform_confirmation_label": "Response:"
 }
