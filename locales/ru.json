@@ -1421,5 +1421,6 @@
   "gform_tg_detected_body": "<b>{title}</b>\n🔗 <a href=\"{url}\">Открыть форму</a>\n\n👤 <b>Обнаружено:</b> {detector}\n🏰 <b>Альянс:</b> [{tag}] {alliance}\n\n📊 <b>Информация</b>\n   {fields} полей · {pages} стр.{uid_line}{expire_line}\n\n⏳ <b>Обработка</b>\n   👥 {count} участников ({already} уже отправлено)",
   "gform_tg_complete_title": "✅ Google Form — Завершено",
   "gform_tg_complete_body": "<b>{title}</b>\n🔗 <a href=\"{url}\">Открыть форму</a>\n\n👤 <b>Обнаружено:</b> {detector} — Спасибо! 🙏\n🏰 <b>Альянс:</b> [{tag}] {alliance}\n\n📊 <b>Результаты</b>\n   {bar} <b>{pct}%</b>\n   👥 Всего: <b>{total}</b>\n   ✅ Успешно: <b>{success}</b> · ❌ Ошибки: <b>{failed}</b>",
-  "gform_tg_failed_section": "\n\n❌ <b>Ошибки ({count}):</b>"
+  "gform_tg_failed_section": "\n\n❌ <b>Ошибки ({count}):</b>",
+  "gform_confirmation_label": "Ответ:"
 }
