@@ -1,4 +1,4 @@
-# 🏷️ WhiteLabel — Your Own Custom Bot
+## 🏷️ WhiteLabel — Your Own Custom Bot
 
 <div align="center">
 
