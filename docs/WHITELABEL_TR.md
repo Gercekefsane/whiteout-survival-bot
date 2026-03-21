@@ -1,4 +1,4 @@
-# 🏷️ WhiteLabel — Kendi Özel Botunuz
+## 🏷️ WhiteLabel — Kendi Özel Botunuz
 
 <div align="center">
 
