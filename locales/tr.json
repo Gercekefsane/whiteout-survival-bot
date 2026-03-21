@@ -1445,5 +1445,6 @@
   "gform_tg_detected_body": "<b>{title}</b>\n🔗 <a href=\"{url}\">Formu Aç</a>\n\n👤 <b>Tespit Eden:</b> {detector}\n🏰 <b>İttifak:</b> [{tag}] {alliance}\n\n📊 <b>Form Bilgisi</b>\n   {fields} alan · {pages} sayfa{uid_line}{expire_line}\n\n⏳ <b>İşleniyor</b>\n   👥 {count} üye ({already} zaten gönderilmiş)",
   "gform_tg_complete_title": "✅ Google Form — Tamamlandı",
   "gform_tg_complete_body": "<b>{title}</b>\n🔗 <a href=\"{url}\">Formu Aç</a>\n\n👤 <b>Tespit Eden:</b> {detector} — Teşekkürler! 🙏\n🏰 <b>İttifak:</b> [{tag}] {alliance}\n\n📊 <b>Sonuçlar</b>\n   {bar} <b>{pct}%</b>\n   👥 Toplam: <b>{total}</b>\n   ✅ Başarılı: <b>{success}</b> · ❌ Hata: <b>{failed}</b>",
-  "gform_tg_failed_section": "\n\n❌ <b>Hata ({count}):</b>"
+  "gform_tg_failed_section": "\n\n❌ <b>Hata ({count}):</b>",
+  "gform_confirmation_label": "Yanıt:"
 }
