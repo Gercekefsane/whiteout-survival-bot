@@ -1397,5 +1397,17 @@
   "kingdom_limit_desc": "{count} участников из {kingdom} уже в этой группе (лимит: {limit}).",
   "kingdom_limit_hint": "Для добавления большего числа участников создайте отдельную группу и проверьте /premium.",
   "star_bonus_hint": "Подключите аккаунт и получите дополнительные слоты регистрации!",
-  "web_player_link": " Профиль игрока: https://woscontrol.com/player-search/{fid}"
+  "web_player_link": " Профиль игрока: https://woscontrol.com/player-search/{fid}",
+  "gform_existing_title": "Форма уже существует",
+  "gform_detected_by": "Обнаружено",
+  "gform_readding_owner": "Повторный анализ формы с актуальными данными...",
+  "gform_already_exists_info": "Эта форма уже зарегистрирована. Только владелец может добавить её повторно.",
+  "gform_for_details": "для деталей",
+  "gform_list_title_v2": "Панель Google Forms",
+  "gform_active": "активных",
+  "gform_pending": "ожидающих",
+  "gform_total": "всего",
+  "gform_open_form": "Открыть форму",
+  "gform_expires": "Истекает",
+  "gform_login_required": "Требуется вход — автоматическая отправка невозможна"
 }
