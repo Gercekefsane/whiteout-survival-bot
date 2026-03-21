@@ -1409,5 +1409,17 @@
   "gform_total": "всего",
   "gform_open_form": "Открыть форму",
   "gform_expires": "Истекает",
-  "gform_login_required": "Требуется вход — автоматическая отправка невозможна"
+  "gform_login_required": "Требуется вход — автоматическая отправка невозможна",
+  "topic_name_giftcodes": "WosControl-ПодарочныеКоды",
+  "topic_name_giftlog": "WosControl-ЛогПодарков",
+  "dc_topic_giftcodes": "🎁 Уведомления о подарочных кодах от WosControl Bot",
+  "dc_topic_giftlog": "📊 Логи использования кодов и отправки форм от WosControl Bot",
+  "perm_warning_title": "⚠️ Недостаточно прав!",
+  "perm_warning_body": "У бота недостаточно прав администратора в этой группе.\n\nНеобходимые права:\n• Управление темами / каналами\n• Закрепление сообщений\n• Удаление сообщений\n• Приглашение пользователей\n\nПожалуйста, предоставьте боту <b>полные права администратора</b>.\nВ противном случае бот не сможет нормально работать и может покинуть группу.",
+  "perm_warning_urgent": "🚨 @everyone — Боту нужны права администратора! Попросите владельца группы предоставить полные права.",
+  "gform_tg_detected_title": "📋 Google Form обнаружена!",
+  "gform_tg_detected_body": "<b>{title}</b>\n🔗 <a href=\"{url}\">Открыть форму</a>\n\n👤 <b>Обнаружено:</b> {detector}\n🏰 <b>Альянс:</b> [{tag}] {alliance}\n\n📊 <b>Информация</b>\n   {fields} полей · {pages} стр.{uid_line}{expire_line}\n\n⏳ <b>Обработка</b>\n   👥 {count} участников ({already} уже отправлено)",
+  "gform_tg_complete_title": "✅ Google Form — Завершено",
+  "gform_tg_complete_body": "<b>{title}</b>\n🔗 <a href=\"{url}\">Открыть форму</a>\n\n👤 <b>Обнаружено:</b> {detector} — Спасибо! 🙏\n🏰 <b>Альянс:</b> [{tag}] {alliance}\n\n📊 <b>Результаты</b>\n   {bar} <b>{pct}%</b>\n   👥 Всего: <b>{total}</b>\n   ✅ Успешно: <b>{success}</b> · ❌ Ошибки: <b>{failed}</b>",
+  "gform_tg_failed_section": "\n\n❌ <b>Ошибки ({count}):</b>"
 }
