@@ -2,6 +2,37 @@
 
 All notable changes to this project are documented here.
 
+## v3.3.0 — 2026-03-23
+
+### ✨ Added
+- **Social Media Form Tracker**: Automatic detection and processing of Google Forms shared on official game social media accounts — monitors configured accounts every 15 minutes
+- **Smart AI Filtering**: Advanced AI analysis determines whether a detected form is a genuine reward survey before processing — eliminates irrelevant posts and design events automatically
+- **Auto Form Registration**: Newly discovered forms are instantly analyzed, registered to the database, and submitted to all alliance members without any manual intervention
+- **Configurable Account List**: Easily add or remove monitored social media accounts via config — supports multiple accounts simultaneously
+- **Reward Detection from Posts**: AI extracts reward hints directly from post text — icon rewards, resource packs, gift codes all detected and stored
+- **Deduplication System**: Intelligent deduplication prevents the same form from being processed twice even when shared with different URL parameters
+- **Session Health Monitoring**: Automatic detection of authentication expiry — owner receives immediate Telegram notification with step-by-step re-authentication instructions
+- **/checkxforms Command**: Owner command to manually trigger social media form scanning across all configured accounts
+- **/xlogin Command**: Secure cookie-based authentication setup for social media monitoring — tokens auto-deleted from chat after entry for security
+- **Form Reward Translations**: Detected reward text is automatically translated to all 4 languages (EN/TR/RU/KO) and stored for multi-language website display
+- **Google Forms Page**: New /forms page on woscontrol.com — browse all active Google Forms with reward info, expiry countdown, and success rate per form
+- **Forms API Endpoint**: /api/forms — Serves active form configs with reward type, translated reward text, expiry, and submission statistics
+- **Reward Type Display**: Forms page shows reward type badges: Gift Code, Resources, Raffle, Item — each with distinct icon and color
+- **Multi-language Reward Display**: Reward descriptions shown in user's selected language on the forms page
+
+### 🔧 Fixed
+- **Duplicate Form Notifications**: Same form URL with different query parameters (e.g. ?usp=send_form) no longer triggers multiple notifications
+- **Authentication Verification**: Login verification now uses a lightweight public profile lookup instead of a self-profile endpoint that returned 404
+- **ClientTransaction Key Error**: Resolved a server-side JavaScript obfuscation change that caused all API calls to fail with a cryptographic key index error — patched transparently without requiring library updates
+- **Form Submission After Auto-Registration**: Newly auto-registered forms now correctly trigger mass submission to all alliances — previously only inserted to DB without submitting
+
+### 🔄 Changed
+- **X Tracker Config**: Added X_FORM_TRACKER_ENABLED, X_FORM_TRACKER_INTERVAL_MINUTES, X_FORM_TRACKER_ACCOUNTS, X_FORM_TRACKER_AUTO_APPROVE, X_FORM_TRACKER_NOTIFY_OWNER, X_FORM_TRACKER_MAX_TWEETS, X_FORM_TRACKER_LOOKBACK_DAYS to config
+- **/help owner**: Trackers section updated with /checkxforms and /xlogin — Forms section updated with /reanalyzeform, /submitform, /formhistory
+- **Version Bump**: 3.2.0 → 3.3.0
+
+---
+
 ## v3.2.0 — 2026-03-19
 
 ### ✨ Added
