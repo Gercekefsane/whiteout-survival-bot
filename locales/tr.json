@@ -1325,10 +1325,10 @@
   "yt_add_tg_instruction": "YouTuber'ın <b>Telegram kullanıcı ID</b>'sini gönderin (sayısal).\n\n⚠️ Bu kişi daha önce botu başlatmış (/start) olmalı.\n\n💡 Kullanıcı ID'sini bulmak için mesajını @userinfobot'a iletin",
   "yt_add_tg_invalid": "Lütfen geçerli bir sayısal Telegram kullanıcı ID'si gönderin.",
   "yt_add_tg_not_found": "Bu Telegram kullanıcısı botu başlatmamış. Önce /start yapmalı.",
-  "yt_add_tg_dm_failed": "Telegram üzerinden hoş geldin DM'si gönderilemedi. YouTuber EKLENMEDİ.",
+  "yt_add_tg_dm_failed": "Telegram üzerinden hoş geldin DM'si gönderilemedi. Telegram iletişimi kaydedilmedi.",
   "yt_add_dm_sent_ok": "başarıyla gönderildi!",
   "yt_add_ask_discord": "YouTuber'ın Discord İletişimi",
-  "yt_add_dc_instruction": "YouTuber'ın <b>Discord kullanıcı ID</b>'sini gönderin (sayısal).\n\n⚠️ Bu kişi botta kayıtlı olmalı.\n\n💡 Discord'da Geliştirici Modunu açın, kullanıcıya sağ tıklayın → Kullanıcı ID'sini Kopyala",
+  "yt_add_dc_instruction": "YouTuber'ın <b>Discord kullanıcı ID</b>'sini gönderin (sayısal).\n\n💡 Discord'da Geliştirici Modunu açın, kullanıcıya sağ tıklayın → Kullanıcı ID'sini Kopyala",
   "yt_add_dc_invalid": "Lütfen geçerli bir sayısal Discord kullanıcı ID'si gönderin.",
   "yt_add_dc_not_found": "Bu Discord kullanıcısı botta kayıtlı değil.",
   "yt_add_dc_dm_failed": "Discord üzerinden hoş geldin DM'si gönderilemedi. YouTuber EKLENMEDİ.",
@@ -1448,5 +1448,6 @@
   "gform_tg_complete_title": "✅ Google Form — Tamamlandı",
   "gform_tg_complete_body": "<b>{title}</b>\n🔗 <a href=\"{url}\">Formu Aç</a>\n\n👤 <b>Tespit Eden:</b> {detector} — Teşekkürler! 🙏\n🏰 <b>İttifak:</b> [{tag}] {alliance}\n\n📊 <b>Sonuçlar</b>\n   {bar} <b>{pct}%</b>\n   👥 Toplam: <b>{total}</b>\n   ✅ Başarılı: <b>{success}</b> · ❌ Hata: <b>{failed}</b>",
   "gform_tg_failed_section": "\n\n❌ <b>Hata ({count}):</b>",
-  "gform_confirmation_label": "Yanıt:"
+  "gform_confirmation_label": "Yanıt:",
+  "yt_add_tg_dm_failed_continue": "⚠️ Telegram kaydedilmedi — Discord ile devam edebilirsin."
 }
