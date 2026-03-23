@@ -1344,10 +1344,10 @@
   "yt_add_tg_instruction": "Send the YouTuber's <b>Telegram user ID</b> (numeric).\n\n⚠️ This person must have started the bot (/start) before.\n\n💡 You can find user IDs by forwarding their message to @userinfobot",
   "yt_add_tg_invalid": "Please send a valid numeric Telegram user ID.",
   "yt_add_tg_not_found": "This Telegram user has not started the bot. They must /start first.",
-  "yt_add_tg_dm_failed": "Failed to send welcome DM via Telegram. YouTuber NOT added.",
+  "yt_add_tg_dm_failed": "Failed to send welcome DM via Telegram. Telegram contact not saved.",
   "yt_add_dm_sent_ok": "sent successfully!",
   "yt_add_ask_discord": "YouTuber's Discord Contact",
-  "yt_add_dc_instruction": "Send the YouTuber's <b>Discord user ID</b> (numeric).\n\n⚠️ This person must be registered in the bot.\n\n💡 Enable Developer Mode in Discord, right-click user → Copy User ID",
+  "yt_add_dc_instruction": "Send the YouTuber's <b>Discord user ID</b> (numeric).\n\n💡 Enable Developer Mode in Discord, right-click user → Copy User ID",
   "yt_add_dc_invalid": "Please send a valid numeric Discord user ID.",
   "yt_add_dc_not_found": "This Discord user is not registered in the bot.",
   "yt_add_dc_dm_failed": "Failed to send welcome DM via Discord. YouTuber NOT added.",
@@ -1480,5 +1480,6 @@
   "gform_tg_complete_title": "✅ Google Form — Complete",
   "gform_tg_complete_body": "<b>{title}</b>\n🔗 <a href=\"{url}\">Open Form</a>\n\n👤 <b>Detected by:</b> {detector} — Thank you! 🙏\n🏰 <b>Alliance:</b> [{tag}] {alliance}\n\n📊 <b>Results</b>\n   {bar} <b>{pct}%</b>\n   👥 Total: <b>{total}</b>\n   ✅ Success: <b>{success}</b> · ❌ Failed: <b>{failed}</b>",
   "gform_tg_failed_section": "\n\n❌ <b>Failed ({count}):</b>",
-  "gform_confirmation_label": "Response:"
+  "gform_confirmation_label": "Response:",
+  "yt_add_tg_dm_failed_continue": "⚠️ Telegram not saved — you can continue with Discord."
 }
