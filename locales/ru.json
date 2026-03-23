@@ -1272,13 +1272,13 @@
   "yt_add_tg_instruction": "Отправьте <b>Telegram ID</b> ютубера (числовой).\n\n⚠️ Этот человек должен был запустить бота (/start).\n\n💡 Узнать ID можно переслав сообщение в @userinfobot",
   "yt_add_tg_invalid": "Отправьте корректный числовой Telegram ID.",
   "yt_add_tg_not_found": "Этот Telegram пользователь не запускал бота. Сначала нужно /start.",
-  "yt_add_tg_dm_failed": "Не удалось отправить приветственное сообщение через Telegram. Ютубер НЕ добавлен.",
+  "yt_add_tg_dm_failed": "Не удалось отправить приветственное сообщение через Telegram. Telegram не сохранён.",
   "yt_add_dm_sent_ok": "успешно отправлено!",
   "yt_add_ask_discord": "Discord контакт ютубера",
-  "yt_add_dc_instruction": "Отправьте <b>Discord ID</b> ютубера (числовой).\n\n⚠️ Этот человек должен быть зарегистрирован в боте.\n\n💡 Включите Режим разработчика в Discord, ПКМ по пользователю → Копировать ID",
+  "yt_add_dc_instruction": "Отправьте <b>Discord user ID</b> YouTuber'а (числовой).\n\n💡 Включите режим разработчика в Discord, нажмите ПКМ на пользователя → Скопировать ID",
   "yt_add_dc_invalid": "Отправьте корректный числовой Discord ID.",
   "yt_add_dc_not_found": "Этот Discord пользователь не зарегистрирован в боте.",
-  "yt_add_dc_dm_failed": "Не удалось отправить приветственное сообщение через Discord. Ютубер НЕ добавлен.",
+  "yt_add_dc_dm_failed": "Не удалось отправить приветственное DM через Discord. YouTuber НЕ добавлен.",
   "yt_add_need_one_contact": "Необходим хотя бы один контакт (Telegram или Discord)!",
   "yt_add_no_contact": "❌ Необходим хотя бы один контакт (Telegram или Discord)! Ютубер НЕ добавлен.",
   "skipped": "Пропущено",
@@ -1424,5 +1424,6 @@
   "gform_tg_complete_title": "✅ Google Form — Завершено",
   "gform_tg_complete_body": "<b>{title}</b>\n🔗 <a href=\"{url}\">Открыть форму</a>\n\n👤 <b>Обнаружено:</b> {detector} — Спасибо! 🙏\n🏰 <b>Альянс:</b> [{tag}] {alliance}\n\n📊 <b>Результаты</b>\n   {bar} <b>{pct}%</b>\n   👥 Всего: <b>{total}</b>\n   ✅ Успешно: <b>{success}</b> · ❌ Ошибки: <b>{failed}</b>",
   "gform_tg_failed_section": "\n\n❌ <b>Ошибки ({count}):</b>",
-  "gform_confirmation_label": "Ответ:"
+  "gform_confirmation_label": "Ответ:",
+  "yt_add_tg_dm_failed_continue": "⚠️ Telegram не сохранён — можно продолжить через Discord."
 }
