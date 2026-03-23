@@ -61,12 +61,12 @@
 
 ## 🔢 Latest Version: v3.3.0
 
-> **Released:** 2026-03-19
+> **Released:** 2026-03-23
 
-  - **GitHub Star Bonus System**: Full GitHub integration — OAuth Device Flow account linking, star tracking, automatic bonus calculation per user
-  - **Individual Register Bonus**: GitHub star bonus now applies per-user on max_registers instead of alliance-wide max_members
-  - **Sponsor/YouTube Kingdom Limit**: Sponsor and YouTube plans enforce same-kingdom member limits based on free plan cap
-  - **/github Command**: Connect your GitHub account via Device Flow — Telegram and Discord
+  - **Social Media Form Tracker**: Automatic detection and processing of Google Forms shared on official game social media accounts — monitors configured accounts every 15 minutes
+  - **Smart AI Filtering**: Advanced AI analysis determines whether a detected form is a genuine reward survey before processing — eliminates irrelevant posts and design events automatically
+  - **Auto Form Registration**: Newly discovered forms are instantly analyzed, registered to the database, and submitted to all alliance members without any manual intervention
+  - **Configurable Account List**: Easily add or remove monitored social media accounts via config — supports multiple accounts simultaneously
 
 > 📋 **[Full Changelog →](CHANGELOG.md)**
 
