@@ -59,37 +59,31 @@
 
 ---
 
-## 🤝 Contributing — Volunteers Wanted!
+## 🤝 Contribute — Help Us Keep Transfer Dates Accurate!
 
-> **We need your help to keep transfer dates accurate for every state!**
-
-The `/transfer` command shows **real transfer windows** for each state — but keeping these dates up to date requires community support. If you play WhiteOut Survival and know your state's transfer schedule, you can contribute!
-
-### 📅 Transfer Date Contributors Wanted
-
-We are looking for volunteers to report transfer dates for their states. In return:
-
-- 🏆 **Your name (or nickname) will appear in every `/transfer` message** sent by the bot for your state
-- 📣 **Credit in the bot's response** — seen by all alliance members who use `/transfer`
-- ❤️ Eternal gratitude from the community
-
-### How to Contribute
-
-1. Open the bot: [@WhiteoutGuildBot](https://t.me/WhiteoutGuildBot)
-2. Run `/transfer` and check if your state's dates are listed
-3. If your state is missing or has incorrect dates, contact us:
+We need volunteers to report **kingdom transfer dates** for their states. Know your state's schedule? **You'll be rewarded!**
 
 <div align="center">
 
-[![📅 Submit Transfer Dates](https://img.shields.io/badge/📅_SUBMIT_TRANSFER_DATES-2CA5E0?style=for-the-badge&logo=telegram&labelColor=1a1a1a)](https://t.me/btuncsiper)
+### 🎁 What You Get
+
+| Reward | Details |
+|--------|---------|
+| 🏆 **Permanent Credit** | Your name appears in **every `/transfer` message** for your state — seen by thousands of players |
+| 📣 **Bot Recognition** | Credited as an official contributor in the bot's live responses |
+| ⭐ **GitHub Credit** | Listed as a contributor in this repo |
+| ❤️ **Community Fame** | Your name lives on in every alliance that uses the bot |
 
 </div>
 
-> 💡 **What to send:** Your **State number**, current **Generation**, **FC level**, and upcoming **transfer window dates** (with SVS/open transfer phase). Screenshots welcome!
+> � **Contact us directly** — send your state number, generation, FC level & transfer dates:
+>
+> - **Telegram:** [@btuncsiper](https://t.me/btuncsiper)
+> - **Discord:** [@hasmetli](https://discord.com/users/hasmetli)
 
 ### ✅ Current Contributors
 
-> *Be the first to contribute and get your name here!*
+> *Be the first — get your name seen by thousands of WhiteOut Survival players!*
 > <!-- Contributors list is updated manually -->
 
 ---
