@@ -36,27 +36,21 @@ All notable changes to this project are documented here.
 ## v3.2.0 — 2026-03-19
 
 ### ✨ Added
-- **GitHub Star Bonus System**: Full GitHub integration — OAuth Device Flow account linking, star tracking, automatic bonus calculation per user
-- **Individual Register Bonus**: GitHub star bonus now applies per-user on max_registers instead of alliance-wide max_members
+- **Community Bonus System**: Community engagement tracking — account linking, activity tracking, automatic bonus calculation per user
+- **Individual Register Bonus**: Community bonus now applies per-user on max_registers for expanded member slots
 - **Sponsor/YouTube Kingdom Limit**: Sponsor and YouTube plans enforce same-kingdom member limits based on free plan cap
-- **/github Command**: Connect your GitHub account via Device Flow — Telegram and Discord
-- **/mystars Command**: View your linked GitHub account and star status across all tracked repos
-- **/addrepo & /removerepo**: Owner commands to manage tracked GitHub repositories
-- **/starstats**: Owner command to view all repos, star counts, and bonus totals
 - **/captchastats**: Captcha solver performance statistics — session, daily, weekly, all-time with visual charts
 - **/codeimage**: Upload gift code content images for the website — reply, caption, or two-step flow
-- **Star Notifications**: Real-time star/unstar notifications to alliance groups on both Telegram and Discord
-- **Korean GitHub Locale**: All github_* locale keys added to Korean (ko.json)
-- **Kingdom Limit Locale Keys**: kingdom_limit_title/desc/hint and star_bonus_hint in all 4 languages
+- **Activity Notifications**: Real-time community activity notifications to alliance groups on both Telegram and Discord
+- **Kingdom Limit Locale Keys**: kingdom_limit locale keys added in all 4 languages
 
 ### 🔧 Fixed
-- **GitHub Auto-Sync Version**: BOT_VERSION stale reference after importlib.reload — now properly re-binds global
-- **Premium Display Consistency**: All 4 Discord plan_text displays now show individual GitHub bonus on registers
+- **Auto-Sync Version**: BOT_VERSION stale reference after importlib.reload — now properly re-binds global
+- **Premium Display Consistency**: All 4 Discord plan_text displays now show individual bonus on registers
 
 ### 🔄 Changed
-- **Premium Limit Messages**: Show GitHub bonus hint when user hits register limit without star bonus
-- **Star Notifications Wording**: Removed explicit GitHub branding — now uses neutral 'Star Bonus' wording
-- **GitHub Locale Filtering**: Auto-changelog filters github_ prefixed keys from public GitHub locale pushes
+- **Premium Limit Messages**: Show bonus hint when user hits register limit
+- **Activity Notifications Wording**: Neutral wording for activity notifications
 - **Version Bump**: 3.0.0 → 3.2.0
 
 ---
