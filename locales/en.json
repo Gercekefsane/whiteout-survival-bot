@@ -1103,7 +1103,7 @@
   "transfer_fc": "FC",
   "transfer_state": "State",
   "transfer_hero_gen": "Hero Gen",
-  "transfer_lv": "Lv",
+  "transfer_lv": "FC",
   "transfer_current_power": "Current Power Limits",
   "transfer_group": "Transfer Group",
   "transfer_contributors": "Contributors",
