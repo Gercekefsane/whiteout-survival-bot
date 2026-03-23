@@ -1411,5 +1411,9 @@
   "star_bonus_hint": "/github로 계정을 연결하여 추가 등록 슬롯을 받으세요!",
   "web_player_link": " 플레이어 프로필: https://woscontrol.com/player-search/{fid}",
   "web_giftcodes_link": " 웹에서 기프트 코드 사용: https://woscontrol.com/codes",
-  "web_alliances_link": " 웹에서 동맹 보기: https://woscontrol.com/alliances"
+  "web_alliances_link": " 웹에서 동맹 보기: https://woscontrol.com/alliances",
+  "yt_add_tg_dm_failed": "Telegram으로 환영 DM을 보내지 못했습니다. Telegram 연락처가 저장되지 않았습니다.",
+  "yt_add_tg_dm_failed_continue": "⚠️ Telegram이 저장되지 않았습니다 — Discord로 계속할 수 있습니다.",
+  "yt_add_dc_dm_failed": "Discord로 환영 DM을 보내지 못했습니다. YouTuber가 추가되지 않았습니다.",
+  "yt_add_dc_instruction": "YouTuber의 <b>Discord 사용자 ID</b>를 보내주세요 (숫자).\n\n💡 Discord 개발자 모드를 켜고, 사용자 우클릭 → 사용자 ID 복사"
 }
