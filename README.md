@@ -43,7 +43,7 @@
 
 <br>
 
-[✨ Features](#-features) · [⚙️ How It Works](#%EF%B8%8F-how-it-works) · [📋 Commands](#-commands) · [🔄 Transfer](#-kingdom-transfer-system) · [🤪 Crazy Joe](#-crazy-joe-event-guide) · [🚀 Get Started](#-get-started) · [📋 Changelog](CHANGELOG.md) · [❓ FAQ](#-faq)
+[🌐 Website](#-wos-control-website) · [✨ Features](#-features) · [⚙️ How It Works](#%EF%B8%8F-how-it-works) · [📋 Commands](#-commands) · [🔄 Transfer](#-kingdom-transfer-system) · [🤪 Crazy Joe](#-crazy-joe-event-guide) · [🚀 Get Started](#-get-started) · [🎁 Free Codes](#-get-gift-codes--no-bot-required) · [📋 Changelog](CHANGELOG.md) · [❓ FAQ](#-faq)
 
 ---
 
@@ -81,12 +81,34 @@ The bot operates on both **Telegram** and **Discord** simultaneously, with a sha
 
 ---
 
+## 🌐 WOS Control Website
+
+> **Everything in one place** — the bot has a full web platform at **[woscontrol.com](https://woscontrol.com)**
+
+<div align="center">
+
+| Feature | Link | Description |
+|---------|------|-------------|
+| 🏠 **Home** | [woscontrol.com](https://woscontrol.com) | Overview, features & quick start |
+| 🎁 **Gift Codes** | [woscontrol.com/codes](https://woscontrol.com/codes) | Live code list — auto-updated every 5 min |
+| 🔍 **Player Lookup** | [woscontrol.com/player-search](https://woscontrol.com/player-search) | Search any player by FID or nickname |
+| 📺 **YouTubers** | [woscontrol.com/youtubers](https://woscontrol.com/youtubers) | Featured WOS content creators |
+| 📖 **Wiki** | [woscontrol.com/wiki](https://woscontrol.com/wiki) | Game guides, calculators & event info |
+| 🤝 **Recruitment** | [woscontrol.com/recruitment](https://woscontrol.com/recruitment) | Alliance recruitment board |
+| 💬 **Live Chat** | [woscontrol.com/chat](https://woscontrol.com/chat) | Alliance live chat system |
+
+</div>
+
+
+
+---
+
 ## ✨ Features
 
 ### 🎁 Automatic Gift Code Redemption
 - **Automatic scanning** of official game channels every **5 minutes**
 - **Instant validation** against the official WhiteOut Survival API
-- **Batch redemption** for all alliance members with **20 concurrent requests** per batch
+- **Batch redemption** for all alliance members with **500 concurrent requests** per batch
 - **Built-in CAPTCHA solver** — custom ONNX model with **~98% accuracy** (~3.5ms per solve)
 - **Smart retry system** with exponential backoff for failed redemptions
 - **Per-member tracking** — see exactly which codes succeeded, failed, or were already used
@@ -103,7 +125,7 @@ The bot operates on both **Telegram** and **Discord** simultaneously, with a sha
 - **📝 Nickname changes** — track when members change their in-game name
 - **🌍 State migrations** — detect when members move to a different state
 - **📜 Change history** — view a member's complete change log with `/history`
-- **Batch processing** — monitors **10 players concurrently** per cycle
+- **Batch processing** — monitors **500 players concurrently** per cycle
 
 ### 🔄 Kingdom Transfer System
 - **Power limits** — current caps by generation and furnace level
@@ -192,7 +214,7 @@ The bot operates on both **Telegram** and **Discord** simultaneously, with a sha
      └────────┬────────┘
               │
      ┌────────▼────────┐
-     │  Redeem for all  │──── 20 concurrent redemptions/batch
+     │  Redeem for all  │──── 500 concurrent redemptions/batch
      │  members         │──── ONNX CAPTCHA solver (~98%)
      └────────┬────────┘
               │
@@ -284,28 +306,85 @@ The `/transfer` command provides comprehensive transfer information:
 ```
 🔄 Kingdom Transfer Info
 ━━━━━━━━━━━━━━━━━━━━
-🌍 State: S1234
-📊 Generation: Gen 5 | FC 3
 
-⚡ Power Limits:
-  Ordinary: 150,000,000
-  Leading: 300,000,000
+🏰 State S1234
+📅 Server Age: 666 days
+⭐ Current Generation: Gen 9
+🔜 Next Generation: Gen 10 (41 days)
+🏘️ Neighborhood Group: 1183 - 1240
+🔄 Transfer Group: 986-1308
 
-📅 Next Transfer Windows:
-  📌 Mar 15 - Mar 22 (Open)
-  📌 Apr 12 - Apr 19 (Invitational)
+⚔️ Current Power Limits
+━━━━━━━━━━━━━━━━━━━━
+👑 Ordinary: 680m | 🏅 Leading: 372m
+🦸 Hero Gen: 9 | 🔥 FC: 10
+⚙️ Legendary Gear: ✅ | 🏛️ War Academy: ✅
 
-💰 Transfer Cost:
-  Score 0-2M: Free
-  Score 2M-5M: 500-2,000 gems
-  Score 5M+: 2,000-10,000 gems
-```
+📅 Next Transfer Dates
+━━━━━━━━━━━━━━━━━━━━
+✅ Dates You CAN Transfer
 
-### What You Lose After Transfer
-- Removed from all group chats
-- Unsecured resources lost (inventory stays)
-- Arena points reset to 1,000
-- Pack purchase limits reset
+🔵 #1 — 27.04.2026 (After SVS)  (34 days)
+   🔥 Furnace Requirement: Lv 10
+   👑 Ordinary: 790m | Leading: 415m
+   🦸 Gen 10 | FC 10 | ⚙️✅ | 🏛️✅
+   📋 Transfer Group: 986-1308
+
+🔵 #2 — 25.05.2026 (After SVS)  (62 days)
+   🔥 Furnace Requirement: Lv 10
+   👑 Ordinary: 790m | Leading: 415m
+   🦸 Gen 10 | FC 10 | ⚙️✅ | 🏛️✅
+   📋 Transfer Group: 1082-1427
+
+🔵 #3 — 22.06.2026 (After SVS)  (90 days)
+   🔥 Furnace Requirement: Lv 10
+   👑 Ordinary: 790m | Leading: 415m
+   🦸 Gen 10 | FC 10 | ⚙️✅ | 🏛️✅
+   📋 Transfer Group: 1190-1552
+
+🔵 #4 — 20.07.2026 (After SVS)  (118 days)
+   🔥 Furnace Requirement: Lv 10
+   👑 Ordinary: 830m | Leading: 435m
+   🦸 Gen 11 | FC 10 | ⚙️✅ | 🏛️✅
+   📋 Transfer Group: 986-1308
+
+🔵 #5 — 17.08.2026 (After SVS)  (146 days)
+   🔥 Furnace Requirement: Lv 10
+   👑 Ordinary: 830m | Leading: 435m
+   🦸 Gen 11 | FC 10 | ⚙️✅ | 🏛️✅
+   📋 Transfer Group: 1082-1427
+
+💰 Transfer Cost
+━━━━━━━━━━━━━━━━━━━━
+📊 Transfer Score = Furnace + Gear + Hero + Pet + Expert power (Troop power excluded)
+🎫 Cost range: 1-50 Pass
+💡 F2P/Low spender typical cost: 6-12 Pass
+🏪 Alliance Store: 150K Token
+
+📋 Transfer Requirements
+━━━━━━━━━━━━━━━━━━━━
+1️⃣ Must not exceed the Power Cap
+2️⃣ Must reach required Furnace level (varies with state age)
+3️⃣ Must not be in any Alliance
+4️⃣ City must not be in combat
+5️⃣ 25+ days since last transfer
+6️⃣ Target state must have same Hero Gen and FC level
+7️⃣ Fewer than 4 characters in target state
+
+📌 Transfer Phases
+━━━━━━━━━━━━━━━━━━━━
+🔸 Phase 1: Pre-Transfer (3 days) — Power caps are set
+🔸 Phase 2: Invitational Transfer (2 days) — President sends invites
+🔸 Phase 3: Open Transfer (2 days) — Everyone can transfer
+
+⚠️ What You Lose After Transfer
+━━━━━━━━━━━━━━━━━━━━
+• Removed from all group chats
+• Unsecured resources lost (inventory stays)
+• Arena points reset to 1,000
+• Pack purchase limits reset
+
+🔄 Migration calculator: /migrate
 
 ---
 
@@ -358,6 +437,26 @@ Contact us for a **free trial** with full access to all features:
 
 ---
 
+## 🎁 Get Gift Codes — No Bot Required
+
+Don't have the bot set up yet? You can still get **WhiteOut Survival gift codes** redeemed for your account instantly.
+
+<div align="center">
+
+[![🎁 Request Gift Code Redemption](https://img.shields.io/badge/🎁_REQUEST_GIFT_CODE_REDEMPTION-FF4500?style=for-the-badge&labelColor=1a1a1a&logoColor=white)](https://t.me/btuncsiper)
+
+[![Browse Live Codes](https://img.shields.io/badge/Browse_Live_Gift_Codes-FF6600?style=for-the-badge&labelColor=1a1a1a&logoColor=white)](https://woscontrol.com/codes)
+
+</div>
+
+> 📋 **How it works:**
+> 1. Find all active codes at **[woscontrol.com/codes](https://woscontrol.com/codes)**
+> 2. Contact [@btuncsiper](https://t.me/btuncsiper) on Telegram with your **FID**
+> 3. All active gift codes get redeemed for your account — instantly, no registration needed
+> 4. Add the bot to your alliance group for permanent, fully automatic redemption 🚀
+
+---
+
 ## 📖 Guides
 
 ### How to Find Your FID
@@ -390,8 +489,8 @@ Your **FID (Fighter ID)** is your unique player identifier in WhiteOut Survival.
 |-----------|-------|-------------|
 | Gift Code Scan Interval | **5 minutes** | How often new codes are checked |
 | Member Check Interval | **20 minutes** | Default alliance monitoring interval |
-| API Batch Size | **10 concurrent** | Player data fetch parallelism |
-| Gift Code Batch Size | **20 concurrent** | Code redemption parallelism |
+| API Batch Size | **500 concurrent** | Player data fetch parallelism |
+| Gift Code Batch Size | **500 concurrent** | Code redemption parallelism |
 | CAPTCHA Solve Time | **~3.5ms** | Local ONNX model inference |
 
 ### Architecture Highlights
