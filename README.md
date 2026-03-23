@@ -99,6 +99,15 @@ The bot operates on both **Telegram** and **Discord** simultaneously, with a sha
 
 </div>
 
+### 📸 Screenshots
+
+<div align="center">
+
+<img src="images/giftcodeusing.png" alt="Giftcodeusing" width="48%"> &nbsp; <img src="images/googleformuser.png" alt="Googleformuser" width="48%">
+
+<img src="images/statechanges.png" alt="Statechanges" width="48%">
+
+</div>
 
 
 ---
@@ -385,6 +394,7 @@ The `/transfer` command provides comprehensive transfer information:
 • Pack purchase limits reset
 
 🔄 Migration calculator: /migrate
+```
 
 ---
 
