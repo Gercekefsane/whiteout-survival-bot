@@ -1450,5 +1450,12 @@
   "invites_summary": "<b>요약:</b> 📱 TG {tg_ok}/{tg_total} | 🎮 DC {dc_ok}/{dc_total} | 총: {ok}/{total}",
   "invites_health_summary": "🏥 <b>상태:</b> 🔴 추방됨: {kicked} | ⚠️ 관리자 아님: {no_access}",
   "alliance_bot_kicked_warning": "🚫 <b>봇이 이 그룹에서 제거되었습니다.</b>\n\n모든 봇 기능이 비활성화됩니다:\n• 자동 기프트 코드 사용\n• 멤버 등록\n• 이전 명령어\n• 초대 링크 생성\n\n기능을 복원하려면 봇을 전체 관리자 권한으로 다시 추가하세요.",
-  "alliance_bot_no_access_warning": "⚠️ <b>봇이 이 그룹에서 관리자 권한이 없습니다.</b>\n\n관리자 권한이 부여될 때까지 봇 기능이 제한됩니다:\n• 자동 기프트 코드 사용\n• 멤버 등록\n• 이전 명령어\n• 초대 링크 생성\n\n기능을 복원하려면 봇에 <b>전체 관리자 권한</b>을 부여하세요."
+  "alliance_bot_no_access_warning": "⚠️ <b>봇이 이 그룹에서 관리자 권한이 없습니다.</b>\n\n관리자 권한이 부여될 때까지 봇 기능이 제한됩니다:\n• 자동 기프트 코드 사용\n• 멤버 등록\n• 이전 명령어\n• 초대 링크 생성\n\n기능을 복원하려면 봇에 <b>전체 관리자 권한</b>을 부여하세요.",
+  "gform_tg_detected_title": "📋 Google 폼 감지됨!",
+  "gform_forms_site_link": "🌐 <a href=\"https://woscontrol.com/forms\">모든 폼 보기 → woscontrol.com/forms</a>",
+  "gform_tg_detected_body": "<b>{title}</b>\n🔗 <a href=\"{url}\">폼 열기</a>\n\n👤 <b>감지자:</b> {detector}\n🏰 <b>동맹:</b> [{tag}] {alliance}\n\n📊 <b>폼 정보</b>\n   {fields} 필드 · {pages} 페이지{uid_line}{expire_line}\n\n⏳ <b>처리 중</b>\n   👥 {count}명 ({already}명 이미 제출)\n\n🌐 <a href=\"https://woscontrol.com/forms\">woscontrol.com/forms</a>",
+  "gform_tg_complete_title": "✅ Google 폼 — 완료 ✅",
+  "gform_tg_complete_body": "<b>{title}</b>\n🔗 <a href=\"{url}\">폼 열기</a>\n\n👤 <b>감지자:</b> {detector} — 감사합니다! 🙏\n🏰 <b>동맹:</b> [{tag}] {alliance}\n\n📊 <b>결과</b>\n   {bar} <b>{pct}%</b>\n   👥 총: <b>{total}</b> · ✅ <b>{success}</b> · ❌ <b>{failed}</b>\n\n🌐 <a href=\"https://woscontrol.com/forms\">woscontrol.com/forms</a>",
+  "gform_tg_failed_section": "\n\n❌ <b>실패 ({count}):</b>",
+  "gform_confirmation_label": "🎁 보상 / 응답:"
 }
