@@ -750,6 +750,8 @@
   "member_left_user": "Kullanıcı",
   "member_left_fid": "FID",
   "member_left_notice": "Alliance kaydı silindi, hesap verileri korundu.",
+  "member_left_dm_title": "İttifaktan ayrıldınız",
+  "member_left_dm_body": "<b>[{tag}] {name}</b> ittifak kaydınız kaldırıldı.\n\n⚠️ <b>Bu ne anlama geliyor:</b>\n• Artık otomatik hediye kodu alamazsınız\n• Hesap verileriniz ve geçmişiniz korunmaktadır\n\n🔄 <b>Tekrar katılmak için:</b>\n1. Bir ittifak grubuna katılın (Telegram/Discord)\n2. /register [FID'niz] komutuyla tekrar kayıt olun\n\n💡 Hediye kodlarını manuel olarak kullanabilirsiniz:\nhttps://woscontrol.com/codes",
   "lang_personal_title": " Kişisel Dil Ayarı",
   "lang_personal_desc": "Bu SİZİN kişisel dil tercihinizi değiştirir.\nBot mesajları seçtiğiniz dilde görünecektir.",
   "lang_current": "Mevcut",
