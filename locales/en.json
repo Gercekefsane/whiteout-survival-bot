@@ -728,6 +728,8 @@
   "member_left_user": "User",
   "member_left_fid": "FID",
   "member_left_notice": "Alliance registration cleared, account data preserved.",
+  "member_left_dm_title": "You left the alliance",
+  "member_left_dm_body": "Your alliance registration for <b>[{tag}] {name}</b> has been removed.\n\n⚠️ <b>What this means:</b>\n• You can no longer receive gift codes automatically\n• Your account data and history are preserved\n\n🔄 <b>To rejoin:</b>\n1. Join an alliance group (Telegram/Discord)\n2. Use /register [your FID] to register again\n\n💡 You can still redeem gift codes manually at:\nhttps://woscontrol.com/codes",
   "lang_personal_title": "🌐 Personal Language",
   "lang_personal_desc": "This changes YOUR personal language preference.\nBot messages will appear in your chosen language.",
   "lang_current": "Current",
