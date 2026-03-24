@@ -1477,5 +1477,7 @@
   "invites_discord_error": "Discord hatası: {error}",
   "invites_discord_not_loaded": "Discord bot yüklenemedi",
   "invites_summary": "<b>Özet:</b> 📱 TG {tg_ok}/{tg_total} | 🎮 DC {dc_ok}/{dc_total} | Toplam: {ok}/{total}",
-  "invites_health_summary": "🏥 <b>Sağlık:</b> 🔴 Atılan: {kicked} | ⚠️ Yönetici Değil: {no_access}"
+  "invites_health_summary": "🏥 <b>Sağlık:</b> 🔴 Atılan: {kicked} | ⚠️ Yönetici Değil: {no_access}",
+  "alliance_bot_kicked_warning": "🚫 <b>Bot bu gruptan çıkarılmış.</b>\n\nTüm bot özellikleri devre dışı:\n• Otomatik hediye kodu kullanımı\n• Üye kaydı\n• Transfer komutları\n• Davet linki oluşturma\n\nİşlevselliği geri yüklemek için botu tam yönetici yetkileriyle tekrar ekleyin.",
+  "alliance_bot_no_access_warning": "⚠️ <b>Bot bu grupta yönetici yetkilerine sahip değil.</b>\n\nYönetici yetkileri verilene kadar bot özellikleri kısıtlıdır:\n• Otomatik hediye kodu kullanımı\n• Üye kaydı\n• Transfer komutları\n• Davet linki oluşturma\n\nİşlevselliği geri yüklemek için bota <b>tam yönetici yetkileri</b> verin."
 }
