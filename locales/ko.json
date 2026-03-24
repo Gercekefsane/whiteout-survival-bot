@@ -1443,5 +1443,7 @@
   "invites_discord_error": "디스코드 오류: {error}",
   "invites_discord_not_loaded": "디스코드 봇이 로드되지 않음",
   "invites_summary": "<b>요약:</b> 📱 TG {tg_ok}/{tg_total} | 🎮 DC {dc_ok}/{dc_total} | 총: {ok}/{total}",
-  "invites_health_summary": "🏥 <b>상태:</b> 🔴 추방됨: {kicked} | ⚠️ 관리자 아님: {no_access}"
+  "invites_health_summary": "🏥 <b>상태:</b> 🔴 추방됨: {kicked} | ⚠️ 관리자 아님: {no_access}",
+  "alliance_bot_kicked_warning": "🚫 <b>봇이 이 그룹에서 제거되었습니다.</b>\n\n모든 봇 기능이 비활성화됩니다:\n• 자동 기프트 코드 사용\n• 멤버 등록\n• 이전 명령어\n• 초대 링크 생성\n\n기능을 복원하려면 봇을 전체 관리자 권한으로 다시 추가하세요.",
+  "alliance_bot_no_access_warning": "⚠️ <b>봇이 이 그룹에서 관리자 권한이 없습니다.</b>\n\n관리자 권한이 부여될 때까지 봇 기능이 제한됩니다:\n• 자동 기프트 코드 사용\n• 멤버 등록\n• 이전 명령어\n• 초대 링크 생성\n\n기능을 복원하려면 봇에 <b>전체 관리자 권한</b>을 부여하세요."
 }
