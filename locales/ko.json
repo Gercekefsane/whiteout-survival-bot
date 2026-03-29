@@ -1457,5 +1457,11 @@
   "gform_tg_complete_title": "✅ Google 폼 — 완료 ✅",
   "gform_tg_complete_body": "<b>{title}</b>\n🔗 <a href=\"{url}\">폼 열기</a>\n\n👤 <b>감지자:</b> {detector} — 감사합니다! 🙏\n🏰 <b>동맹:</b> [{tag}] {alliance}\n\n📊 <b>결과</b>\n   {bar} <b>{pct}%</b>\n   👥 총: <b>{total}</b> · ✅ <b>{success}</b> · ❌ <b>{failed}</b>\n\n🌐 <a href=\"https://woscontrol.com/forms\">woscontrol.com/forms</a>",
   "gform_tg_failed_section": "\n\n❌ <b>실패 ({count}):</b>",
-  "gform_confirmation_label": "🎁 보상 / 응답:"
+  "gform_confirmation_label": "🎁 보상 / 응답:",
+  "marketplace_command_text": "🏪 <b>계정 마켓플레이스</b>\n\nWhiteOut Survival 계정을 안전하게 사고팔 수 있습니다! 아래 버튼을 클릭하여 마켓플레이스를 둘러보세요.",
+  "marketplace_visit_button": "🛒 마켓플레이스 방문",
+  "marketplace_mylistings_text": "📋 <b>내 공고</b>\n\n활성, 판매됨 및 만료된 공고를 확인하세요. 아래 버튼을 클릭하여 공고를 관리하세요.",
+  "marketplace_mylistings_button": "📋 내 공고 보기",
+  "marketplace_create_text": "➕ <b>공고 만들기</b>\n\n새 계정 공고를 만드세요. 스크린샷을 업로드하고 AI 분석으로 계정 가치를 확인하세요.",
+  "marketplace_create_button": "➕ 공고 만들기"
 }
