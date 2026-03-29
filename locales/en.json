@@ -1517,5 +1517,11 @@
   "invites_summary": "<b>Summary:</b> 📱 TG {tg_ok}/{tg_total} | 🎮 DC {dc_ok}/{dc_total} | Total: {ok}/{total}",
   "invites_health_summary": "🏥 <b>Health:</b> 🔴 Kicked: {kicked} | ⚠️ No Admin: {no_access}",
   "alliance_bot_kicked_warning": "🚫 <b>Bot has been removed from this group.</b>\n\nAll bot features are disabled:\n• Gift code auto-redeem\n• Member registration\n• Transfer commands\n• Invite link generation\n\nPlease re-add the bot as admin with full permissions to restore functionality.",
-  "alliance_bot_no_access_warning": "⚠️ <b>Bot does not have admin permissions in this group.</b>\n\nBot features are restricted until admin permissions are granted:\n• Gift code auto-redeem\n• Member registration\n• Transfer commands\n• Invite link generation\n\nPlease grant the bot <b>full admin permissions</b> to restore functionality."
+  "alliance_bot_no_access_warning": "⚠️ <b>Bot does not have admin permissions in this group.</b>\n\nBot features are restricted until admin permissions are granted:\n• Gift code auto-redeem\n• Member registration\n• Transfer commands\n• Invite link generation\n\nPlease grant the bot <b>full admin permissions</b> to restore functionality.",
+  "marketplace_command_text": "🏪 <b>Account Marketplace</b>\n\nBuy and sell WhiteOut Survival accounts safely! Click the button below to browse the marketplace.",
+  "marketplace_visit_button": "🛒 Visit Marketplace",
+  "marketplace_mylistings_text": "📋 <b>My Listings</b>\n\nView your active, sold, and expired listings. Click the button below to manage your listings.",
+  "marketplace_mylistings_button": "📋 View My Listings",
+  "marketplace_create_text": "➕ <b>Create Listing</b>\n\nCreate a new account listing. Upload screenshots and let AI analysis determine your account's value.",
+  "marketplace_create_button": "➕ Create Listing"
 }
