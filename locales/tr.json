@@ -1554,5 +1554,11 @@
   "pet_skill_ice_breaker": "Buz Kırıcı",
   "pet_skill_ice_breaker_desc": "Kuşatma Hasarını Artırır",
   "pet_skill_adaptive_camouflage": "Uyarlanabilir Kamuflaj",
-  "pet_skill_adaptive_camouflage_desc": "Gizlilik ve Kaçınmayı Artırır"
+  "pet_skill_adaptive_camouflage_desc": "Gizlilik ve Kaçınmayı Artırır",
+  "marketplace_command_text": "🏪 <b>Hesap Pazaryeri</b>\n\nWhiteOut Survival hesaplarını güvenli bir şekilde alıp satın! Pazaryerine göz atmak için aşağıdaki butona tıklayın.",
+  "marketplace_visit_button": "🛒 Pazaryerini Ziyaret Et",
+  "marketplace_mylistings_text": "📋 <b>İlanlarım</b>\n\nAktif, satılan ve süresi dolan ilanlarınızı görüntüleyin. İlanlarınızı yönetmek için aşağıdaki butona tıklayın.",
+  "marketplace_mylistings_button": "📋 İlanlarımı Görüntüle",
+  "marketplace_create_text": "➕ <b>İlan Oluştur</b>\n\nYeni bir hesap ilanı oluşturun. Ekran görüntüleri yükleyin ve AI analizi ile hesabınızın değerini belirleyin.",
+  "marketplace_create_button": "➕ İlan Oluştur"
 }
