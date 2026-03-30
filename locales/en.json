@@ -1527,5 +1527,7 @@
   "game_conflict_title": "Two Profiles Found!",
   "game_conflict_desc": "Your Player ID exists in both Whiteout Survival and Kingshot. Please choose which game you want to register for:",
   "game_conflict_choose": "Which game is your account?",
-  "registration_failed": "Registration failed"
+  "registration_failed": "Registration failed",
+  "furnace_too_low_title": "Furnace Level Too Low",
+  "furnace_too_low_desc": "Minimum Furnace Level 7 (FC 7) is required to register. Please upgrade your furnace and try again."
 }
