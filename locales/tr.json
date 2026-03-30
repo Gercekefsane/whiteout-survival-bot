@@ -1451,7 +1451,7 @@
   "kingdom_limit_desc": "{kingdom} krallığından {count} kişi zaten bu grupta mevcut (limit: {limit}).",
   "kingdom_limit_hint": "Daha fazla üye eklemek için özel bir grup oluşturun ve /premium inceleyin.",
   "star_bonus_hint": "Hesabınızı /github ile bağlayarak ekstra kayıt hakkı kazanın!",
-  "web_player_link": "👤 Oyuncu Profili: https://woscontrol.com/player-search/{fid}",
+  "web_player_link": "👤 Oyuncu Profili: https://woscontrol.com/user/{fid}",
   "topic_name_giftcodes": "WosControl-HediyeKodları",
   "topic_name_giftlog": "WosControl-HediyeKodLog",
   "dc_topic_giftcodes": "🎁 WosControl Bot hediye kodu bildirimleri",
@@ -1560,5 +1560,9 @@
   "marketplace_mylistings_text": "📋 <b>İlanlarım</b>\n\nAktif, satılan ve süresi dolan ilanlarınızı görüntüleyin. İlanlarınızı yönetmek için aşağıdaki butona tıklayın.",
   "marketplace_mylistings_button": "📋 İlanlarımı Görüntüle",
   "marketplace_create_text": "➕ <b>İlan Oluştur</b>\n\nYeni bir hesap ilanı oluşturun. Ekran görüntüleri yükleyin ve AI analizi ile hesabınızın değerini belirleyin.",
-  "marketplace_create_button": "➕ İlan Oluştur"
+  "marketplace_create_button": "➕ İlan Oluştur",
+  "game_conflict_title": "İki Profil Bulundu!",
+  "game_conflict_desc": "Oyuncu ID niz hem Whiteout Survival hem de Kingshot ta mevcut. Hangi oyun icin kayit olmak istediginizi secin:",
+  "game_conflict_choose": "Hesabiniz hangi oyunda?",
+  "registration_failed": "Kayit basarisiz"
 }
