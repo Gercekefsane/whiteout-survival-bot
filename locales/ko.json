@@ -1414,7 +1414,7 @@
   "kingdom_limit_desc": "{kingdom}에서 {count}명이 이미 이 그룹에 있습니다 (제한: {limit}).",
   "kingdom_limit_hint": "더 많은 멤버를 추가하려면 전용 그룹을 만들고 /premium을 확인하세요.",
   "star_bonus_hint": "/github로 계정을 연결하여 추가 등록 슬롯을 받으세요!",
-  "web_player_link": " 플레이어 프로필: https://woscontrol.com/player-search/{fid}",
+  "web_player_link": "👤 플레이어 프로필: https://woscontrol.com/user/{fid}",
   "web_giftcodes_link": " 웹에서 기프트 코드 사용: https://woscontrol.com/codes",
   "web_alliances_link": " 웹에서 동맹 보기: https://woscontrol.com/alliances",
   "yt_add_tg_dm_failed": "Telegram으로 환영 DM을 보내지 못했습니다. Telegram 연락처가 저장되지 않았습니다.",
@@ -1463,5 +1463,9 @@
   "marketplace_mylistings_text": "📋 <b>내 공고</b>\n\n활성, 판매됨 및 만료된 공고를 확인하세요. 아래 버튼을 클릭하여 공고를 관리하세요.",
   "marketplace_mylistings_button": "📋 내 공고 보기",
   "marketplace_create_text": "➕ <b>공고 만들기</b>\n\n새 계정 공고를 만드세요. 스크린샷을 업로드하고 AI 분석으로 계정 가치를 확인하세요.",
-  "marketplace_create_button": "➕ 공고 만들기"
+  "marketplace_create_button": "➕ 공고 만들기",
+  "game_conflict_title": "두 개의 프로필 발견!",
+  "game_conflict_desc": "플레이어 ID가 Whiteout Survival과 Kingshot 모두에 존재합니다. 등록할 게임을 선택하세요:",
+  "game_conflict_choose": "어느 게임의 계정인가요?",
+  "registration_failed": "등록 실패"
 }
