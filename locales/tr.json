@@ -1564,5 +1564,7 @@
   "game_conflict_title": "İki Profil Bulundu!",
   "game_conflict_desc": "Oyuncu ID niz hem Whiteout Survival hem de Kingshot ta mevcut. Hangi oyun icin kayit olmak istediginizi secin:",
   "game_conflict_choose": "Hesabiniz hangi oyunda?",
-  "registration_failed": "Kayit basarisiz"
+  "registration_failed": "Kayit basarisiz",
+  "furnace_too_low_title": "Fırın Seviyesi Yetersiz",
+  "furnace_too_low_desc": "Kayit icin minimum Fırın Seviyesi 7 (FC 7) gereklidir. Ocagini yukseltip tekrar deneyin."
 }
