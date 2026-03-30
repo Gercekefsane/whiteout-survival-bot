@@ -1415,7 +1415,7 @@
   "kingdom_limit_desc": "{count} участников из {kingdom} уже в этой группе (лимит: {limit}).",
   "kingdom_limit_hint": "Для добавления большего числа участников создайте отдельную группу и проверьте /premium.",
   "star_bonus_hint": "Подключите аккаунт и получите дополнительные слоты регистрации!",
-  "web_player_link": " Профиль игрока: https://woscontrol.com/player-search/{fid}",
+  "web_player_link": "👤 Профиль игрока: https://woscontrol.com/user/{fid}",
   "gform_existing_title": "Форма уже существует",
   "gform_detected_by": "Обнаружено",
   "gform_readding_owner": "Повторный анализ формы с актуальными данными...",
@@ -1478,5 +1478,9 @@
   "marketplace_mylistings_text": "📋 <b>Мои объявления</b>\n\nПросмотрите свои активные, проданные и истёкшие объявления. Нажмите кнопку ниже для управления объявлениями.",
   "marketplace_mylistings_button": "📋 Просмотреть мои объявления",
   "marketplace_create_text": "➕ <b>Создать объявление</b>\n\nСоздайте новое объявление об аккаунте. Загрузите скриншоты и позвольте ИИ определить стоимость вашего аккаунта.",
-  "marketplace_create_button": "➕ Создать объявление"
+  "marketplace_create_button": "➕ Создать объявление",
+  "game_conflict_title": "Найдено два профиля!",
+  "game_conflict_desc": "Ваш ID игрока существует и в Whiteout Survival, и в Kingshot. Выберите игру, для которой хотите зарегистрироваться:",
+  "game_conflict_choose": "В какой игре ваш аккаунт?",
+  "registration_failed": "Ошибка регистрации"
 }
