@@ -1460,7 +1460,7 @@
   "kingdom_limit_desc": "{count} members from {kingdom} are already in this group (limit: {limit}).",
   "kingdom_limit_hint": "To add more members, create a dedicated group and check /premium.",
   "star_bonus_hint": "Connect your GitHub account with /github to earn extra register slots!",
-  "web_player_link": " Player Profile: https://woscontrol.com/player-search/{fid}",
+  "web_player_link": "👤 Player Profile: https://woscontrol.com/user/{fid}",
   "gform_existing_title": "Form Already Exists",
   "gform_detected_by": "Detected by",
   "gform_readding_owner": "Re-analyzing form with fresh data...",
@@ -1523,5 +1523,9 @@
   "marketplace_mylistings_text": "📋 <b>My Listings</b>\n\nView your active, sold, and expired listings. Click the button below to manage your listings.",
   "marketplace_mylistings_button": "📋 View My Listings",
   "marketplace_create_text": "➕ <b>Create Listing</b>\n\nCreate a new account listing. Upload screenshots and let AI analysis determine your account's value.",
-  "marketplace_create_button": "➕ Create Listing"
+  "marketplace_create_button": "➕ Create Listing",
+  "game_conflict_title": "Two Profiles Found!",
+  "game_conflict_desc": "Your Player ID exists in both Whiteout Survival and Kingshot. Please choose which game you want to register for:",
+  "game_conflict_choose": "Which game is your account?",
+  "registration_failed": "Registration failed"
 }
