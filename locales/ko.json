@@ -1467,5 +1467,7 @@
   "game_conflict_title": "두 개의 프로필 발견!",
   "game_conflict_desc": "플레이어 ID가 Whiteout Survival과 Kingshot 모두에 존재합니다. 등록할 게임을 선택하세요:",
   "game_conflict_choose": "어느 게임의 계정인가요?",
-  "registration_failed": "등록 실패"
+  "registration_failed": "등록 실패",
+  "furnace_too_low_title": "화로 레벨이 너무 낮습니다",
+  "furnace_too_low_desc": "등록하려면 최소 화로 레벨 7 (FC 7)이 필요합니다. 화로를 업그레이드하고 다시 시도하세요."
 }
