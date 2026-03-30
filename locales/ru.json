@@ -1482,5 +1482,7 @@
   "game_conflict_title": "Найдено два профиля!",
   "game_conflict_desc": "Ваш ID игрока существует и в Whiteout Survival, и в Kingshot. Выберите игру, для которой хотите зарегистрироваться:",
   "game_conflict_choose": "В какой игре ваш аккаунт?",
-  "registration_failed": "Ошибка регистрации"
+  "registration_failed": "Ошибка регистрации",
+  "furnace_too_low_title": "Уровень печи слишком низкий",
+  "furnace_too_low_desc": "Для регистрации необходим минимальный уровень печи 7 (FC 7). Улучшите печь и попробуйте снова."
 }
