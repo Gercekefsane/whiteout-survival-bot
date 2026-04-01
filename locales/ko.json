@@ -821,6 +821,7 @@
   "sa_confirm_question": "맞습니까?",
   "sa_cancelled": "동맹 생성이 취소되었습니다.",
   "sa_error": "문제가 발생했습니다. /setupalliance로 다시 시도하세요.",
+  "setup_group_has_alliance": "❌ 이 그룹은 이미 연맹에 연결되어 있습니다!\n\n각 Telegram 그룹은 <b>하나의 연맹</b>에만 연결할 수 있습니다.\n\n🏰 현재 연맹: <b>[{tag}] {name}</b>\n\n다른 연맹을 연결하려면 먼저 기존 연결을 해제해야 합니다.",
   "register_member_desc": "게임 계정을 등록하세요",
   "premium_expires": "만료",
   "premium_duration_unlimited": "기간: 무제한",
