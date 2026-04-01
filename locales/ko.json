@@ -802,6 +802,8 @@
   "premium_price": "가격",
   "premium_click_to_pay": "아래 버튼을 클릭하여 결제를 진행하세요.",
   "premium_pay_now": "지금 결제",
+  "premium_sponsor_group_notice": "⚠️ 스폰서 그룹에서는 구매 링크를 사용할 수 없습니다.\n\n💡 프리미엄을 구매하려면 봇을 자신의 그룹에 추가하고 /premium 을 사용하세요.",
+  "premiumlist_title": "모든 프리미엄 구독",
   "premium_checkout_error": "결제 시스템이 일시적으로 사용할 수 없습니다.",
   "sa_title": "동맹 생성",
   "sa_select_game": "이 동맹의 게임을 선택하세요:",
