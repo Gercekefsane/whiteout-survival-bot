@@ -804,6 +804,8 @@
   "premium_price": "Price",
   "premium_click_to_pay": "Click the button below to proceed to payment.",
   "premium_pay_now": "Pay Now",
+  "premium_sponsor_group_notice": "⚠️ Purchase links are not available in sponsor groups.\n\n💡 To buy premium, add the bot to your own group and use /premium there.",
+  "premiumlist_title": "All Premium Subscriptions",
   "premium_checkout_error": "Payment system is temporarily unavailable.",
   "sa_title": "Create Alliance",
   "sa_select_game": "Select a game for this alliance:",
