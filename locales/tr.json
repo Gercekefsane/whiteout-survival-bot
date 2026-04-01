@@ -826,6 +826,8 @@
   "premium_price": "Fiyat",
   "premium_click_to_pay": "Ödemeye devam etmek için aşağıdaki butona tıklayın.",
   "premium_pay_now": "Şimdi Öde",
+  "premium_sponsor_group_notice": "⚠️ Sponsor gruplarda satın alma bağlantısı çalışmaz.\n\n💡 Premium almak için botu kendi grubunuza ekleyin ve orada /premium komutunu kullanın.",
+  "premiumlist_title": "Tüm Premium Abonelikler",
   "premium_checkout_error": "Ödeme sistemi geçici olarak kullanılamıyor.",
   "sa_title": "İttifak Oluştur",
   "sa_select_game": "Bu ittifak için bir oyun seçin:",
