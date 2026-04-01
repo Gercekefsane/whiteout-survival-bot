@@ -823,6 +823,7 @@
   "sa_confirm_question": "Is this correct?",
   "sa_cancelled": "Alliance creation cancelled.",
   "sa_error": "Something went wrong. Please try again with /setupalliance.",
+  "setup_group_has_alliance": "❌ This group is already linked to an alliance!\n\nEach Telegram group can only be connected to <b>one alliance</b>.\n\n🏰 Current alliance: <b>[{tag}] {name}</b>\n\nTo link a different alliance, you must first remove the existing connection.",
   "register_member_desc": "Register your game account",
   "premium_expires": "Expires",
   "premium_duration_unlimited": "Duration: Unlimited",
