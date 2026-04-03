@@ -821,6 +821,8 @@
   "sa_confirm_question": "맞습니까?",
   "sa_cancelled": "동맹 생성이 취소되었습니다.",
   "sa_error": "문제가 발생했습니다. /setupalliance로 다시 시도하세요.",
+  "setup_select_edit_option": "편집할 항목을 선택하세요:",
+  "setup_giftcode_info": "🎁 <b>Gift Code 채널 설정</b>\n\nGift code 알림을 특정 주제/채널로 라우팅하려면:\n\n📌 <code>/setchannel giftcode</code> — 코드가 전송되는 채널\n📌 <code>/setchannel giftlog</code> — 결과가 로깅되는 채널\n\n💡 현재 설정 보기: <code>/channels</code>",
   "setup_group_has_alliance": "❌ 이 그룹은 이미 연맹에 연결되어 있습니다!\n\n각 Telegram 그룹은 <b>하나의 연맹</b>에만 연결할 수 있습니다.\n\n🏰 현재 연맹: <b>[{tag}] {name}</b>\n\n다른 연맹을 연결하려면 먼저 기존 연결을 해제해야 합니다.",
   "register_member_desc": "게임 계정을 등록하세요",
   "premium_expires": "만료",
