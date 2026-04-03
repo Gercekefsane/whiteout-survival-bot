@@ -845,6 +845,8 @@
   "sa_confirm_question": "Bu bilgiler doğru mu?",
   "sa_cancelled": "İttifak oluşturma iptal edildi.",
   "sa_error": "Bir hata oluştu. Lütfen /setupalliance ile tekrar deneyin.",
+  "setup_select_edit_option": "Düzenlemek istediğiniz seçeneği seçin:",
+  "setup_giftcode_info": "🎁 <b>Hediye Kodu Kanal Ayarları</b>\n\nGift code bildirimlerini belirli bir konuya/kanala yönlendirmek için:\n\n📌 <code>/setchannel giftcode</code> — Kodların gönderileceği kanal\n📌 <code>/setchannel giftlog</code> — Sonucların loglanacağı kanal\n\n💡 Mevcut ayarları görmek için: <code>/channels</code>",
   "setup_group_has_alliance": "❌ Bu grup zaten bir ittifaka bağlı!\n\nHer Telegram grubu yalnızca <b>tek bir ittifak</b> ile kullanılabilir.\n\n🏰 Mevcut ittifak: <b>[{tag}] {name}</b>\n\nYeni ittifak oluşturmak veya bağlamak istiyorsanız önce mevcut bağlantıyı kaldırmanız gerekir.",
   "register_member_desc": "Oyun hesabınızı kaydedin",
   "premium_expires": "Bitiş",
