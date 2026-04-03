@@ -763,6 +763,8 @@
   "sa_confirm_question": "Всё верно?",
   "sa_cancelled": "Создание альянса отменено.",
   "sa_error": "Произошла ошибка. Попробуйте снова с /setupalliance.",
+  "setup_select_edit_option": "Выберите, что хотите изменить:",
+  "setup_giftcode_info": "🎁 <b>Настройка канала Gift Code</b>\n\nДля направления уведомлений в определённый канал/тему:\n\n📌 <code>/setchannel giftcode</code> — Канал для отправки кодов\n📌 <code>/setchannel giftlog</code> — Канал для логирования результатов\n\n💡 Текущие настройки: <code>/channels</code>",
   "setup_group_has_alliance": "❌ Эта группа уже привязана к альянсу!\n\nКаждая группа Telegram может быть подключена только к <b>одному альянсу</b>.\n\n🏰 Текущий альянс: <b>[{tag}] {name}</b>\n\nЧтобы привязать другой альянс, необходимо сначала удалить текущее подключение.",
   "register_member_desc": "Зарегистрируйте игровой аккаунт",
   "premium_expires": "Истекает",
