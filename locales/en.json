@@ -1534,5 +1534,22 @@
   "game_conflict_choose": "Which game is your account?",
   "registration_failed": "Registration failed",
   "furnace_too_low_title": "Furnace Level Too Low",
-  "furnace_too_low_desc": "Minimum Furnace Level 7 (FC 7) is required to register. Please upgrade your furnace and try again."
+  "furnace_too_low_desc": "Minimum Furnace Level 7 (FC 7) is required to register. Please upgrade your furnace and try again.",
+  "premium_grace_ended_title": "⚠️ Premium Grace Period Ended",
+  "premium_grace_ended_group": "🔴 <b>{tag}</b> alliance plan has been downgraded to <b>Free</b>.\n\nExcess members will be <b>removed within 24 hours</b>.\n\n💡 Renew your subscription: /premium",
+  "premium_grace_ended_owner": "🔴 Grace ended: [{tag}] {name}\nPlan: {plan} → Free\nExcess members: {excess}\nRemoval scheduled in 24 hours",
+  "premium_removal_title": "🔴 Member Removal Complete",
+  "premium_removal_group": "🔴 <b>Member Removal Complete</b>\n\n🏰 [{tag}] {name}\n📦 Plan: Free ({limit} member limit)\n\n🗑️ Removed: <b>{count}</b> members\n\nPurchase a subscription to restore members: /premium",
+  "premium_removal_owner": "🗑️ [{tag}] {name} — {count} members removed (limit: {limit})",
+  "premium_recovery_offer_title": "♻️ Member Recovery Available",
+  "premium_recovery_offer_body": "Your new premium plan is now active!\n\n♻️ <b>{count}</b> member(s) were previously removed. Would you like to start recovery?\n\n📋 Conditions:\n• Only members still in the Telegram group can be recovered\n• Current plan limits apply ({limit} members)\n\nAn <b>alliance admin</b> must approve this action:",
+  "premium_recovery_approve_btn": "✅ Approve Recovery",
+  "premium_recovery_decline_btn": "❌ Decline",
+  "premium_recovery_report_title": "📊 Recovery Report",
+  "premium_recovery_restored": "Recovered",
+  "premium_recovery_left_group": "Left Telegram group (unrecoverable)",
+  "premium_recovery_limit_reached": "Plan limit reached (unrecoverable)",
+  "premium_recovery_declined": "Recovery declined. Removed members will remain removed.",
+  "premium_recovery_no_members": "No members available for recovery.",
+  "premium_recovery_done_group": "📊 <b>Recovery Complete</b>\n\n✅ Recovered: <b>{recovered}</b>\n🚫 Left group: <b>{left_group}</b>\n⛔ Limit reached: <b>{limit_reached}</b>"
 }
