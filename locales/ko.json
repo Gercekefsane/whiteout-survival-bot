@@ -1474,5 +1474,22 @@
   "game_conflict_choose": "어느 게임의 계정인가요?",
   "registration_failed": "등록 실패",
   "furnace_too_low_title": "화로 레벨이 너무 낮습니다",
-  "furnace_too_low_desc": "등록하려면 최소 화로 레벨 7 (FC 7)이 필요합니다. 화로를 업그레이드하고 다시 시도하세요."
+  "furnace_too_low_desc": "등록하려면 최소 화로 레벨 7 (FC 7)이 필요합니다. 화로를 업그레이드하고 다시 시도하세요.",
+  "premium_grace_ended_title": "⚠️ Premium 유예 기간 종료",
+  "premium_grace_ended_group": "🔴 <b>{tag}</b> 동맹 플런이 <b>Free</b>로 다운그레이드되었습니다.\n\n초과 멤버는 <b>24시간 이내에 제거</b>됩니다.\n\n💡 구독 갱신: /premium",
+  "premium_grace_ended_owner": "🔴 유예 종료: [{tag}] {name}\n플런이: {plan} → Free\n초과 멤버: {excess}\n24시간 이내 제거 예정",
+  "premium_removal_title": "🔴 멤버 제거 완료",
+  "premium_removal_group": "🔴 <b>멤버 제거 완료</b>\n\n🏰 [{tag}] {name}\n📦 플런이: Free ({limit}명 제한)\n\n🗑️ 제거됨: <b>{count}</b>명\n\n멤버 복구를 위해 구독을 구매하세요: /premium",
+  "premium_removal_owner": "🗑️ [{tag}] {name} — {count}명 제거됨 (제한: {limit})",
+  "premium_recovery_offer_title": "♻️ 멤버 복구 가능",
+  "premium_recovery_offer_body": "새 premium 플런이가 활성화되었습니다!\n\n♻️ <b>{count}</b>명이 이전에 제거되었습니다. 복구를 시작하시겠습니까?\n\n📋 조건:\n• Telegram 그룹에 여전히 있는 멤버만 복구 가능\n• 현재 플런이 제한 적용 ({limit}명)\n\n<b>동맹 관리자</b>가 승인해야 합니다:",
+  "premium_recovery_approve_btn": "✅ 복구 승인",
+  "premium_recovery_decline_btn": "❌ 거절",
+  "premium_recovery_report_title": "📊 복구 보고서",
+  "premium_recovery_restored": "복구됨",
+  "premium_recovery_left_group": "Telegram 그룹 탈퇴 (복구 불가)",
+  "premium_recovery_limit_reached": "플런이 제한 도달 (복구 불가)",
+  "premium_recovery_declined": "복구가 거절되었습니다. 제거된 멤버는 제거된 상태로 유지됩니다.",
+  "premium_recovery_no_members": "복구할 멤버가 없습니다.",
+  "premium_recovery_done_group": "📊 <b>복구 완료</b>\n\n✅ 복구됨: <b>{recovered}</b>\n🚫 그룹 탈퇴: <b>{left_group}</b>\n⛔ 제한 도달: <b>{limit_reached}</b>"
 }
