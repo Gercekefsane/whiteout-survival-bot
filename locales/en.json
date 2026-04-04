@@ -1461,6 +1461,8 @@
   "captcha_codes_redeemed": "Codes redeemed",
   "captcha_unique_codes": "unique codes",
   "captcha_by_solver": "By Solver",
+  "web_codes_btn": "View Gift Codes",
+  "web_codes_redirect": "🎁 <b>Gift Codes</b>\n\nView all active and expired gift codes on our website.",
   "web_giftcodes_link": "🌐 Redeem gift codes on web: https://woscontrol.com/codes",
   "web_alliances_link": "🌐 View your alliance on web: https://woscontrol.com/alliances",
   "kingdom_limit_title": "Kingdom Member Limit Reached",
