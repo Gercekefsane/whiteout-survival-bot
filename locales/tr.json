@@ -1438,6 +1438,8 @@
   "captcha_codes_redeemed": "Kullanılan kodlar",
   "captcha_unique_codes": "benzersiz kod",
   "captcha_by_solver": "Çözücüye Göre",
+  "web_codes_btn": "Hediye Kodlarını Gör",
+  "web_codes_redirect": "🎁 <b>Hediye Kodları</b>\n\nTüm aktif ve süresi dolmuş hediye kodlarını web sitemizde görünün.",
   "web_giftcodes_link": "🌐 Hediye kodlarını web'den kullan: https://woscontrol.com/codes",
   "web_alliances_link": "🌐 İttifakını web'de gör: https://woscontrol.com/alliances",
   "codeimage_title": "Hediye Kodu Görseli Yükleme",
