@@ -1422,6 +1422,8 @@
   "kingdom_limit_hint": "더 많은 멤버를 추가하려면 전용 그룹을 만들고 /premium을 확인하세요.",
   "star_bonus_hint": "/github로 계정을 연결하여 추가 등록 슬롯을 받으세요!",
   "web_player_link": "👤 플레이어 프로필: https://woscontrol.com/user/{fid}",
+  "web_codes_btn": "기프트 코드 보기",
+  "web_codes_redirect": "🎁 <b>기프트 코드</b>\n\n웹사이트에서 모든 활성 및 만료된 기프트 코드를 확인하세요.",
   "web_giftcodes_link": " 웹에서 기프트 코드 사용: https://woscontrol.com/codes",
   "web_alliances_link": " 웹에서 동맹 보기: https://woscontrol.com/alliances",
   "yt_add_tg_dm_failed": "Telegram으로 환영 DM을 보내지 못했습니다. Telegram 연락처가 저장되지 않았습니다.",
