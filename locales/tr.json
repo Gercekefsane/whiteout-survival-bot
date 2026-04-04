@@ -1571,5 +1571,22 @@
   "game_conflict_choose": "Hesabiniz hangi oyunda?",
   "registration_failed": "Kayit basarisiz",
   "furnace_too_low_title": "Fırın Seviyesi Yetersiz",
-  "furnace_too_low_desc": "Kayit icin minimum Fırın Seviyesi 7 (FC 7) gereklidir. Ocagini yukseltip tekrar deneyin."
+  "furnace_too_low_desc": "Kayit icin minimum Fırın Seviyesi 7 (FC 7) gereklidir. Ocagini yukseltip tekrar deneyin.",
+  "premium_grace_ended_title": "⚠️ Premium Grace Süresi Bitti",
+  "premium_grace_ended_group": "🔴 <b>{tag}</b> ittifakının premium planı <b>Free</b>'ye düşürüldü.\n\nFazla üyeler <b>24 saat içinde</b> sistemden kaldırılacak.\n\n💡 Aboneliği yenilemek için /premium",
+  "premium_grace_ended_owner": "🔴 Grace süresi bitti: [{tag}] {name}\nPlan: {plan} → Free\nFazla üye: {excess}\nKaldırılacak: 24 saat içinde",
+  "premium_removal_title": "🔴 Üye Kaldırma Gerçekleşti",
+  "premium_removal_group": "🔴 <b>Üye Kaldırma Tamamlandı</b>\n\n🏰 [{tag}] {name}\n📦 Plan: Free ({limit} üye limiti)\n\n🗑️ Kaldırılan: <b>{count}</b> üye\n\nYeniden eklemek için abonelik satın alın: /premium",
+  "premium_removal_owner": "🗑️ [{tag}] {name} — {count} üye kaldırıldı (limit: {limit})",
+  "premium_recovery_offer_title": "♻️ Üye Kurtarma Mevcut",
+  "premium_recovery_offer_body": "Yeni premium planınız aktif edildi!\n\n♻️ <b>{count}</b> üye kaldırılmıştı. Kurtarma işlemi başlatmak ister misiniz?\n\n📋 Koşullar:\n• Sadece hâlâ Telegram grubunda olanlar kurtarılabilir\n• Mevcut plan limitleri geçerlidir ({limit} üye)\n\nOnay için <b>ittifak yöneticisi</b> onay vermelidir:",
+  "premium_recovery_approve_btn": "✅ Kurtarmayı Onayla",
+  "premium_recovery_decline_btn": "❌ Reddet",
+  "premium_recovery_report_title": "📊 Kurtarma Raporu",
+  "premium_recovery_restored": "Kurtarılan",
+  "premium_recovery_left_group": "Gruptan ayrılmış (kurtarılamaz)",
+  "premium_recovery_limit_reached": "Plan limiti doldu (kurtarılamaz)",
+  "premium_recovery_declined": "Kurtarma işlemi reddedildi. Üyeler kaldırılmış olarak kalacak.",
+  "premium_recovery_no_members": "Kurtarılacak üye bulunamadı.",
+  "premium_recovery_done_group": "📊 <b>Kurtarma Tamamlandı</b>\n\n✅ Kurtarılan: <b>{recovered}</b>\n🚫 Gruptan ayrılmış: <b>{left_group}</b>\n⛔ Limit doldu: <b>{limit_reached}</b>"
 }
