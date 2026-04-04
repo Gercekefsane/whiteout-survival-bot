@@ -85,6 +85,8 @@
   "no_admins": "📭 아직 관리자가 없습니다.",
   "only_owner": "⛔ 소유자만 가능합니다.",
   "no_permission": "⛔ 권한이 없습니다.",
+  "no_perm_alliance_owner": "❌ 이 명령어는 동맹 소유자 또는 관리자만 사용할 수 있습니다.",
+  "no_perm_admin_only": "❌ 이 명령어는 봇 관리자만 사용할 수 있습니다.",
   "group_only_command": "이 명령어는 그룹에서만 사용할 수 있습니다.",
   "already_admin": "⚠️ 이 사용자는 이미 관리자입니다.",
   "not_admin": "⚠️ 이 사용자는 관리자가 아닙니다.",
