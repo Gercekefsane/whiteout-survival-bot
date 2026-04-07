@@ -1153,6 +1153,7 @@
   "wiki_sources": "Источники",
   "wiki_event_leak": "Утечка события (Sneak Peek)",
   "wiki_event_official": "Новое событие",
+  "wiki_sneak_peek_new": "Sneak Peek",
   "bulkadd_disabled": "🚫 Команда /bulkadd отключена. Используйте /addmember для добавления участников по одному.",
   "bulkadd_title": "Массовое добавление",
   "bulkadd_hint": "Вставьте FID через пробел или запятую. TAG не нужен — альянс определяется автоматически.",
