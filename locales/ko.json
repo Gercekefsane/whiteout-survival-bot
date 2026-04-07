@@ -1206,6 +1206,7 @@
   "wiki_sources": "출처",
   "wiki_event_leak": "이벤트 리크 (스닉 픽)",
   "wiki_event_official": "새 이벤트",
+  "wiki_sneak_peek_new": "스닉 픽",
   "bulkadd_disabled": "🚫 /bulkadd 명령어가 비활성화되었습니다. /addmember로 멤버를 하나씩 추가하세요.",
   "bulkadd_title": "대량 멤버 추가",
   "bulkadd_hint": "FID를 공백 또는 쉼표로 구분하여 붙여넣으세요. TAG 필요 없음 — 동맹은 그룹에서 자동 감지됩니다.",
