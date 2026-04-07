@@ -1231,6 +1231,7 @@
   "wiki_sources": "Sources",
   "wiki_event_leak": "Event Leak (Sneak Peek)",
   "wiki_event_official": "New Event",
+  "wiki_sneak_peek_new": "Sneak Peek",
   "bulkadd_disabled": "🚫 The /bulkadd command has been disabled. Please use /addmember to add members one by one.",
   "bulkadd_title": "Bulk Add Members",
   "bulkadd_hint": "Paste FIDs separated by spaces or commas. No TAG needed — alliance is auto-detected from group.",
