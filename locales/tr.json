@@ -1592,5 +1592,6 @@
   "premium_recovery_limit_reached": "Plan limiti doldu (kurtarılamaz)",
   "premium_recovery_declined": "Kurtarma işlemi reddedildi. Üyeler kaldırılmış olarak kalacak.",
   "premium_recovery_no_members": "Kurtarılacak üye bulunamadı.",
-  "premium_recovery_done_group": "📊 <b>Kurtarma Tamamlandı</b>\n\n✅ Kurtarılan: <b>{recovered}</b>\n🚫 Gruptan ayrılmış: <b>{left_group}</b>\n⛔ Limit doldu: <b>{limit_reached}</b>"
+  "premium_recovery_done_group": "📊 <b>Kurtarma Tamamlandı</b>\n\n✅ Kurtarılan: <b>{recovered}</b>\n🚫 Gruptan ayrılmış: <b>{left_group}</b>\n⛔ Limit doldu: <b>{limit_reached}</b>",
+  "channel_promo": "\n\n📢 <b>Resmi Kanalımız:</b> @woscontrol"
 }
