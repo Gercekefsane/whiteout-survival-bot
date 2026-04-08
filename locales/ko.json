@@ -1495,5 +1495,6 @@
   "premium_recovery_limit_reached": "플런이 제한 도달 (복구 불가)",
   "premium_recovery_declined": "복구가 거절되었습니다. 제거된 멤버는 제거된 상태로 유지됩니다.",
   "premium_recovery_no_members": "복구할 멤버가 없습니다.",
-  "premium_recovery_done_group": "📊 <b>복구 완료</b>\n\n✅ 복구됨: <b>{recovered}</b>\n🚫 그룹 탈퇴: <b>{left_group}</b>\n⛔ 제한 도달: <b>{limit_reached}</b>"
+  "premium_recovery_done_group": "📊 <b>복구 완료</b>\n\n✅ 복구됨: <b>{recovered}</b>\n🚫 그룹 탈퇴: <b>{left_group}</b>\n⛔ 제한 도달: <b>{limit_reached}</b>",
+  "channel_promo": "\n\n📢 <b>공식 채널:</b> @woscontrol"
 }
