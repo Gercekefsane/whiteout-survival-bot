@@ -1439,6 +1439,7 @@
   "gform_login_required": "Требуется вход — автоматическая отправка невозможна",
   "topic_name_giftcodes": "WosControl-ПодарочныеКоды",
   "topic_name_giftlog": "WosControl-ЛогПодарков",
+  "topic_name_support": "WosControl-Поддержка",
   "dc_topic_giftcodes": "🎁 Уведомления о подарочных кодах от WosControl Bot",
   "dc_topic_giftlog": "📊 Логи использования кодов и отправки форм от WosControl Bot",
   "perm_warning_title": "⚠️ Недостаточно прав!",
