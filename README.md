@@ -622,7 +622,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 <br><br>
 
-**v3.3.0** · Last updated: 2026-04-08
+**v3.3.0** · Last updated: 2026-04-09
 
 <br>
 
