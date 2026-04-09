@@ -1578,6 +1578,8 @@
   "channel_type_support": "Support",
   "channel_type_support_desc": "Support channel for alliance-owner communication",
   "dc_topic_support": "📩 Write here to contact bot support. Your messages will be forwarded to the support team.",
+  "dc_sync_perm_title": "⚠️ Bot Permission Warning",
+  "dc_sync_perm_body": "Your WosControl bot is **running without sufficient permissions**.\n\n❌ **Failed to create:** `{channel}`\n🔍 **Reason:** {error}\n\n**What may not work:**\n• 🎫 Support channel messaging\n• 🎁 Gift code notifications\n• 📊 Automated channel management\n\n**Required permissions:**\n• Manage Channels\n• Send Messages\n• Read Message History\n\nPlease grant the bot **Administrator** permission to fix this.",
   "support_msg_new": "New Support Message",
   "support_reply_hint": "Reply: <code>!yanıtver {id}</code>",
   "support_yanıtver_usage": "Usage: <code>!yanıtver &lt;id&gt;</code>",
