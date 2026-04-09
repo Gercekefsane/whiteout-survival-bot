@@ -1512,6 +1512,11 @@
   "support_yanıtver_ask": "보낼 답장 메시지를 입력하세요 (<code>/iptal</code>로 취소):",
   "support_yanıtver_cancelled": "❌ 답장이 취소되었습니다.",
   "support_yanıtver_error": "❌ 세션 데이터가 손실되었습니다. 다시 시도하세요.",
+  "support_ack_title": "✅ 지원 요청 접수됨",
+  "support_ack_body": "메시지가 봇 소유자에게 전달되었습니다.\n\n📊 <b>지원 레벨:</b> {level}\n⏱ <b>예상 답변:</b> ~1시간",
+  "support_level_basic": "Basic",
+  "support_level_premium": "Premium",
+  "support_history_header": "📜 대화 내역",
   "support_reply_sent": "✅ 답장 전송됨 →",
   "support_reply_failed": "Discord 채널에 답장을 보낼 수 없습니다."
 }
