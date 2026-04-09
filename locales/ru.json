@@ -1528,6 +1528,11 @@
   "support_yanıtver_ask": "Введите текст ответа (или <code>/iptal</code> для отмены):",
   "support_yanıtver_cancelled": "❌ Ответ отменён.",
   "support_yanıtver_error": "❌ Данные сессии потеряны. Попробуйте снова.",
+  "support_ack_title": "✅ Запрос получен",
+  "support_ack_body": "Ваше сообщение передано владельцу бота.\n\n📊 <b>Уровень поддержки:</b> {level}\n⏱ <b>Ожидаемый ответ:</b> ~1 час",
+  "support_level_basic": "Basic",
+  "support_level_premium": "Premium",
+  "support_history_header": "📜 История переписки",
   "support_reply_sent": "✅ Ответ отправлен →",
   "support_reply_failed": "Не удалось отправить ответ в канал Discord."
 }
