@@ -1496,5 +1496,19 @@
   "premium_recovery_declined": "복구가 거절되었습니다. 제거된 멤버는 제거된 상태로 유지됩니다.",
   "premium_recovery_no_members": "복구할 멤버가 없습니다.",
   "premium_recovery_done_group": "📊 <b>복구 완료</b>\n\n✅ 복구됨: <b>{recovered}</b>\n🚫 그룹 탈퇴: <b>{left_group}</b>\n⛔ 제한 도달: <b>{limit_reached}</b>",
-  "channel_promo": "\n\n📢 <b>공식 채널:</b> @woscontrol"
+  "channel_promo": "\n\n📢 <b>공식 채널:</b> @woscontrol",
+  "channel_type_support": "지원",
+  "channel_type_support_desc": "동맹-소유자 소통을 위한 지원 채널",
+  "dc_topic_support": "📩 지원팀에 문의하려면 여기에 메시지를 보내세요. 메시지는 지원팀으로 전달됩니다.",
+  "support_msg_new": "새 지원 메시지",
+  "support_reply_hint": "답장: <code>!yanıtver {id}</code>",
+  "support_yanıtver_usage": "사용법: <code>!yanıtver &lt;id&gt;</code>",
+  "support_invalid_id": "❌ 잘못된 메시지 ID.",
+  "support_msg_not_found": "❌ 메시지를 찾을 수 없습니다.",
+  "support_yanıtver_prompt": "지원 메시지 답장",
+  "support_yanıtver_ask": "보낼 답장 메시지를 입력하세요 (<code>/iptal</code>로 취소):",
+  "support_yanıtver_cancelled": "❌ 답장이 취소되었습니다.",
+  "support_yanıtver_error": "❌ 세션 데이터가 손실되었습니다. 다시 시도하세요.",
+  "support_reply_sent": "✅ 답장 전송됨 →",
+  "support_reply_failed": "Discord 채널에 답장을 보낼 수 없습니다."
 }
