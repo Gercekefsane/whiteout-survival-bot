@@ -1593,5 +1593,19 @@
   "premium_recovery_declined": "Kurtarma işlemi reddedildi. Üyeler kaldırılmış olarak kalacak.",
   "premium_recovery_no_members": "Kurtarılacak üye bulunamadı.",
   "premium_recovery_done_group": "📊 <b>Kurtarma Tamamlandı</b>\n\n✅ Kurtarılan: <b>{recovered}</b>\n🚫 Gruptan ayrılmış: <b>{left_group}</b>\n⛔ Limit doldu: <b>{limit_reached}</b>",
-  "channel_promo": "\n\n📢 <b>Resmi Kanalımız:</b> @woscontrol"
+  "channel_promo": "\n\n📢 <b>Resmi Kanalımız:</b> @woscontrol",
+  "channel_type_support": "Destek",
+  "channel_type_support_desc": "İttifak-sahip iletişim destek kanalı",
+  "dc_topic_support": "📩 Destek ekibiyle iletişime geçmek için buraya yazın. Mesajlarınız destek ekibine iletilecektir.",
+  "support_msg_new": "Yeni Destek Mesajı",
+  "support_reply_hint": "Yanıt için: <code>!yanıtver {id}</code>",
+  "support_yanıtver_usage": "Kullanım: <code>!yanıtver &lt;id&gt;</code>",
+  "support_invalid_id": "❌ Geçersiz mesaj ID'si.",
+  "support_msg_not_found": "❌ Mesaj bulunamadı.",
+  "support_yanıtver_prompt": "Destek Mesajına Yanıt Ver",
+  "support_yanıtver_ask": "Göndermek istediğiniz yanıt mesajını yazın (iptal için <code>/iptal</code>):",
+  "support_yanıtver_cancelled": "❌ Yanıt iptal edildi.",
+  "support_yanıtver_error": "❌ Oturum verisi kayboldu. Lütfen tekrar deneyin.",
+  "support_reply_sent": "✅ Yanıt gönderildi →",
+  "support_reply_failed": "Discord kanalına yanıt gönderilemedi."
 }
