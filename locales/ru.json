@@ -1511,5 +1511,20 @@
   "premium_recovery_no_members": "Нет участников для восстановления.",
   "premium_recovery_done_group": "📊 <b>Восстановление завершено</b>\n\n✅ Восстановлено: <b>{recovered}</b>\n🚫 Покинули группу: <b>{left_group}</b>\n⛔ Лимит достигнут: <b>{limit_reached}</b>",
   "furnace_too_low_desc": "Для регистрации необходим минимальный уровень печи 7 (FC 7). Улучшите печь и попробуйте снова.",
-  "channel_promo": "\n\n📢 <b>Официальный канал:</b> @woscontrol"
+  "premium_grace_ended_desc": "Грейс-период Premium закончился. Излишние участники будут удалены через 24 часа.",
+  "channel_promo": "\n\n📢 <b>Официальный канал:</b> @woscontrol",
+  "channel_type_support": "Поддержка",
+  "channel_type_support_desc": "Канал поддержки для общения альянса с владельцем",
+  "dc_topic_support": "📩 Пишите здесь, чтобы связаться с поддержкой. Ваши сообщения будут переданы команде поддержки.",
+  "support_msg_new": "Новое сообщение поддержки",
+  "support_reply_hint": "Ответить: <code>!yanıtver {id}</code>",
+  "support_yanıtver_usage": "Использование: <code>!yanıtver &lt;id&gt;</code>",
+  "support_invalid_id": "❌ Неверный ID сообщения.",
+  "support_msg_not_found": "❌ Сообщение не найдено.",
+  "support_yanıtver_prompt": "Ответить на сообщение поддержки",
+  "support_yanıtver_ask": "Введите текст ответа (или <code>/iptal</code> для отмены):",
+  "support_yanıtver_cancelled": "❌ Ответ отменён.",
+  "support_yanıtver_error": "❌ Данные сессии потеряны. Попробуйте снова.",
+  "support_reply_sent": "✅ Ответ отправлен →",
+  "support_reply_failed": "Не удалось отправить ответ в канал Discord."
 }
