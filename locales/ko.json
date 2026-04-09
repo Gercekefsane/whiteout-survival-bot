@@ -1499,6 +1499,7 @@
   "channel_promo": "\n\n📢 <b>공식 채널:</b> @woscontrol",
   "channel_type_support": "지원",
   "channel_type_support_desc": "동맹-소유자 소통을 위한 지원 채널",
+  "topic_name_support": "WosControl-지원",
   "dc_topic_support": "📩 지원팀에 문의하려면 여기에 메시지를 보내세요. 메시지는 지원팀으로 전달됩니다.",
   "support_msg_new": "새 지원 메시지",
   "support_reply_hint": "답장: <code>!yanıtver {id}</code>",
