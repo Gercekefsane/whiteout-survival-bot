@@ -1500,6 +1500,8 @@
   "channel_type_support": "지원",
   "channel_type_support_desc": "동맹-소유자 소통을 위한 지원 채널",
   "topic_name_support": "WosControl-지원",
+  "dc_sync_perm_title": "⚠️ 봇 권한 경고",
+  "dc_sync_perm_body": "WosControl 봇이 **권한 부족으로 실행 중**입니다.\n\n❌ **생성 실패:** `{channel}`\n🔍 **오류:** {error}\n\n**작동하지 않을 수 있는 기능:**\n• 🎫 지원 채널 메시지\n• 🎁 선물 코드 알림\n• 📊 자동 채널 관리\n\n**필요한 권한:**\n• 채널 관리\n• 메시지 보내기\n• 메시지 기록 보기\n\n봇에게 **관리자** 권한을 부여하여 해결하세요.",
   "dc_topic_support": "📩 지원팀에 문의하려면 여기에 메시지를 보내세요. 메시지는 지원팀으로 전달됩니다.",
   "support_msg_new": "새 지원 메시지",
   "support_reply_hint": "답장: <code>!yanıtver {id}</code>",
