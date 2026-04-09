@@ -1573,5 +1573,19 @@
   "premium_recovery_declined": "Recovery declined. Removed members will remain removed.",
   "premium_recovery_no_members": "No members available for recovery.",
   "premium_recovery_done_group": "📊 <b>Recovery Complete</b>\n\n✅ Recovered: <b>{recovered}</b>\n🚫 Left group: <b>{left_group}</b>\n⛔ Limit reached: <b>{limit_reached}</b>",
-  "channel_promo": "\n\n📢 <b>Official Channel:</b> @woscontrol"
+  "channel_promo": "\n\n📢 <b>Official Channel:</b> @woscontrol",
+  "channel_type_support": "Support",
+  "channel_type_support_desc": "Support channel for alliance-owner communication",
+  "dc_topic_support": "📩 Write here to contact bot support. Your messages will be forwarded to the support team.",
+  "support_msg_new": "New Support Message",
+  "support_reply_hint": "Reply: <code>!yanıtver {id}</code>",
+  "support_yanıtver_usage": "Usage: <code>!yanıtver &lt;id&gt;</code>",
+  "support_invalid_id": "❌ Invalid message ID.",
+  "support_msg_not_found": "❌ Message not found.",
+  "support_yanıtver_prompt": "Reply to Support Message",
+  "support_yanıtver_ask": "Type your reply message (or <code>/iptal</code> to cancel):",
+  "support_yanıtver_cancelled": "❌ Reply cancelled.",
+  "support_yanıtver_error": "❌ Session data lost. Please try again.",
+  "support_reply_sent": "✅ Reply sent to",
+  "support_reply_failed": "Failed to send reply to Discord channel."
 }
