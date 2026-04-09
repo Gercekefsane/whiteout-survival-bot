@@ -1463,6 +1463,7 @@
   "web_player_link": "👤 Oyuncu Profili: https://woscontrol.com/user/{fid}",
   "topic_name_giftcodes": "WosControl-HediyeKodları",
   "topic_name_giftlog": "WosControl-HediyeKodLog",
+  "topic_name_support": "WosControl-Destek",
   "dc_topic_giftcodes": "🎁 WosControl Bot hediye kodu bildirimleri",
   "dc_topic_giftlog": "📊 WosControl Bot hediye kodu kullanım ve form logları",
   "perm_warning_title": "⚠️ Eksik Yetkiler!",
