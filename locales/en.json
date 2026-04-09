@@ -1501,6 +1501,7 @@
   "gform_login_required": "Login required — auto-submit not possible",
   "topic_name_giftcodes": "WosControl-GiftCodes",
   "topic_name_giftlog": "WosControl-GiftLog",
+  "topic_name_support": "WosControl-Support",
   "dc_topic_giftcodes": "🎁 Gift code notifications from WosControl Bot",
   "dc_topic_giftlog": "📊 Gift code & form submission logs from WosControl Bot",
   "perm_warning_title": "⚠️ Missing Permissions!",
