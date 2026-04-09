@@ -1597,6 +1597,8 @@
   "channel_promo": "\n\n📢 <b>Resmi Kanalımız:</b> @woscontrol",
   "channel_type_support": "Destek",
   "channel_type_support_desc": "İttifak-sahip iletişim destek kanalı",
+  "dc_sync_perm_title": "⚠️ Bot Yetki Uyarısı",
+  "dc_sync_perm_body": "WosControl botunuz **yetersiz yetkilerle çalışıyor**.\n\n❌ **Oluşturulamayan kanal:** `{channel}`\n🔍 **Hata:** {error}\n\n**Etkilenebilecek özellikler:**\n• 🎫 Destek kanalı mesajlaşması\n• 🎁 Hediye kodu bildirimleri\n• 📊 Otomatik kanal yönetimi\n\n**Gerekli yetkiler:**\n• Kanalları Yönet\n• Mesaj Gönder\n• Mesaj Geçmişini Oku\n\nBotu düzeltmek için lütfen **Yönetici** yetkisi verin.",
   "dc_topic_support": "📩 Destek ekibiyle iletişime geçmek için buraya yazın. Mesajlarınız destek ekibine iletilecektir.",
   "support_msg_new": "Yeni Destek Mesajı",
   "support_reply_hint": "Yanıt için: <code>!yanıtver {id}</code>",
