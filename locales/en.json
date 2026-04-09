@@ -1584,11 +1584,15 @@
   "support_reply_hint": "Reply: <code>!yanıtver {id}</code>",
   "support_yanıtver_usage": "Usage: <code>!yanıtver &lt;id&gt;</code>",
   "support_invalid_id": "❌ Invalid message ID.",
-  "support_msg_not_found": "❌ Message not found.",
   "support_yanıtver_prompt": "Reply to Support Message",
-  "support_yanıtver_ask": "Type your reply message (or <code>/iptal</code> to cancel):",
-  "support_yanıtver_cancelled": "❌ Reply cancelled.",
-  "support_yanıtver_error": "❌ Session data lost. Please try again.",
-  "support_reply_sent": "✅ Reply sent to",
-  "support_reply_failed": "Failed to send reply to Discord channel."
+  "support_yanıtver_ask": "Type your reply message (or /iptal to cancel):",
+  "support_yanıtver_cancelled": " Reply cancelled.",
+  "support_yanıtver_error": " Session data lost. Please try again.",
+  "support_reply_sent": " Reply sent to",
+  "support_reply_failed": "Failed to send reply to Discord channel.",
+  "support_ack_title": " Support Request Received",
+  "support_ack_body": "Your message has been forwarded to the bot owner.\n\n Support Level: {level}\n Estimated Response: ~1 hour",
+  "support_level_basic": "Basic",
+  "support_level_premium": "Premium",
+  "support_history_header": " Conversation History"
 }
