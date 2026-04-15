@@ -1615,5 +1615,20 @@
   "support_level_premium": "Premium",
   "support_history_header": "📜 Konuşma Geçmişi",
   "support_reply_sent": "✅ Yanıt gönderildi →",
-  "support_reply_failed": "Discord kanalına yanıt gönderilemedi."
+  "support_reply_failed": "Discord kanalına yanıt gönderilemedi.",
+  "auto_transfer_title": "Daha İyi Bir Transfer Hesaplayıcımız Var!",
+  "auto_transfer_cmd_hint": "Detaylı analiz için komutları kullanın",
+  "auto_transfer_web_hint": "Web sitemizden de erişebilirsiniz",
+  "auto_state_title": "Daha İyi Bir State Timeline Sistemimiz Var!",
+  "auto_state_cmd_hint": "Krallığınıza özel hesaplama için kullanın",
+  "auto_state_desc": "Kesin sonuçları bildirir, krallığınıza göre özelleştirilmiş hesaplar yapar.",
+  "auto_rewards_title": "Sistemimiz Çok Daha Gelişmiştir!",
+  "auto_rewards_web": "Web Sitemiz:",
+  "auto_rewards_feat1": "Otomatik hediye kodları ve Google Formlar",
+  "auto_rewards_feat2": "Kişiselleştirilmiş Discord/Telegram Botu",
+  "auto_rewards_feat3": "Limitler çok daha yüksek",
+  "auto_rewards_feat4": "Oyun Sneak Peak haberleri ilk bize gelir",
+  "auto_rewards_feat5": "Sayısız komutumuz ve özelliğimiz mevcuttur",
+  "auto_reddit_title": "Resmi Reddit Sayfamızı Takip Edin!",
+  "auto_reddit_desc": "Oyunun sızıntıları, hediye kodları ve daha fazlası için:"
 }
