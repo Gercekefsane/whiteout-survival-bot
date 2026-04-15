@@ -1518,5 +1518,20 @@
   "support_level_premium": "Premium",
   "support_history_header": "📜 대화 내역",
   "support_reply_sent": "✅ 답장 전송됨 →",
-  "support_reply_failed": "Discord 채널에 답장을 보낼 수 없습니다."
+  "support_reply_failed": "Discord 채널에 답장을 보낼 수 없습니다.",
+  "auto_transfer_title": "더 나은 전이 계산기가 있습니다!",
+  "auto_transfer_cmd_hint": "상세 분석을 위해 명령어를 사용하세요",
+  "auto_transfer_web_hint": "웹사이트에서도 이용 가능합니다",
+  "auto_state_title": "더 나은 State Timeline 시스템이 있습니다!",
+  "auto_state_cmd_hint": "왕국별 계산을 위해 사용하세요",
+  "auto_state_desc": "정확한 결과를 제공하며 왕국에 맞게 개인화됩니다.",
+  "auto_rewards_title": "저희 시스템이 훨씬 더 발전되어 있습니다!",
+  "auto_rewards_web": "웹사이트:",
+  "auto_rewards_feat1": "자동 선물 코드 및 Google Forms",
+  "auto_rewards_feat2": "맞춤형 Discord/Telegram 봇",
+  "auto_rewards_feat3": "훨씬 높은 한도",
+  "auto_rewards_feat4": "게임 Sneak Peak 뉴스가 가장 먼저 도착",
+  "auto_rewards_feat5": "수많은 명령어와 기능",
+  "auto_reddit_title": "공식 Reddit 페이지를 팔로우하세요!",
+  "auto_reddit_desc": "게임 유출, 선물 코드 등을 위해:"
 }
