@@ -1534,5 +1534,20 @@
   "support_level_premium": "Premium",
   "support_history_header": "📜 История переписки",
   "support_reply_sent": "✅ Ответ отправлен →",
-  "support_reply_failed": "Не удалось отправить ответ в канал Discord."
+  "support_reply_failed": "Не удалось отправить ответ в канал Discord.",
+  "auto_transfer_title": "У нас есть лучший калькулятор трансфера!",
+  "auto_transfer_cmd_hint": "Используйте команды для детального анализа",
+  "auto_transfer_web_hint": "Также доступно на нашем сайте",
+  "auto_state_title": "У нас есть лучшая система временной шкалы!",
+  "auto_state_cmd_hint": "Используйте для расчётов по вашему королевству",
+  "auto_state_desc": "Даёт точные результаты, персонализированные для вашего королевства.",
+  "auto_rewards_title": "Наша система гораздо более продвинутая!",
+  "auto_rewards_web": "Наш сайт:",
+  "auto_rewards_feat1": "Автоматические подарочные коды и Google Forms",
+  "auto_rewards_feat2": "Персонализированный Discord/Telegram бот",
+  "auto_rewards_feat3": "Значительно более высокие лимиты",
+  "auto_rewards_feat4": "Новости Sneak Peak игры приходят к нам первыми",
+  "auto_rewards_feat5": "Бесчисленное количество команд и функций",
+  "auto_reddit_title": "Подпишитесь на наш официальный Reddit!",
+  "auto_reddit_desc": "Утечки игры, подарочные коды и многое другое:"
 }
