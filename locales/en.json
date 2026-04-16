@@ -1609,5 +1609,7 @@
   "auto_rewards_feat4": "Game Sneak Peak news reaches us first",
   "auto_rewards_feat5": "Countless commands and features",
   "auto_reddit_title": "Follow Our Official Reddit Page!",
-  "auto_reddit_desc": "For game leaks, gift codes and more:"
+  "auto_reddit_desc": "For game leaks, gift codes and more:",
+  "privacy_policy_btn": " Privacy Policy",
+  "privacy_policy_note": " By using this bot you agree to our Privacy Policy: https://woscontrol.com/privacy"
 }
