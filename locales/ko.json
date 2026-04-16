@@ -1533,5 +1533,7 @@
   "auto_rewards_feat4": "게임 Sneak Peak 뉴스가 가장 먼저 도착",
   "auto_rewards_feat5": "수많은 명령어와 기능",
   "auto_reddit_title": "공식 Reddit 페이지를 팔로우하세요!",
-  "auto_reddit_desc": "게임 유출, 선물 코드 등을 위해:"
+  "auto_reddit_desc": "게임 유출, 선물 코드 등을 위해:",
+  "privacy_policy_btn": " 개인정보 처리방침",
+  "privacy_policy_note": " 이 봇을 사용함으로써 개인정보 처리방침에 동의합니다: https://woscontrol.com/privacy"
 }
