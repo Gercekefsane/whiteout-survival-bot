@@ -1630,5 +1630,7 @@
   "auto_rewards_feat4": "Oyun Sneak Peak haberleri ilk bize gelir",
   "auto_rewards_feat5": "Sayısız komutumuz ve özelliğimiz mevcuttur",
   "auto_reddit_title": "Resmi Reddit Sayfamızı Takip Edin!",
-  "auto_reddit_desc": "Oyunun sızıntıları, hediye kodları ve daha fazlası için:"
+  "auto_reddit_desc": "Oyunun sızıntıları, hediye kodları ve daha fazlası için:",
+  "privacy_policy_btn": " Gizlilik Politikası",
+  "privacy_policy_note": " Bu botu kullanarak Gizlilik Politikamızı kabul etmiş olursunuz: https://woscontrol.com/privacy"
 }
