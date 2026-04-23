@@ -1632,5 +1632,10 @@
   "auto_reddit_title": "Resmi Reddit Sayfamızı Takip Edin!",
   "auto_reddit_desc": "Oyunun sızıntıları, hediye kodları ve daha fazlası için:",
   "privacy_policy_btn": " Gizlilik Politikası",
-  "privacy_policy_note": " Bu botu kullanarak Gizlilik Politikamızı kabul etmiş olursunuz: https://woscontrol.com/privacy"
+  "privacy_policy_note": " Bu botu kullanarak Gizlilik Politikamızı kabul etmiş olursunuz: https://woscontrol.com/privacy",
+  "discord_leave_title": "⚠️ WOS Control Bot — Sunucudan Ayrılıyor",
+  "discord_leave_why": "**Bot neden ayrılıyor?**\nBotumuz şu anda **{guild_count} Discord sunucusunda** bulunuyor. Discord, 100'den fazla sunucuda olan botlar için özel doğrulama istiyor. Bu sınır içinde kalmak için bot, **kurulum tamamlanmamış** veya yetki verilmemiş sunuculardan otomatik olarak ayrılır.",
+  "discord_leave_reason": "**Neden *bu* sunucu seçildi?**\nBu sunucu **{joined_at}** tarihinde eklendi ancak o tarihten bu yana ittifak kurulumu yapılmadı (veya botun kanal izni yok).",
+  "discord_leave_rejoin": "**Botu tekrar nasıl eklersiniz?**\n1. Tekrar davet edin: <{invite_url}>\n2. Bot katıldıktan hemen sonra `/setup` komutunu çalıştırın.",
+  "discord_leave_sorry": "Rahatsızlık için özür dileriz. — *WOS Control Ekibi*"
 }
