@@ -128,6 +128,19 @@ The bot operates on both **Telegram** and **Discord** simultaneously, with a sha
 
 </div>
 
+### 📸 Screenshots
+
+<div align="center">
+
+<img src="images/forms.png" alt="Forms" width="48%"> &nbsp; <img src="images/giftcodeusing.png" alt="Giftcodeusing" width="48%">
+
+<img src="images/googleformuser.png" alt="Googleformuser" width="48%"> &nbsp; <img src="images/leaderboard.png" alt="Leaderboard" width="48%">
+
+<img src="images/registercommand.png" alt="Registercommand" width="48%"> &nbsp; <img src="images/statechanges.png" alt="Statechanges" width="48%">
+
+<img src="images/statecommand.png" alt="Statecommand" width="48%">
+
+</div>
 
 
 ---
@@ -609,7 +622,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 <br><br>
 
-**v3.3.0** · Last updated: 2026-04-22
+**v3.3.0** · Last updated: 2026-04-23
 
 <br>
 
