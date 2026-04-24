@@ -1458,7 +1458,7 @@
   "codeimage_failed": "Görsel kaydedilemedi",
   "kingdom_limit_title": "Krallık Üye Limiti Doldu",
   "kingdom_limit_desc": "{kingdom} krallığından {count} kişi zaten bu grupta mevcut (limit: {limit}).",
-  "kingdom_limit_hint": "Daha fazla üye eklemek için özel bir grup oluşturun ve /premium inceleyin.",
+  "kingdom_limit_hint": "Bu sınır Ücretsiz ve Sponsor/YouTube planlarında geçerlidir. Krallık limitini kaldırmak için Bronze, Silver veya Gold plana geçin. Not: Bir YouTube/Sponsor ittifakına girmek bu limiti kaldırmaz.",
   "star_bonus_hint": "Hesabınızı /github ile bağlayarak ekstra kayıt hakkı kazanın!",
   "web_player_link": "👤 Oyuncu Profili: https://woscontrol.com/user/{fid}",
   "topic_name_giftcodes": "WosControl-HediyeKodları",
