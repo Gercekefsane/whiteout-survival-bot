@@ -1422,7 +1422,7 @@
   "gc_more": "ещё",
   "kingdom_limit_title": "Лимит участников королевства достигнут",
   "kingdom_limit_desc": "{count} участников из {kingdom} уже в этой группе (лимит: {limit}).",
-  "kingdom_limit_hint": "Для добавления большего числа участников создайте отдельную группу и проверьте /premium.",
+  "kingdom_limit_hint": "Это ограничение действует на бесплатном и Sponsor/YouTube планах. Перейдите на Bronze, Silver или Gold, чтобы снять ограничение. Примечание: вступление в YouTube/Sponsor альянс не снимает ограничение.",
   "star_bonus_hint": "Подключите аккаунт и получите дополнительные слоты регистрации!",
   "web_player_link": "👤 Профиль игрока: https://woscontrol.com/user/{fid}",
   "gform_existing_title": "Форма уже существует",
