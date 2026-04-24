@@ -1419,7 +1419,7 @@
   "codeimage_failed": "이미지 저장 실패",
   "kingdom_limit_title": "왕국 멤버 제한 도달",
   "kingdom_limit_desc": "{kingdom}에서 {count}명이 이미 이 그룹에 있습니다 (제한: {limit}).",
-  "kingdom_limit_hint": "더 많은 멤버를 추가하려면 전용 그룹을 만들고 /premium을 확인하세요.",
+  "kingdom_limit_hint": "이 제한은 무료 및 Sponsor/YouTube 플랜에 적용됩니다. 왕국 제한을 해제하려면 Bronze, Silver 또는 Gold로 업그레이드하세요. 참고: YouTube/Sponsor 동맹에 가입해도 이 제한은 해제되지 않습니다.",
   "star_bonus_hint": "/github로 계정을 연결하여 추가 등록 슬롯을 받으세요!",
   "web_player_link": "👤 플레이어 프로필: https://woscontrol.com/user/{fid}",
   "web_codes_btn": "기프트 코드 보기",
