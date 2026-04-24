@@ -1484,7 +1484,7 @@
   "web_alliances_link": "🌐 View your alliance on web: https://woscontrol.com/alliances",
   "kingdom_limit_title": "Kingdom Member Limit Reached",
   "kingdom_limit_desc": "{count} members from {kingdom} are already in this group (limit: {limit}).",
-  "kingdom_limit_hint": "To add more members, create a dedicated group and check /premium.",
+  "kingdom_limit_hint": "This limit applies to Free and Sponsor/YouTube plans. Upgrade to Bronze, Silver or Gold to remove the per-kingdom restriction. Note: joining a YouTube/Sponsor alliance does NOT bypass this limit.",
   "star_bonus_hint": "Connect your GitHub account with /github to earn extra register slots!",
   "web_player_link": "👤 Player Profile: https://woscontrol.com/user/{fid}",
   "gform_existing_title": "Form Already Exists",
