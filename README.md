@@ -90,12 +90,12 @@ We need volunteers to report **kingdom transfer dates** for their states. Know y
 
 ## 🔢 Latest Version: v3.3.0
 
-> **Released:** 2026-03-23
+> **Released:** 2026-05-27
 
-  - **Social Media Form Tracker**: Automatic detection and processing of Google Forms shared on official game social media accounts — monitors configured accounts every 15 minutes
-  - **Smart AI Filtering**: Advanced AI analysis determines whether a detected form is a genuine reward survey before processing — eliminates irrelevant posts and design events automatically
-  - **Auto Form Registration**: Newly discovered forms are instantly analyzed, registered to the database, and submitted to all alliance members without any manual intervention
-  - **Configurable Account List**: Easily add or remove monitored social media accounts via config — supports multiple accounts simultaneously
+  - **Account Marketplace**: Buy and sell game accounts with rich listings, pricing, screenshots, and 14-day auto-expiry — full browse / search / filter experience on woscontrol.com
+  - **AI Screenshot Analysis**: Upload an account screenshot and the bot auto-extracts power, furnace level, kingdom, and gear using AI vision — no manual data entry
+  - **AI Price Suggestion**: When listing an account, see what similar accounts have sold for — a data-driven price range built from real marketplace history
+  - **Offers & Counter-Offers**: Buyers make offers; sellers accept, reject, or counter with a new price and message — a complete negotiation flow with instant notifications
 
 > 📋 **[Full Changelog →](CHANGELOG.md)**
 
