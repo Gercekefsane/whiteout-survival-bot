@@ -2,6 +2,55 @@
 
 All notable changes to this project are documented here.
 
+## v4.0.0 — 2026-05-27
+
+### ✨ Added
+- **Account Marketplace**: Buy and sell game accounts with rich listings, pricing, screenshots, and 14-day auto-expiry — full browse / search / filter experience on woscontrol.com
+- **AI Screenshot Analysis**: Upload an account screenshot and the bot auto-extracts power, furnace level, kingdom, and gear using AI vision — no manual data entry
+- **AI Price Suggestion**: When listing an account, see what similar accounts have sold for — a data-driven price range built from real marketplace history
+- **Offers & Counter-Offers**: Buyers make offers; sellers accept, reject, or counter with a new price and message — a complete negotiation flow with instant notifications
+- **Marketplace Favorites**: Save listings to a personal watchlist and get notified about changes
+- **Similar Listings**: Every listing surfaces comparable accounts (±20% power / furnace) so buyers can compare at a glance
+- **Advanced Marketplace Filters**: Filter by state, price range, power, furnace level, VIP level, and hero count — plus saveable searches with alerts
+- **Multi-Image Gallery**: Listings support multiple screenshots in a swipeable, full-screen gallery
+- **Seller Profiles & Verified Badge**: Seller pages show completed-sale count, member-since, and response time — sellers with 5+ sales earn a Verified Seller badge
+- **Reviews & Ratings**: Buyers and sellers rate each other 1–5 stars with comments after a completed sale
+- **Featured Listings**: Premium featured listings appear first with a ⭐ badge
+- **Ownership Verification**: Sellers verify they truly own an account via the game API plus an AI nickname match — verified listings get a trust stamp
+- **Escrow / Safe-Trade Flow**: Both buyer and seller confirm delivery before a trade completes, with admin dispute resolution if something goes wrong
+- **Marketplace Notifications**: Real-time Telegram DMs for new offers, counter-offers, sold listings, and expiring-soon reminders
+- **WOS Quiz Show**: Interactive trivia game on Telegram and Discord with Frost Star rewards and seasonal leaderboards
+- **Custom Questions — /quizadd**: Premium members, partnered YouTubers, and owners can submit their own quiz questions
+- **Quiz Lifelines**: In-round hints (50/50, skip, peek) to help when you're stuck
+- **AI Quiz Translation**: Submitted questions auto-translate to EN / TR / RU / KO so everyone plays in their own language
+- **Quiz Moderation**: Owner tools to review, approve, reject, and report submitted questions (/quizapprove, /quizreject, /quizreport)
+- **Quiz Leaderboard & Rewards**: Live scoring, seasonal ranks, and Frost Star prizes for top players
+- **Discord Quiz**: Full quiz experience on Discord with button-based interactive embeds and a /quizadd slash command
+- **Quiz on the Web**: Play and follow the leaderboard at woscontrol.com/games/quiz
+- **Player & Alliance Recruitment**: Alliance leaders post open slots; players find alliances that match their progress
+- **Recruitment AI Analysis**: Upload a profile screenshot and AI reads power, hero lineup, gear, furnace level, and kingdom
+- **Alliance Compatibility Matching**: Get AI-recommended alliances based on your current account stats
+- **Battle Simulator**: Simulate troop battles with custom hero lineups, troop tiers, and equipment to test formations before you commit
+- **Battle Guide**: Built-in tips on troop formation, hero synergies, and counter-strategies
+- **Cross-Platform Chat Bridge**: One conversation bridged across the website, Telegram forum topics, and Discord channels in real time
+- **Discord Account Linking**: Link your Telegram and Discord accounts so the bot recognizes you on both platforms
+- **Discord Verification Gate**: Optionally require WOS-player verification before members can access a linked Discord server
+- **Discord Member Backup & Restore**: Periodically back up Discord server members — if a server is lost or banned, re-invite everyone to a new one
+- **Japanese Language 🇯🇵**: Full Japanese (日本語) translation — the project's first community-contributed locale, by @abekdwight
+- **Website Translation Sync**: Website locale files are now published to locales/site-locales/ so the community can translate woscontrol.com too
+
+### 🔧 Fixed
+- **Discord Reconnect Resilience**: Gift-code reports, support replies, and broadcasts now retry through Discord gateway reconnects instead of being silently dropped during the reconnect window
+- **Premium Limit Messaging**: Alliance member-limit messages are now clear and bold, with working Premium and Contact buttons (previously showed broken ❖ icons from an encoding glitch)
+- **Channel Resolution**: The bot now reliably finds giftlog / giftcode / support channels even after a cache miss, and only clears references for channels that are genuinely deleted
+- **Screenshot Restoration**: Restored feature screenshots that had been corrupted by a text-encoding issue in earlier builds
+
+### 🔄 Changed
+- **Version Bump**: 3.3.0 → 4.0.0 — a major release consolidating the Marketplace, Quiz Show, Recruitment, Battle Simulator, Chat Bridge, and Discord Auth systems
+- **Languages**: Now available in 5 languages: English, Türkçe, Русский, 한국어, and 日本語
+
+---
+
 ## v3.3.0 — 2026-03-23
 
 ### ✨ Added
