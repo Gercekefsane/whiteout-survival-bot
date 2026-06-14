@@ -529,6 +529,8 @@
   "channel_type_giftcode_desc": "Объявления о новых кодах",
   "channel_type_giftlog": "Логи подарочных кодов",
   "channel_type_giftlog_desc": "Отчёты об использовании кодов и логи отправки Google Form",
+  "channel_type_changehistory": "История изменений",
+  "channel_type_changehistory_desc": "Уведомления об изменении ника, печи, штата и аватара участников",
   "channel_type_beartrap": "Медвежий капкан",
   "channel_type_beartrap_desc": "Уведомления о событии медвежьего капкана",
   "channels_title": "Настройки каналов",
