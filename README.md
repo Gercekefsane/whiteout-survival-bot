@@ -15,7 +15,7 @@
 
 # ❄️ WhiteOut Survival Bot
 
-### The Ultimate Gift Code & Alliance Management Bot for WhiteOut Survival
+#### The Ultimate Gift Code & Alliance Management Bot for WhiteOut Survival
 
 <br>
 
