@@ -1560,5 +1560,11 @@
   "discord_leave_why": "**Почему бот уходит?**\nНаш бот сейчас находится на **{guild_count} серверах Discord**. Discord требует специальной верификации для ботов более чем на 100 серверах. Чтобы оставаться в рамках этого лимита, бот автоматически покидает серверы, на которых **настройка так и не была завершена** или нет прав на каналы.",
   "discord_leave_reason": "**Почему был выбран *этот* сервер?**\nБот был добавлен на этот сервер **{joined_at}**, но с тех пор альянс не был настроен (или у бота нет прав на каналы).",
   "discord_leave_rejoin": "**Как снова добавить бота?**\n1. Пригласите снова: <{invite_url}>\n2. Сразу после добавления выполните `/setup`.",
-  "discord_leave_sorry": "Приносим извинения за неудобства. — *Команда WOS Control*"
+  "discord_leave_sorry": "Приносим извинения за неудобства. — *Команда WOS Control*",
+  "ai_quota_reached": "You've reached today's question limit. Try again tomorrow.",
+  "ai_no_answer": "I couldn't find a reliable answer for that.",
+  "ai_no_alliance_here": "No alliance is linked to this chat.",
+  "ai_channel_set": "✅ This topic is now the WosControl-Ai channel.",
+  "ai_channel_removed": "WosControl-Ai channel unbound.",
+  "ai_context_reset": "🧹 Your conversation context was cleared."
 }
