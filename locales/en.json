@@ -1626,5 +1626,10 @@
   "ai_no_alliance_here": "No alliance is linked to this chat.",
   "ai_channel_set": "✅ This topic is now the WosControl-Ai channel.",
   "ai_channel_removed": "WosControl-Ai channel unbound.",
-  "ai_context_reset": "🧹 Your conversation context was cleared."
+  "ai_context_reset": "🧹 Your conversation context was cleared.",
+  "channel_type_ai": "AI Assistant",
+  "channel_type_ai_desc": "WosControl-Ai game & bot assistant channel",
+  "topic_name_ai": "WosControl-Ai",
+  "dc_topic_ai": "WosControl-Ai assistant",
+  "ai_channel_needs_topic": "Please run this inside a forum topic — the WosControl-Ai channel must be a topic."
 }
