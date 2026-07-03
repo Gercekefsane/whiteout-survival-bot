@@ -1647,5 +1647,10 @@
   "ai_no_alliance_here": "Bu sohbete bağlı bir ittifak yok.",
   "ai_channel_set": "✅ Bu konu artık WosControl-Ai kanalı.",
   "ai_channel_removed": "WosControl-Ai kanalı kaldırıldı.",
-  "ai_context_reset": "🧹 Konuşma bağlamın temizlendi."
+  "ai_context_reset": "🧹 Konuşma bağlamın temizlendi.",
+  "channel_type_ai": "AI Asistan",
+  "channel_type_ai_desc": "WosControl-Ai oyun & bot asistan kanalı",
+  "topic_name_ai": "WosControl-Ai",
+  "dc_topic_ai": "WosControl-Ai assistant",
+  "ai_channel_needs_topic": "Bunu bir forum konusu içinde çalıştır — WosControl-Ai kanalı bir konu olmalı."
 }
