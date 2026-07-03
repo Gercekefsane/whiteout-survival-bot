@@ -15,7 +15,7 @@
 
 # ❄️ WhiteOut Survival Bot
 
-#### The Ultimate Gift Code & Alliance Management Bot for WhiteOut Survival
+### The Ultimate Gift Code & Alliance Management Bot for WhiteOut Survival
 
 <br>
 
@@ -623,7 +623,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 <br><br>
 
-**v4.0.0** · Last updated: 2026-06-14
+**v4.0.0** · Last updated: 2026-07-03
 
 <br>
 
