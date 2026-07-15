@@ -1620,16 +1620,5 @@
   "discord_leave_why": "**Why is the bot leaving?**\nOur bot is currently in **{guild_count} Discord servers**. Discord requires special verification for bots in more than 100 servers. To stay within this limit the bot automatically leaves servers where **setup was never completed** or where it has no permissions.",
   "discord_leave_reason": "**Why was *this* server chosen?**\nThis server was added on **{joined_at}** and no alliance was linked since then (or the bot has no channel permissions).",
   "discord_leave_rejoin": "**How to re-add the bot?**\n1. Re-invite: <{invite_url}>\n2. Run `/setup` immediately after the bot joins.",
-  "discord_leave_sorry": "We apologise for the inconvenience. — *WOS Control Team*",
-  "ai_quota_reached": "You've reached today's question limit. Try again tomorrow.",
-  "ai_no_answer": "I couldn't find a reliable answer for that.",
-  "ai_no_alliance_here": "No alliance is linked to this chat.",
-  "ai_channel_set": "✅ This topic is now the WosControl-Ai channel.",
-  "ai_channel_removed": "WosControl-Ai channel unbound.",
-  "ai_context_reset": "🧹 Your conversation context was cleared.",
-  "channel_type_ai": "AI Assistant",
-  "channel_type_ai_desc": "WosControl-Ai game & bot assistant channel",
-  "topic_name_ai": "WosControl-Ai",
-  "dc_topic_ai": "WosControl-Ai assistant",
-  "ai_channel_needs_topic": "Please run this inside a forum topic — the WosControl-Ai channel must be a topic."
+  "discord_leave_sorry": "We apologise for the inconvenience. — *WOS Control Team*"
 }
