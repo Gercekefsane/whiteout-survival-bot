@@ -1641,5 +1641,16 @@
   "discord_leave_why": "**Bot neden ayrılıyor?**\nBotumuz şu anda **{guild_count} Discord sunucusunda** bulunuyor. Discord, 100'den fazla sunucuda olan botlar için özel doğrulama istiyor. Bu sınır içinde kalmak için bot, **kurulum tamamlanmamış** veya yetki verilmemiş sunuculardan otomatik olarak ayrılır.",
   "discord_leave_reason": "**Neden *bu* sunucu seçildi?**\nBu sunucu **{joined_at}** tarihinde eklendi ancak o tarihten bu yana ittifak kurulumu yapılmadı (veya botun kanal izni yok).",
   "discord_leave_rejoin": "**Botu tekrar nasıl eklersiniz?**\n1. Tekrar davet edin: <{invite_url}>\n2. Bot katıldıktan hemen sonra `/setup` komutunu çalıştırın.",
-  "discord_leave_sorry": "Rahatsızlık için özür dileriz. — *WOS Control Ekibi*"
+  "discord_leave_sorry": "Rahatsızlık için özür dileriz. — *WOS Control Ekibi*",
+  "ai_quota_reached": "Bugünkü soru limitine ulaştın. Yarın tekrar dene.",
+  "ai_no_answer": "Bunu güvenle yanıtlayamadım.",
+  "ai_no_alliance_here": "Bu sohbete bağlı bir ittifak yok.",
+  "ai_channel_set": "✅ Bu konu artık WosControl-Ai kanalı.",
+  "ai_channel_removed": "WosControl-Ai kanalı kaldırıldı.",
+  "ai_context_reset": "🧹 Konuşma bağlamın temizlendi.",
+  "channel_type_ai": "AI Asistan",
+  "channel_type_ai_desc": "WosControl-Ai oyun & bot asistan kanalı",
+  "topic_name_ai": "WosControl-Ai",
+  "dc_topic_ai": "WosControl-Ai assistant",
+  "ai_channel_needs_topic": "Bunu bir forum konusu içinde çalıştır — WosControl-Ai kanalı bir konu olmalı."
 }
