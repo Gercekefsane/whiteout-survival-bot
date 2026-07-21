@@ -1560,5 +1560,14 @@
   "register_ask_name": "👤 <b>계정의 게임 내 이름은 무엇인가요?</b>\n\n표시된 그대로 입력해 주세요.",
   "register_invalid_kingdom_retry": "❌ 왕국 번호처럼 보이지 않습니다.\n\n숫자만 보내주세요. 예: <code>3982</code>",
   "register_invalid_name_retry": "❌ 계정의 게임 내 이름을 보내주세요 (최대 255자):",
-  "register_bad_kingdom": "❌ <b>게임에서 이 계정을 인식하지 못했습니다.</b>\n\n🆔 ID: <code>{fid}</code>\n🌍 왕국: <code>S{kid}</code>\n\n왕국이 잘못되었거나 해당 ID가 존재하지 않습니다. 게임에서 이름 옆의 서버 번호를 확인한 뒤 /register 를 다시 입력해 주세요."
+  "register_bad_kingdom": "❌ <b>게임에서 이 계정을 인식하지 못했습니다.</b>\n\n🆔 ID: <code>{fid}</code>\n🌍 왕국: <code>S{kid}</code>\n\n왕국이 잘못되었거나 해당 ID가 존재하지 않습니다. 게임에서 이름 옆의 서버 번호를 확인한 뒤 /register 를 다시 입력해 주세요.",
+  "pedit_usage": "🌍 <b>왕국 변경</b>\n\n내 계정:\n{accounts}\n\n<code>/setstate 3982</code> — 계정이 하나일 때\n<code>/setstate 12345678 3982</code> — 특정 계정\n\n왕국은 게임에서 이름 옆에 표시된 서버 번호입니다.",
+  "pedit_no_accounts": "아직 등록된 계정이 없습니다. 먼저 /register 를 사용하세요.",
+  "pedit_which_account": "계정이 여러 개입니다. 어느 계정인지 알려주세요:\n{accounts}\n\n<code>/setstate [ID] [왕국]</code>",
+  "pedit_bad_kingdom": "❌ 왕국 번호처럼 보이지 않습니다. 숫자만 보내주세요. 예: <code>3982</code>",
+  "pedit_not_allowed": "❌ 본인 계정만 변경할 수 있습니다.",
+  "pedit_checking": "⏳ 게임에 확인 중…",
+  "pedit_saved": "✅ <b>왕국이 변경되었습니다</b>\n\n🆔 <code>{fid}</code>\n🌍 <code>S{kid}</code>\n\n다음 코드부터 선물 코드가 다시 작동합니다.",
+  "pedit_rejected": "❌ <b>게임에서 인식하지 못했습니다.</b>\n\n🆔 <code>{fid}</code>\n🌍 <code>S{kid}</code>\n\n게임에서 이름 옆의 서버 번호를 확인한 뒤 다시 시도해 주세요.",
+  "pedit_unavailable": "⚠️ 지금 게임에 연결할 수 없습니다. 변경된 내용은 없습니다 — 잠시 후 다시 시도해 주세요."
 }
