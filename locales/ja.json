@@ -1636,5 +1636,14 @@
   "register_ask_name": "👤 <b>アカウントのゲーム内の名前は？</b>\n\n表示されているとおりに入力してください。",
   "register_invalid_kingdom_retry": "❌ 王国番号ではないようです。\n\n数字だけを送ってください。例: <code>3982</code>",
   "register_invalid_name_retry": "❌ アカウントのゲーム内の名前を送ってください（255文字まで）:",
-  "register_bad_kingdom": "❌ <b>ゲームがこのアカウントを認識できませんでした。</b>\n\n🆔 ID: <code>{fid}</code>\n🌍 王国: <code>S{kid}</code>\n\n王国が違うか、その ID が存在しません。ゲーム内で名前の横のサーバー番号を確認してから、もう一度 /register を実行してください。"
+  "register_bad_kingdom": "❌ <b>ゲームがこのアカウントを認識できませんでした。</b>\n\n🆔 ID: <code>{fid}</code>\n🌍 王国: <code>S{kid}</code>\n\n王国が違うか、その ID が存在しません。ゲーム内で名前の横のサーバー番号を確認してから、もう一度 /register を実行してください。",
+  "pedit_usage": "🌍 <b>王国を変更</b>\n\nあなたのアカウント:\n{accounts}\n\n<code>/setstate 3982</code> — アカウントが1つの場合\n<code>/setstate 12345678 3982</code> — 特定のアカウント\n\n王国とは、ゲーム内で名前の横に表示されるサーバー番号です。",
+  "pedit_no_accounts": "まだ登録されたアカウントがありません。先に /register を使ってください。",
+  "pedit_which_account": "アカウントが複数あります。どれか指定してください:\n{accounts}\n\n<code>/setstate [ID] [王国]</code>",
+  "pedit_bad_kingdom": "❌ 王国番号ではないようです。数字だけを送ってください。例: <code>3982</code>",
+  "pedit_not_allowed": "❌ 自分のアカウントのみ変更できます。",
+  "pedit_checking": "⏳ ゲームに確認中…",
+  "pedit_saved": "✅ <b>王国を更新しました</b>\n\n🆔 <code>{fid}</code>\n🌍 <code>S{kid}</code>\n\n次のコードからギフトコードが再び使えます。",
+  "pedit_rejected": "❌ <b>ゲームが認識できませんでした。</b>\n\n🆔 <code>{fid}</code>\n🌍 <code>S{kid}</code>\n\nゲーム内で名前の横のサーバー番号を確認して、もう一度お試しください。",
+  "pedit_unavailable": "⚠️ 今ゲームに接続できませんでした。何も変更されていません — 少し後にもう一度お試しください。"
 }
