@@ -1680,5 +1680,6 @@
   "pedit_ask_kingdom": "🌍 Yeni krallığı gönder.\n\nOyunda isminin yanında yazan sunucu numarası.\n\n<i>Örnek: 3982</i>",
   "pedit_ask_name": "👤 Yeni ismi gönder — oyunda göründüğü şekliyle.",
   "pedit_name_saved": "✅ İsim <b>{name}</b> olarak güncellendi.",
-  "pedit_invalid_name": "❌ Bu isim kullanılamıyor. Oyunda göründüğü şekliyle gönder (en fazla 60 karakter)."
+  "pedit_invalid_name": "❌ Bu isim kullanılamıyor. Oyunda göründüğü şekliyle gönder (en fazla 60 karakter).",
+  "pedit_open_btn": "🌍 Krallık / isim değiştir"
 }
