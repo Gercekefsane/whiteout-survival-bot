@@ -1647,5 +1647,17 @@
   "pedit_rejected": "❌ <b>ゲームが認識できませんでした。</b>\n\n🆔 <code>{fid}</code>\n🌍 <code>S{kid}</code>\n\nゲーム内で名前の横のサーバー番号を確認して、もう一度お試しください。",
   "pedit_unavailable": "⚠️ 今ゲームに接続できませんでした。何も変更されていません — 少し後にもう一度お試しください。",
   "kid_stale_notice": "🌍 <b>王国の情報が古いようです</b>\n\n<b>{name}</b>（<code>{fid}</code>）のギフトコードがゲームに拒否されています。通常はアカウントが別の王国へ移動した場合に起こります。\n\n現在 <code>S{kid}</code> として記録されています。\n\n今の王国を送っていただければ、コードは再び使えるようになります:\n<code>/setstate [王国]</code>\n\n<i>王国とは、ゲーム内で名前の横に表示されるサーバー番号です。</i>",
-  "feat_paused_upstream": "一時停止中（ゲームがデータ提供を終了）"
+  "feat_paused_upstream": "一時停止中（ゲームがデータ提供を終了）",
+  "pedit_pick_account": "👤 <b>どのアカウントですか？</b>",
+  "pedit_stale_warning": "🔴 <b>アカウントの王国情報を更新する必要があります</b> — そのアカウントのギフトコードがゲームに拒否されています。",
+  "pedit_pick_field": "<b>{name}</b>\n🆔 <code>{fid}</code> · 🌍 <code>S{kid}</code>\n\n何を変更しますか？",
+  "pedit_btn_kingdom": "🌍 王国",
+  "pedit_btn_name": "👤 名前",
+  "pedit_back": "◀️ 戻る",
+  "pedit_cancel": "✖️ キャンセル",
+  "pedit_cancelled": "キャンセルしました。",
+  "pedit_ask_kingdom": "🌍 新しい王国を送ってください。\n\nゲーム内で名前の横に表示されるサーバー番号です。\n\n<i>例: 3982</i>",
+  "pedit_ask_name": "👤 新しい名前を、ゲームに表示されているとおりに送ってください。",
+  "pedit_name_saved": "✅ 名前を <b>{name}</b> に変更しました。",
+  "pedit_invalid_name": "❌ その名前は使用できません。ゲームに表示されているとおりに送ってください（60文字まで）。"
 }
