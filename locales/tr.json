@@ -1667,5 +1667,6 @@
   "pedit_saved": "✅ <b>Krallık güncellendi</b>\n\n🆔 <code>{fid}</code>\n🌍 <code>S{kid}</code>\n\nHediye kodları bir sonraki koddan itibaren tekrar çalışacak.",
   "pedit_rejected": "❌ <b>Oyun bunu kabul etmedi.</b>\n\n🆔 <code>{fid}</code>\n🌍 <code>S{kid}</code>\n\nOyunda isminin yanındaki sunucu numarasını kontrol edip tekrar dene.",
   "pedit_unavailable": "⚠️ Oyuna şu an ulaşılamadı. Hiçbir şey değişmedi — bir dakika sonra tekrar dene.",
-  "kid_stale_notice": "🌍 <b>Krallık bilgin güncel görünmüyor</b>\n\n<b>{name}</b> (<code>{fid}</code>) için hediye kodları oyun tarafından reddediliyor; bu genelde hesabın başka bir krallığa taşındığı anlamına gelir.\n\nBizde <code>S{kid}</code> olarak kayıtlı.\n\nGüncel krallığını gönder, kodlar tekrar çalışmaya başlasın:\n<code>/setstate [KRALLIK]</code>\n\n<i>Krallık, oyunda isminin yanında yazan sunucu numarasıdır.</i>"
+  "kid_stale_notice": "🌍 <b>Krallık bilgin güncel görünmüyor</b>\n\n<b>{name}</b> (<code>{fid}</code>) için hediye kodları oyun tarafından reddediliyor; bu genelde hesabın başka bir krallığa taşındığı anlamına gelir.\n\nBizde <code>S{kid}</code> olarak kayıtlı.\n\nGüncel krallığını gönder, kodlar tekrar çalışmaya başlasın:\n<code>/setstate [KRALLIK]</code>\n\n<i>Krallık, oyunda isminin yanında yazan sunucu numarasıdır.</i>",
+  "feat_paused_upstream": "duraklatıldı (oyun veri kaynağını kaldırdı)"
 }
