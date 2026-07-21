@@ -1659,5 +1659,6 @@
   "pedit_ask_kingdom": "🌍 Send the new kingdom.\n\nIt's the server number shown next to your name in game.\n\n<i>Example: 3982</i>",
   "pedit_ask_name": "👤 Send the new name, exactly as it appears in game.",
   "pedit_name_saved": "✅ Name updated to <b>{name}</b>.",
-  "pedit_invalid_name": "❌ That name can't be used. Send the name as it appears in game (up to 60 characters)."
+  "pedit_invalid_name": "❌ That name can't be used. Send the name as it appears in game (up to 60 characters).",
+  "pedit_open_btn": "🌍 Change kingdom / name"
 }
