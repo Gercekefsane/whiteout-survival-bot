@@ -1645,5 +1645,6 @@
   "pedit_checking": "⏳ Checking with the game…",
   "pedit_saved": "✅ <b>Kingdom updated</b>\n\n🆔 <code>{fid}</code>\n🌍 <code>S{kid}</code>\n\nGift codes will work again from the next one.",
   "pedit_rejected": "❌ <b>The game didn't accept that.</b>\n\n🆔 <code>{fid}</code>\n🌍 <code>S{kid}</code>\n\nCheck the server number next to your name in game and try again.",
-  "pedit_unavailable": "⚠️ Couldn't reach the game just now. Nothing was changed — please try again in a minute."
+  "pedit_unavailable": "⚠️ Couldn't reach the game just now. Nothing was changed — please try again in a minute.",
+  "kid_stale_notice": "🌍 <b>Your kingdom looks out of date</b>\n\nGift codes for <b>{name}</b> (<code>{fid}</code>) are being refused by the game, which usually means the account moved to a different kingdom.\n\nWe have it recorded as <code>S{kid}</code>.\n\nSend your current kingdom and codes will start working again:\n<code>/setstate [KINGDOM]</code>\n\n<i>The kingdom is the server number next to your name in game.</i>"
 }
