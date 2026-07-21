@@ -1636,5 +1636,14 @@
   "register_ask_name": "👤 <b>What is the account's name in game?</b>\n\nType it exactly as it appears.",
   "register_invalid_kingdom_retry": "❌ That doesn't look like a kingdom number.\n\nSend just the number, for example <code>3982</code>:",
   "register_invalid_name_retry": "❌ Please send the account's in-game name (up to 255 characters):",
-  "register_bad_kingdom": "❌ <b>The game didn't accept this account.</b>\n\n🆔 ID: <code>{fid}</code>\n🌍 Kingdom: <code>S{kid}</code>\n\nEither the kingdom is wrong or that ID doesn't exist. Check the server number shown next to your name in game, then run /register again."
+  "register_bad_kingdom": "❌ <b>The game didn't accept this account.</b>\n\n🆔 ID: <code>{fid}</code>\n🌍 Kingdom: <code>S{kid}</code>\n\nEither the kingdom is wrong or that ID doesn't exist. Check the server number shown next to your name in game, then run /register again.",
+  "pedit_usage": "🌍 <b>Update a kingdom</b>\n\nYour accounts:\n{accounts}\n\n<code>/setstate 3982</code> — if you have one account\n<code>/setstate 12345678 3982</code> — a specific account\n\nThe kingdom is the server number shown next to your name in game.",
+  "pedit_no_accounts": "You don't have any registered accounts yet. Use /register first.",
+  "pedit_which_account": "You have more than one account. Say which one:\n{accounts}\n\n<code>/setstate [ID] [KINGDOM]</code>",
+  "pedit_bad_kingdom": "❌ That doesn't look like a kingdom number. Send just the number, for example <code>3982</code>.",
+  "pedit_not_allowed": "❌ You can only change your own accounts.",
+  "pedit_checking": "⏳ Checking with the game…",
+  "pedit_saved": "✅ <b>Kingdom updated</b>\n\n🆔 <code>{fid}</code>\n🌍 <code>S{kid}</code>\n\nGift codes will work again from the next one.",
+  "pedit_rejected": "❌ <b>The game didn't accept that.</b>\n\n🆔 <code>{fid}</code>\n🌍 <code>S{kid}</code>\n\nCheck the server number next to your name in game and try again.",
+  "pedit_unavailable": "⚠️ Couldn't reach the game just now. Nothing was changed — please try again in a minute."
 }
