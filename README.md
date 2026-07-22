@@ -638,3 +638,15 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 **Telegram Bot** · **Discord Bot** · **Free Gift Codes** · **Furnace Tracker** · **WOS Helper**
 
 </div>
+
+
+---
+
+## 🔍 API Transparency
+
+We continuously datamine Whiteout Survival's official gift-code site and publish its API structure openly — endpoints, payload keys, the signature scheme, and every change over time. Read-only: we observe, we never tamper.
+
+- **4 endpoints tracked** — 2 live, 2 removed by the backend (still referenced by the frontend)
+- Last scan: 22/07/2026 12:51 UTC
+
+📄 [Live endpoint table](API_ENDPOINTS.md) · 📡 [Datamining timeline](API_DATAMINING.md)
