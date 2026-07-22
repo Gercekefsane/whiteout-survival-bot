@@ -642,11 +642,18 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-## 🔍 API Transparency
+## API Transparency
 
-We continuously datamine Whiteout Survival's official gift-code site and publish its API structure openly — endpoints, payload keys, the signature scheme, and every change over time. Read-only: we observe, we never tamper.
+We continuously datamine **Whiteout Survival**'s official gift-code client and publish its API surface in the open — every endpoint, the request parameters, the encrypt key, the signature scheme, and each change over time. The scan is strictly read-only: it observes the game's public web client and never modifies the API or our redemption keys.
 
-- **4 endpoints tracked** — 2 live, 2 removed by the backend (still referenced by the frontend)
-- Last scan: 22/07/2026 12:51 UTC
+![endpoints 4](https://img.shields.io/badge/endpoints-4-57606a?style=flat-square)
+![live 2](https://img.shields.io/badge/live-2-2ea44f?style=flat-square)
+![removed 2](https://img.shields.io/badge/removed-2-cf222e?style=flat-square)
+![log append-only](https://img.shields.io/badge/log-append--only-57606a?style=flat-square)
 
-📄 [Live endpoint table](API_ENDPOINTS.md) · 📡 [Datamining timeline](API_DATAMINING.md)
+<sub>Last change 21/07/2026 11:00 UTC — the backend no longer answers `/captcha` and `/player`; both paths remain referenced by the frontend.</sub>
+
+- **[Live API surface →](API_ENDPOINTS.md)** — current endpoints, backend status, payload keys, encrypt key, signature scheme
+- **[Change timeline →](API_DATAMINING.md)** — append-only history of every observed change
+
+<sub>Payload keys are reported as a per-bundle set — minification hides which key belongs to which endpoint.</sub>
