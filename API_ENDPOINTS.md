@@ -5,7 +5,7 @@
 ![removed 2](https://img.shields.io/badge/removed-2-cf222e?style=flat-square)
 ![scan read-only](https://img.shields.io/badge/scan-read--only-57606a?style=flat-square)
 
-<sub>Backend `wos-giftcode-api.centurygame.com/api` &nbsp;·&nbsp; frontend `wos-giftcode.centurygame.com` &nbsp;·&nbsp; bundle `app.6ca559b45b5fb0de.js` &nbsp;·&nbsp; last scanned 22/07/2026 13:35 UTC</sub>
+<sub>Backend `wos-giftcode-api.centurygame.com/api` &nbsp;·&nbsp; frontend `wos-giftcode.centurygame.com` &nbsp;·&nbsp; bundle `app.6ca559b45b5fb0de.js` &nbsp;·&nbsp; last scanned 22/07/2026 13:54 UTC</sub>
 
 This document mirrors the gift-code API of **Whiteout Survival** exactly as the game's own public web client describes it — the endpoints its frontend calls, which of them the backend still answers, the request parameters, the encrypt key, and the signature scheme. It is produced by an automated scan that only reads Century Games' public JavaScript and probes their public API. We observe; we never modify the game's API, and never touch our own redemption keys.
 
@@ -118,26 +118,12 @@ The active flow is the signed single-call API (no login, no captcha). Century Ga
 ## Rate limits
 
 ![game throttle per-FID 40019](https://img.shields.io/badge/game%20throttle-per--FID%2040019-bf8700?style=flat-square)
-![our pacing concurrency + backoff](https://img.shields.io/badge/our%20pacing-concurrency%20+%20backoff-57606a?style=flat-square)
 ![fixed rps none](https://img.shields.io/badge/fixed%20rps-none-57606a?style=flat-square)
 
-The game enforces exactly one limit on us: err `40019`, a per-FID (per-player) throttle. It is unaffected by how many DIFFERENT players we process at once, so our concurrency ceiling is our proxy pool, not the game. Every request also exits through a **rotating proxy pool** (a different IP per call), so we are not hammering the API from one address, and there is **no fixed requests-per-second limiter** in the redeem path.
-
-| Control | Value | What it bounds | Side |
-|---|:--:|---|:--:|
-| Concurrency ceiling | `200` | Max simultaneous game-API calls, system-wide (semaphore). | ![our pacing](https://img.shields.io/badge/our%20pacing-57606a?style=flat-square) |
-| Per-batch fan-out | `100` | Redemptions dispatched at once per alliance batch. | ![our pacing](https://img.shields.io/badge/our%20pacing-57606a?style=flat-square) |
-| API redeem jobs | `25` | Concurrent website/API redeem jobs. | ![our pacing](https://img.shields.io/badge/our%20pacing-57606a?style=flat-square) |
-| Retry attempts | `3` | Attempts per redemption before we give up. | ![our pacing](https://img.shields.io/badge/our%20pacing-57606a?style=flat-square) |
-| Retry backoff | `5 s / 2 s` | Wait between attempts: 5 s after a `40019` throttle, 2 s otherwise. | ![our pacing](https://img.shields.io/badge/our%20pacing-57606a?style=flat-square) |
-| Job-dispatch pacing | `0.5 s` | Gap between picking successive queued jobs off the API queue. | ![our pacing](https://img.shields.io/badge/our%20pacing-57606a?style=flat-square) |
-| Scheduler yield | `0.1 s` | Cooperative yield between players in a web batch (not a rate limit). | ![our pacing](https://img.shields.io/badge/our%20pacing-57606a?style=flat-square) |
-| Per-FID throttle | `err 40019` | Century Games caps how often ONE player FID may redeem. | ![game-enforced](https://img.shields.io/badge/game--enforced-bf8700?style=flat-square) |
+Century Games enforces exactly one limit on gift-code redemption: err `40019`, a per-FID (per-player) throttle — a single player redeeming too frequently gets pushed back. Because it is **per player**, it does not cap how many different players may be processed, and there is **no fixed requests-per-second limit** on the endpoint itself.
 
 > [!NOTE]
-> **One game limit, the rest is ours.** The only throttle Century Games imposes is the per-FID `40019` above; every other row is our own concurrency budget or a cooperative delay, tuned to the proxy pool (~250 concurrent exits) rather than to the game.
-
-<sub>A separate background **auto-retry** loop for failed codes uses a longer `15 s → 30 s → 60 s` backoff; that is a housekeeping sweep, not the live redeem path (which uses the 5 s / 2 s backoff above). Two older `GIFTCODE_RATE_LIMIT_*` settings still sit in the config file but are **dead** — nothing reads them — so they are deliberately omitted here.</sub>
+> `40019` is a throttle, not a rejection — it must never be confused with `40020` (`KID_MISMATCH`). Reading a per-FID throttle as a kingdom mismatch would wrongly flag healthy players. See [Error codes](#error-codes).
 
 ---
 
