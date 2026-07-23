@@ -1646,7 +1646,7 @@
   "pedit_saved": "✅ <b>Kingdom updated</b>\n\n🆔 <code>{fid}</code>\n🌍 <code>S{kid}</code>\n\nGift codes will work again from the next one.",
   "pedit_rejected": "❌ <b>The game didn't accept that.</b>\n\n🆔 <code>{fid}</code>\n🌍 <code>S{kid}</code>\n\nCheck the server number next to your name in game and try again.",
   "pedit_unavailable": "⚠️ Couldn't reach the game just now. Nothing was changed — please try again in a minute.",
-  "kid_stale_notice": "🌍 <b>Your kingdom looks out of date</b>\n\nGift codes for <b>{name}</b> (<code>{fid}</code>) are being refused by the game, which usually means the account moved to a different kingdom.\n\nWe have it recorded as <code>S{kid}</code>.\n\nSend your current kingdom and codes will start working again:\n<code>/setstate [KINGDOM]</code>\n\n<i>The kingdom is the server number next to your name in game.</i>",
+  "kid_stale_notice": "🌍 <b>Your kingdom looks out of date</b>\n\nGift codes for <b>{name}</b> (<code>{fid}</code>) are being refused by the game — usually because the account moved to a different kingdom.\n\nWe have it recorded as <b>S{kid}</b>. Tap below to set the right one and codes start working again.\n\n<i>The kingdom is the server number next to your name in game.</i>",
   "feat_paused_upstream": "paused (game removed the data source)",
   "pedit_pick_account": "👤 <b>Which account?</b>",
   "pedit_stale_warning": "🔴 <b>One of your accounts needs its kingdom updating</b> — gift codes for it are being refused by the game.",
@@ -1660,5 +1660,7 @@
   "pedit_ask_name": "👤 Send the new name, exactly as it appears in game.",
   "pedit_name_saved": "✅ Name updated to <b>{name}</b>.",
   "pedit_invalid_name": "❌ That name can't be used. Send the name as it appears in game (up to 60 characters).",
-  "pedit_open_btn": "🌍 Change kingdom / name"
+  "pedit_open_btn": "🌍 Change kingdom / name",
+  "kid_fix_button": "🌍 Fix my kingdom",
+  "kid_web_button": "🌐 Manage on the website"
 }
