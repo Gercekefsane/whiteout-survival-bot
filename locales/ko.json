@@ -1570,7 +1570,7 @@
   "pedit_saved": "✅ <b>왕국이 변경되었습니다</b>\n\n🆔 <code>{fid}</code>\n🌍 <code>S{kid}</code>\n\n다음 코드부터 선물 코드가 다시 작동합니다.",
   "pedit_rejected": "❌ <b>게임에서 인식하지 못했습니다.</b>\n\n🆔 <code>{fid}</code>\n🌍 <code>S{kid}</code>\n\n게임에서 이름 옆의 서버 번호를 확인한 뒤 다시 시도해 주세요.",
   "pedit_unavailable": "⚠️ 지금 게임에 연결할 수 없습니다. 변경된 내용은 없습니다 — 잠시 후 다시 시도해 주세요.",
-  "kid_stale_notice": "🌍 <b>왕국 정보가 오래된 것 같습니다</b>\n\n<b>{name}</b> (<code>{fid}</code>) 계정의 선물 코드가 게임에서 거부되고 있습니다. 보통 계정이 다른 왕국으로 이동했을 때 발생합니다.\n\n현재 <code>S{kid}</code> 로 기록되어 있습니다.\n\n현재 왕국을 알려주시면 코드가 다시 작동합니다:\n<code>/setstate [왕국]</code>\n\n<i>왕국은 게임에서 이름 옆에 표시된 서버 번호입니다.</i>",
+  "kid_stale_notice": "🌍 <b>왕국 정보가 오래된 것 같습니다</b>\n\n<b>{name}</b> (<code>{fid}</code>) 계정의 선물 코드가 게임에서 거부되고 있습니다 — 보통 계정이 다른 왕국으로 이동했기 때문입니다.\n\n현재 <b>S{kid}</b> 로 기록되어 있습니다. 아래를 눌러 올바른 왕국을 설정하면 코드가 다시 작동합니다.\n\n<i>왕국은 게임에서 이름 옆에 표시된 서버 번호입니다.</i>",
   "feat_paused_upstream": "일시 중지됨 (게임이 데이터 소스를 제거함)",
   "pedit_pick_account": "👤 <b>어느 계정인가요?</b>",
   "pedit_stale_warning": "🔴 <b>계정 중 하나의 왕국 정보를 업데이트해야 합니다</b> — 해당 계정의 선물 코드가 게임에서 거부되고 있습니다.",
@@ -1584,5 +1584,7 @@
   "pedit_ask_name": "👤 새 이름을 게임에 표시된 그대로 보내주세요.",
   "pedit_name_saved": "✅ 이름이 <b>{name}</b> 으로 변경되었습니다.",
   "pedit_invalid_name": "❌ 사용할 수 없는 이름입니다. 게임에 표시된 대로 보내주세요 (최대 60자).",
-  "pedit_open_btn": "🌍 왕국 / 이름 변경"
+  "pedit_open_btn": "🌍 왕국 / 이름 변경",
+  "kid_fix_button": "🌍 왕국 수정",
+  "kid_web_button": "🌐 웹사이트에서 관리"
 }
