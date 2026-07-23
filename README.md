@@ -90,12 +90,12 @@ We need volunteers to report **kingdom transfer dates** for their states. Know y
 
 ## 🔢 Latest Version: v5.0.0
 
-> **Released:** 2026-05-27
+> **Released:** 2026-07-23
 
-  - **Account Marketplace**: Buy and sell game accounts with rich listings, pricing, screenshots, and 14-day auto-expiry — full browse / search / filter experience on woscontrol.com
-  - **AI Screenshot Analysis**: Upload an account screenshot and the bot auto-extracts power, furnace level, kingdom, and gear using AI vision — no manual data entry
-  - **AI Price Suggestion**: When listing an account, see what similar accounts have sold for — a data-driven price range built from real marketplace history
-  - **Offers & Counter-Offers**: Buyers make offers; sellers accept, reject, or counter with a new price and message — a complete negotiation flow with instant notifications
+  - **WosControl AI Assistant**: Ask the bot anything right inside your alliance's own Telegram or Discord — a conversational AI that answers hero, meta, transfer-window, leaderboard, roster, and live-player questions, with a dedicated channel set up automatically for every alliance
+  - **Website Chat Assistant**: The WOSCONTROL Assistant now answers live in the woscontrol.com community chat too — grounded in real bot data, showing a typing indicator while it thinks, and poppable to fullscreen from any page
+  - **AI Meta Advisor**: Share your profile and hero roster to get a personalized, meta-grounded report — hero tier lists, expert picks, and growth timelines, with a build plan written in your own language on exactly how to improve your account
+  - **Community Guides**: Upload a few screenshots and AI turns them into a structured, auto-translated strategy guide — with a premium author wizard to preview and edit before publishing, plus hero tier tabs, per-event hubs, and community voting and bookmarks
 
 > 📋 **[Full Changelog →](CHANGELOG.md)**
 
