@@ -2,6 +2,38 @@
 
 All notable changes to this project are documented here.
 
+## v5.0.0 — 2026-07-23
+
+### ✨ Added
+- **WosControl AI Assistant**: Ask the bot anything right inside your alliance's own Telegram or Discord — a conversational AI that answers hero, meta, transfer-window, leaderboard, roster, and live-player questions, with a dedicated channel set up automatically for every alliance
+- **Website Chat Assistant**: The WOSCONTROL Assistant now answers live in the woscontrol.com community chat too — grounded in real bot data, showing a typing indicator while it thinks, and poppable to fullscreen from any page
+- **AI Meta Advisor**: Share your profile and hero roster to get a personalized, meta-grounded report — hero tier lists, expert picks, and growth timelines, with a build plan written in your own language on exactly how to improve your account
+- **Community Guides**: Upload a few screenshots and AI turns them into a structured, auto-translated strategy guide — with a premium author wizard to preview and edit before publishing, plus hero tier tabs, per-event hubs, and community voting and bookmarks
+- **New Strategy Planners**: Three new calculators — War Academy research, Pet skills, and Dawn Academy Experts — with real costs, resource totals, and full progression tables, joined by a Battle Simulator upgrade that now factors in hero skills and Furnace Core bonuses
+- **Developer API Access**: Apply for a public API key on the website and retrieve it yourself anytime with /api or /mykey, with clear re-apply guidance
+- **AI Auto-Approval**: API key applications are now reviewed and approved automatically by AI within minutes — with clear status and reasons at every step, and an owner kill-switch to drop back to manual review at any time
+- **Self-Service Profile**: Set or fix your own in-game name and kingdom whenever you like with /profile, /setstate, or Discord /mysettings — and registration now asks for your kingdom up front so gift codes always reach the right account
+- **Self-Service Billing Portal**: Manage your plan, update your card, or cancel any time through the new customer billing portal
+- **Dedicated Change-History Channel**: Player name and state changes now flow into their own dedicated channel, neatly grouped per player with one-tap player-search links
+- **Join Spam Protection**: The alliance Join flow now automatically detects and bans link-spammers, while alliance leaders and group admins stay exempt
+- **Privacy Policy**: A clear, fully translated privacy page laying out cookies, the data we keep, and your rights over it
+
+### 🔧 Fixed
+- **Gift Code Redemption**: Restored gift-code redemption after a game API change and made it kingdom-aware, so website codes stop failing and redeem noticeably faster — and codes now keep the exact upper- and lower-case you type, so case-sensitive codes work
+- **Marketplace Reliability**: Account details on marketplace listings load reliably from our own records again, and the kingdom check that verifies a seller really owns the account is back in place
+
+### 🔄 Changed
+- **Version Bump**: 4.0.0 → 5.0.0 — a major AI release adding a conversational assistant across your alliance chats and the website, AI-built Community Guides, a Meta Advisor, a public developer API with automatic approval, and self-renewing subscriptions
+- **Recurring Subscriptions**: Premium and API plans now renew automatically as true subscriptions, with prorated credit when you upgrade mid-cycle and pricing that stays perfectly in sync
+- **License Expiry Warnings**: Subscription expiry, grace-period, and expired notices are now pinned in your alliance group and DM'd to admins, so renewals never catch you by surprise
+- **Easier Gift-Code Redemption**: Redeem with your in-game name, add several codes at once, and see exactly why a code failed instead of hitting a silent error
+- **Leaderboard Tiers & Badges**: The leaderboard now has a winners' podium, tier rankings, badges, and a showcase so top players and alliances stand out
+- **Alliance Directory**: The directory now lists every alliance active on Telegram or Discord, and warns you when one is already full as you try to join
+- **Player API Data**: The developer Player API now reports gift-code status, furnace level, and total recharge, and falls back to live game data for players not yet tracked
+- **Streamlined Navigation**: A redesigned mega-menu tucks tools into tidy Community and Calculators dropdowns so features are easier to find
+
+---
+
 ## v4.0.0 — 2026-05-27
 
 ### ✨ Added
