@@ -1667,7 +1667,7 @@
   "pedit_saved": "✅ <b>Krallık güncellendi</b>\n\n🆔 <code>{fid}</code>\n🌍 <code>S{kid}</code>\n\nHediye kodları bir sonraki koddan itibaren tekrar çalışacak.",
   "pedit_rejected": "❌ <b>Oyun bunu kabul etmedi.</b>\n\n🆔 <code>{fid}</code>\n🌍 <code>S{kid}</code>\n\nOyunda isminin yanındaki sunucu numarasını kontrol edip tekrar dene.",
   "pedit_unavailable": "⚠️ Oyuna şu an ulaşılamadı. Hiçbir şey değişmedi — bir dakika sonra tekrar dene.",
-  "kid_stale_notice": "🌍 <b>Krallık bilgin güncel görünmüyor</b>\n\n<b>{name}</b> (<code>{fid}</code>) için hediye kodları oyun tarafından reddediliyor; bu genelde hesabın başka bir krallığa taşındığı anlamına gelir.\n\nBizde <code>S{kid}</code> olarak kayıtlı.\n\nGüncel krallığını gönder, kodlar tekrar çalışmaya başlasın:\n<code>/setstate [KRALLIK]</code>\n\n<i>Krallık, oyunda isminin yanında yazan sunucu numarasıdır.</i>",
+  "kid_stale_notice": "🌍 <b>Krallık bilgin güncel görünmüyor</b>\n\n<b>{name}</b> (<code>{fid}</code>) için hediye kodları oyun tarafından reddediliyor — genelde hesap başka bir krallığa taşındığı için.\n\nBizde <b>S{kid}</b> olarak kayıtlı. Doğrusunu ayarlamak için aşağıya dokun, kodlar tekrar çalışsın.\n\n<i>Krallık, oyunda isminin yanında yazan sunucu numarasıdır.</i>",
   "feat_paused_upstream": "duraklatıldı (oyun veri kaynağını kaldırdı)",
   "pedit_pick_account": "👤 <b>Hangi hesap?</b>",
   "pedit_stale_warning": "🔴 <b>Bir hesabının krallık bilgisi güncellenmeli</b> — oyun o hesap için hediye kodlarını reddediyor.",
@@ -1681,5 +1681,7 @@
   "pedit_ask_name": "👤 Yeni ismi gönder — oyunda göründüğü şekliyle.",
   "pedit_name_saved": "✅ İsim <b>{name}</b> olarak güncellendi.",
   "pedit_invalid_name": "❌ Bu isim kullanılamıyor. Oyunda göründüğü şekliyle gönder (en fazla 60 karakter).",
-  "pedit_open_btn": "🌍 Krallık / isim değiştir"
+  "pedit_open_btn": "🌍 Krallık / isim değiştir",
+  "kid_fix_button": "🌍 Krallığımı düzelt",
+  "kid_web_button": "🌐 Web sitesinde yönet"
 }
