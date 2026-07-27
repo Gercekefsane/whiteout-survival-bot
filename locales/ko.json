@@ -1599,5 +1599,10 @@
   "pedit_invalid_name": "❌ 사용할 수 없는 이름입니다. 게임에 표시된 대로 보내주세요 (최대 60자).",
   "pedit_open_btn": "🌍 왕국 / 이름 변경",
   "kid_fix_button": "🌍 왕국 수정",
-  "kid_web_button": "🌐 웹사이트에서 관리"
+  "kid_web_button": "🌐 웹사이트에서 관리",
+  "ads_opt_out_done": "✅ 완료되었습니다. 더 이상 광고 브로드캐스트 메시지를 받지 않습니다. 다시 켜려면 /allow_ads 를 입력하세요.",
+  "ads_opt_in_done": "✅ 완료되었습니다. 광고 브로드캐스트 메시지를 다시 받습니다. 다시 끄려면 /stop_ads 를 입력하세요.",
+  "ads_opt_out_admin_only": "⚠️ 그룹 전체의 광고 브로드캐스트는 그룹 관리자만 변경할 수 있습니다.",
+  "ads_opt_out_group_done": "✅ 완료되었습니다. 이 그룹은 더 이상 광고 브로드캐스트 메시지를 받지 않습니다. 관리자가 /allow_ads 로 다시 켜서 받을 수 있습니다.",
+  "ads_opt_in_group_done": "✅ 완료되었습니다. 이 그룹은 다시 광고 브로드캐스트 메시지를 받습니다."
 }
