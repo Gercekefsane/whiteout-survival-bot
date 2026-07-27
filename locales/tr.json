@@ -1015,6 +1015,8 @@
   "note_crystal_mastery": "Ateş Kristali seviye 9-10 Kilidi Açıldı",
   "note_unconfirmed_gen": "İsimler ve Yayın tarihi Bilinmiyor",
   "owner_broadcast_title": "Yönetici Duyurusu",
+  "ad_broadcast_title": "Sponsorlu",
+  "ad_broadcast_footer": "Bu ücretli bir reklamdır. Reklam mesajlarını durdurmak için /stop_ads yazın.",
   "broadcast_title": "Duyuru Gönder",
   "broadcast_preview": "Duyuru Önizleme",
   "broadcast_enter_message": "Göndermek istediğiniz mesajı yazın.\nMesaj tüm gruplara ve kullanıcılara iletilecektir.",
