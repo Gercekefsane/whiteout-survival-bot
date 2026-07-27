@@ -1675,5 +1675,10 @@
   "pedit_invalid_name": "❌ That name can't be used. Send the name as it appears in game (up to 60 characters).",
   "pedit_open_btn": "🌍 Change kingdom / name",
   "kid_fix_button": "🌍 Fix my kingdom",
-  "kid_web_button": "🌐 Manage on the website"
+  "kid_web_button": "🌐 Manage on the website",
+  "ads_opt_out_done": "✅ Done. You will no longer receive advertiser broadcast messages. Use /allow_ads to turn them back on.",
+  "ads_opt_in_done": "✅ Done. Advertiser broadcast messages are back on. Use /stop_ads to opt out again.",
+  "ads_opt_out_admin_only": "⚠️ Only a group admin can change advertiser broadcasts for the whole group.",
+  "ads_opt_out_group_done": "✅ Done. This group will no longer receive advertiser broadcast messages. An admin can use /allow_ads to turn them back on.",
+  "ads_opt_in_group_done": "✅ Done. This group will receive advertiser broadcast messages again."
 }
