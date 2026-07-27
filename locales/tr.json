@@ -1696,5 +1696,10 @@
   "pedit_invalid_name": "❌ Bu isim kullanılamıyor. Oyunda göründüğü şekliyle gönder (en fazla 60 karakter).",
   "pedit_open_btn": "🌍 Krallık / isim değiştir",
   "kid_fix_button": "🌍 Krallığımı düzelt",
-  "kid_web_button": "🌐 Web sitesinde yönet"
+  "kid_web_button": "🌐 Web sitesinde yönet",
+  "ads_opt_out_done": "✅ Tamam. Artık reklam duyuru mesajları almayacaksınız. Yeniden açmak için /allow_ads yazın.",
+  "ads_opt_in_done": "✅ Tamam. Reklam duyuru mesajları yeniden açıldı. Tekrar kapatmak için /stop_ads yazın.",
+  "ads_opt_out_admin_only": "⚠️ Reklam duyurularını tüm grup için yalnızca bir grup yöneticisi değiştirebilir.",
+  "ads_opt_out_group_done": "✅ Tamam. Bu grup artık reklam duyuru mesajları almayacak. Bir yönetici /allow_ads ile yeniden açabilir.",
+  "ads_opt_in_group_done": "✅ Tamam. Bu grup yeniden reklam duyuru mesajları alacak."
 }
