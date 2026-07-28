@@ -289,6 +289,7 @@
   "no_alliance_linked": "This group is not linked to any alliance. Please specify the TAG:",
   "current_group_alliance": "This Group's Alliance",
   "all_alliances": "All Alliances",
+  "panel_alliances_more": "… and {count} more",
   "processing_giftcodes": "Processing gift codes",
   "giftcode_results": "Gift Code Results",
   "giftcode_validation_title": "🔍 Gift Code Validation",
