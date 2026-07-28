@@ -289,6 +289,7 @@
   "no_alliance_linked": "このグループはいずれの同盟にも紐付いていません。TAGを指定してください：",
   "current_group_alliance": "このグループの同盟",
   "all_alliances": "全同盟",
+  "panel_alliances_more": "…他 {count} 件",
   "processing_giftcodes": "ギフトコードを処理中",
   "giftcode_results": "ギフトコード結果",
   "giftcode_validation_title": "🔍 ギフトコード検証",
