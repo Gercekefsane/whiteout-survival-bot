@@ -292,6 +292,7 @@
   "no_alliance_linked": "Эта группа не привязана к альянсу. Укажите ТЕГ:",
   "current_group_alliance": "Альянс этой группы",
   "all_alliances": "Все альянсы",
+  "panel_alliances_more": "… и ещё {count}",
   "processing_giftcodes": "Обработка подарочных кодов",
   "giftcode_results": "Результаты подарочных кодов",
   "giftcode_validation_title": "🔍 Проверка кода",
