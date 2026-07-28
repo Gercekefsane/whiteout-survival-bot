@@ -292,6 +292,7 @@
   "no_alliance_linked": "이 그룹은 동맹에 연동되지 않았습니다. 태그를 지정하세요:",
   "current_group_alliance": "이 그룹의 동맹",
   "all_alliances": "모든 동맹",
+  "panel_alliances_more": "… 외 {count}개",
   "processing_giftcodes": "기프트 코드 처리 중",
   "giftcode_results": "기프트 코드 결과",
   "giftcode_validation_title": "🔍 기프트 코드 검증",
