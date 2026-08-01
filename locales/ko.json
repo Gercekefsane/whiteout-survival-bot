@@ -563,6 +563,8 @@
   "channel_type_giftcode_desc": "새 기프트 코드 공지",
   "channel_type_changehistory": "변경 내역",
   "channel_type_changehistory_desc": "멤버 닉네임, 화로, 상태, 아바타 변경 알림",
+  "channel_type_kingdomchange": "왕국 변경 알림",
+  "channel_type_kingdomchange_desc": "영향을 받은 멤버를 태그하는 왕국 정보 오래됨 경고",
   "channel_type_beartrap": "곰 함정",
   "channel_type_beartrap_desc": "곰 함정 이벤트 알림",
   "channels_title": "채널 설정",
@@ -1539,7 +1541,9 @@
   "channel_type_support_desc": "동맹-소유자 소통을 위한 지원 채널",
   "topic_name_support": "WosControl-지원",
   "topic_name_changehistory": "WosControl-ChangeHistory",
+  "topic_name_kingdomchange": "WosControl-KingdomChange",
   "dc_topic_changehistory": "🔄 WosControl Bot의 멤버 변경 알림 (닉네임·화로·상태·아바타)",
+  "dc_topic_kingdomchange": "🌍 WosControl Bot의, 영향을 받은 멤버를 태그하는 왕국 정보 오래됨 경고",
   "dc_sync_perm_title": "⚠️ 봇 권한 경고",
   "dc_sync_perm_body": "WosControl 봇이 **권한 부족으로 실행 중**입니다.\n\n❌ **생성 실패:** `{channel}`\n🔍 **오류:** {error}\n\n**작동하지 않을 수 있는 기능:**\n• 🎫 지원 채널 메시지\n• 🎁 선물 코드 알림\n• 📊 자동 채널 관리\n\n**필요한 권한:**\n• 채널 관리\n• 메시지 보내기\n• 메시지 기록 보기\n\n봇에게 **관리자** 권한을 부여하여 해결하세요.",
   "dc_topic_support": "📩 지원팀에 문의하려면 여기에 메시지를 보내세요. 메시지는 지원팀으로 전달됩니다.",
@@ -1627,5 +1631,7 @@
   "ads_opt_in_done": "✅ 완료되었습니다. 광고 브로드캐스트 메시지를 다시 받습니다. 다시 끄려면 /stop_ads 를 입력하세요.",
   "ads_opt_out_admin_only": "⚠️ 그룹 전체의 광고 브로드캐스트는 그룹 관리자만 변경할 수 있습니다.",
   "ads_opt_out_group_done": "✅ 완료되었습니다. 이 그룹은 더 이상 광고 브로드캐스트 메시지를 받지 않습니다. 관리자가 /allow_ads 로 다시 켜서 받을 수 있습니다.",
-  "ads_opt_in_group_done": "✅ 완료되었습니다. 이 그룹은 다시 광고 브로드캐스트 메시지를 받습니다."
+  "ads_opt_in_group_done": "✅ 완료되었습니다. 이 그룹은 다시 광고 브로드캐스트 메시지를 받습니다.",
+  "kidtags_stop_done": "✅ 완료되었습니다. 이제 왕국 변경 태그가 이 동맹의 채팅에서 멤버를 멘션하지 않습니다. 다시 켜려면 /start_kidtags 를 입력하세요.",
+  "kidtags_start_done": "✅ 완료되었습니다. 이 동맹의 왕국 변경 태그가 다시 켜졌습니다."
 }
