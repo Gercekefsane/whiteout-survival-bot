@@ -1707,5 +1707,7 @@
   "ads_opt_in_done": "✅ Done. Advertiser broadcast messages are back on. Use /stop_ads to opt out again.",
   "ads_opt_out_admin_only": "⚠️ Only a group admin can change advertiser broadcasts for the whole group.",
   "ads_opt_out_group_done": "✅ Done. This group will no longer receive advertiser broadcast messages. An admin can use /allow_ads to turn them back on.",
-  "ads_opt_in_group_done": "✅ Done. This group will receive advertiser broadcast messages again."
+  "ads_opt_in_group_done": "✅ Done. This group will receive advertiser broadcast messages again.",
+  "kidtags_stop_done": "✅ Done. Kingdom-change tags will no longer @-mention members in this alliance's chat. Use /start_kidtags to turn them back on.",
+  "kidtags_start_done": "✅ Done. Kingdom-change tags are back on for this alliance."
 }
