@@ -562,6 +562,8 @@
   "channel_type_giftlog_desc": "ギフトコード使用レポートとGoogleフォーム送信ログ",
   "channel_type_changehistory": "変更履歴",
   "channel_type_changehistory_desc": "メンバーのニックネーム・かまど・ステート・アバター変更通知",
+  "channel_type_kingdomchange": "王国変更アラート",
+  "channel_type_kingdomchange_desc": "対象メンバーにメンションする、王国情報が古いという警告",
   "channel_type_beartrap": "ベアトラップ",
   "channel_type_beartrap_desc": "ベアトラップイベントの通知",
   "channels_title": "チャンネル設定",
@@ -1541,9 +1543,11 @@
   "topic_name_giftlog": "WosControl-GiftLog",
   "topic_name_support": "WosControl-Support",
   "topic_name_changehistory": "WosControl-ChangeHistory",
+  "topic_name_kingdomchange": "WosControl-KingdomChange",
   "dc_topic_giftcodes": "🎁 WosControl Botからのギフトコード通知",
   "dc_topic_giftlog": "📊 WosControl Botからのギフトコードとフォーム送信ログ",
   "dc_topic_changehistory": "🔄 WosControl Botからのメンバー変更通知（ニックネーム・かまど・ステート・アバター）",
+  "dc_topic_kingdomchange": "🌍 WosControl Botからの、対象メンバーにメンションする王国情報が古いという警告",
   "perm_warning_title": "⚠️ 権限が不足しています！",
   "perm_warning_body": "このグループでボットに十分な管理者権限がありません。\n\n必要な権限:\n• トピック/チャンネルの管理\n• メッセージのピン留め\n• メッセージの削除\n• ユーザーの招待\n\nボットに<b>完全な管理者権限</b>を付与してください。\nそうしないとボットが正しく機能せず、グループを退出する可能性があります。",
   "perm_warning_urgent": "🚨 @everyone — ボットが動作するには管理者権限が必要です！グループオーナーに完全な管理者権限を付与するよう依頼してください。",
@@ -1703,5 +1707,7 @@
   "ads_opt_in_done": "✅ 完了しました。広告の一斉配信メッセージを再び受け取ります。停止するには /stop_ads を送信してください。",
   "ads_opt_out_admin_only": "⚠️ グループ全体の広告配信を変更できるのはグループ管理者のみです。",
   "ads_opt_out_group_done": "✅ 完了しました。このグループは今後、広告の一斉配信メッセージを受け取りません。管理者は /allow_ads で再度有効にできます。",
-  "ads_opt_in_group_done": "✅ 完了しました。このグループは再び広告の一斉配信メッセージを受け取ります。"
+  "ads_opt_in_group_done": "✅ 完了しました。このグループは再び広告の一斉配信メッセージを受け取ります。",
+  "kidtags_stop_done": "✅ 完了しました。王国変更タグは今後このアライアンスのチャットでメンバーにメンションしません。再度有効にするには /start_kidtags を送信してください。",
+  "kidtags_start_done": "✅ 完了しました。このアライアンスの王国変更タグが再び有効になりました。"
 }
