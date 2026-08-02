@@ -847,7 +847,7 @@
   "sa_title": "同盟を作成",
   "sa_select_game": "この同盟のゲームを選択してください：",
   "sa_step": "ステップ",
-  "sa_ask_tag": "同盟タグを入力してください（3文字）：",
+  "sa_ask_tag": "同盟タグを入力してください（3〜5文字）：",
   "sa_tag_hint": "例：VTX、ABC、R4F",
   "sa_cancel_hint": "中断するには /cancel と入力してください。",
   "sa_tag_invalid_length": "タグは3〜5文字にしてください（英数字のみ）。",
