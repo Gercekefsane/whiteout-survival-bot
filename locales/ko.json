@@ -851,7 +851,7 @@
   "sa_ask_tag": "동맹 태그를 입력하세요 (3자):",
   "sa_tag_hint": "예시: VTX, ABC, R4F",
   "sa_cancel_hint": "/cancel을 입력하여 취소할 수 있습니다.",
-  "sa_tag_invalid_length": "태그는 정확히 3자여야 합니다.",
+  "sa_tag_invalid_length": "태그는 3~5자여야 합니다 (영문/숫자만).",
   "sa_tag_invalid_chars": "태그는 문자와 숫자만 포함할 수 있습니다.",
   "sa_ask_name": "동맹 이름을 입력하세요:",
   "sa_name_hint": "예시: Vertex Alliance, Dark Knights",
