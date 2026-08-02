@@ -623,7 +623,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 <br><br>
 
-**v5.0.0** · Last updated: 2026-08-01
+**v5.0.0** · Last updated: 2026-08-02
 
 <br>
 
