@@ -850,7 +850,7 @@
   "sa_ask_tag": "Enter your alliance tag (3 characters):",
   "sa_tag_hint": "Example: VTX, ABC, R4F",
   "sa_cancel_hint": "Type /cancel to abort.",
-  "sa_tag_invalid_length": "Tag must be exactly 3 characters.",
+  "sa_tag_invalid_length": "Tag must be 3-5 characters (letters/numbers only).",
   "sa_tag_invalid_chars": "Tag must contain only letters and numbers.",
   "sa_ask_name": "Enter your alliance name:",
   "sa_name_hint": "Example: Vertex Alliance, Dark Knights",
