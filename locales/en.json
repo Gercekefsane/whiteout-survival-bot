@@ -847,7 +847,7 @@
   "sa_title": "Create Alliance",
   "sa_select_game": "Select a game for this alliance:",
   "sa_step": "Step",
-  "sa_ask_tag": "Enter your alliance tag (3 characters):",
+  "sa_ask_tag": "Enter your alliance tag (3-5 characters):",
   "sa_tag_hint": "Example: VTX, ABC, R4F",
   "sa_cancel_hint": "Type /cancel to abort.",
   "sa_tag_invalid_length": "Tag must be 3-5 characters (letters/numbers only).",
