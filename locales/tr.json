@@ -876,7 +876,7 @@
   "sa_ask_tag": "İttifak etiketinizi girin (3 karakter):",
   "sa_tag_hint": "Örnek: VTX, ABC, R4F",
   "sa_cancel_hint": "İptal etmek için /cancel yazın.",
-  "sa_tag_invalid_length": "Etiket tam olarak 3 karakter olmalıdır.",
+  "sa_tag_invalid_length": "Etiket 3-5 karakter olmalıdır (sadece harf/rakam).",
   "sa_tag_invalid_chars": "Etiket sadece harf ve rakam içermelidir.",
   "sa_ask_name": "İttifak adını girin:",
   "sa_name_hint": "Örnek: Vertex Alliance, Dark Knights",
