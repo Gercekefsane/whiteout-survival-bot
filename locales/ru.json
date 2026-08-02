@@ -793,7 +793,7 @@
   "sa_ask_tag": "Введите тег альянса (3 символа):",
   "sa_tag_hint": "Пример: VTX, ABC, R4F",
   "sa_cancel_hint": "Введите /cancel для отмены.",
-  "sa_tag_invalid_length": "Тег должен быть ровно 3 символа.",
+  "sa_tag_invalid_length": "Тег должен содержать 3-5 символов (только буквы/цифры).",
   "sa_tag_invalid_chars": "Тег должен содержать только буквы и цифры.",
   "sa_ask_name": "Введите название альянса:",
   "sa_name_hint": "Пример: Vertex Alliance, Dark Knights",
