@@ -873,7 +873,7 @@
   "sa_title": "İttifak Oluştur",
   "sa_select_game": "Bu ittifak için bir oyun seçin:",
   "sa_step": "Adım",
-  "sa_ask_tag": "İttifak etiketinizi girin (3 karakter):",
+  "sa_ask_tag": "İttifak etiketinizi girin (3-5 karakter):",
   "sa_tag_hint": "Örnek: VTX, ABC, R4F",
   "sa_cancel_hint": "İptal etmek için /cancel yazın.",
   "sa_tag_invalid_length": "Etiket 3-5 karakter olmalıdır (sadece harf/rakam).",
