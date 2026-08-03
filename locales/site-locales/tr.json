@@ -517,6 +517,7 @@
   "transfer.no_power_data": "Güç sınırı verileri henüz yüklenmedi.",
   "transfer.after_svs": "SVS Sonrası",
   "transfer.after_koi": "KOI Sonrası",
+  "transfer.official": "Resmî",
   "transfer.days_away": "{days} gün sonra",
   "transfer.today": "Bugün!",
   "transfer.contribute_title": "Bu Verilerin Doğruluğunu Koruyun",
