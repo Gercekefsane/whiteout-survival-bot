@@ -517,6 +517,7 @@
   "transfer.no_power_data": "전투력 제한 데이터가 아직 로드되지 않았습니다.",
   "transfer.after_svs": "SVS 후",
   "transfer.after_koi": "KOI 후",
+  "transfer.official": "공식",
   "transfer.days_away": "{days}일 후",
   "transfer.today": "오늘!",
   "transfer.contribute_title": "데이터 정확성 유지에 도움을 주세요",
