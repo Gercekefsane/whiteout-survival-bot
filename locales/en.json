@@ -1710,5 +1710,9 @@
   "ads_opt_out_group_done": "✅ Done. This group will no longer receive advertiser broadcast messages. An admin can use /allow_ads to turn them back on.",
   "ads_opt_in_group_done": "✅ Done. This group will receive advertiser broadcast messages again.",
   "kidtags_stop_done": "✅ Done. Kingdom-change tags will no longer @-mention members in this alliance's chat. Use /start_kidtags to turn them back on.",
-  "kidtags_start_done": "✅ Done. Kingdom-change tags are back on for this alliance."
+  "kidtags_start_done": "✅ Done. Kingdom-change tags are back on for this alliance.",
+  "kid_heal_title_one": "🔄 <b>Kingdom updated</b>",
+  "kid_heal_title_many": "🔄 <b>Kingdoms updated</b>",
+  "kid_heal_note_one": "They moved kingdom — we found the new one and fixed it automatically. Nothing for you to do; any codes they missed will be retried.",
+  "kid_heal_note_many": "They moved kingdom — we found the new ones and fixed them automatically. Nothing for you to do; any codes they missed will be retried."
 }
