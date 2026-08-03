@@ -517,6 +517,7 @@
   "transfer.no_power_data": "Данные о лимитах силы ещё не загружены.",
   "transfer.after_svs": "После SVS",
   "transfer.after_koi": "После KOI",
+  "transfer.official": "Официально",
   "transfer.days_away": "через {days}д",
   "transfer.today": "Сегодня!",
   "transfer.contribute_title": "Помогите поддерживать точность данных",
