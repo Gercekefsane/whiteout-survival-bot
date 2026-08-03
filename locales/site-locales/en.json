@@ -517,6 +517,7 @@
   "transfer.no_power_data": "Power limit data not yet loaded.",
   "transfer.after_svs": "After SVS",
   "transfer.after_koi": "After KOI",
+  "transfer.official": "Official",
   "transfer.days_away": "{days}d away",
   "transfer.today": "Today!",
   "transfer.contribute_title": "Help Keep This Data Accurate",
