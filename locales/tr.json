@@ -1732,5 +1732,9 @@
   "ads_opt_out_group_done": "✅ Tamam. Bu grup artık reklam duyuru mesajları almayacak. Bir yönetici /allow_ads ile yeniden açabilir.",
   "ads_opt_in_group_done": "✅ Tamam. Bu grup yeniden reklam duyuru mesajları alacak.",
   "kidtags_stop_done": "✅ Tamam. Krallık değişikliği etiketleri artık bu ittifakın sohbetinde üyeleri etiketlemeyecek. Yeniden açmak için /start_kidtags yazın.",
-  "kidtags_start_done": "✅ Tamam. Krallık değişikliği etiketleri bu ittifak için yeniden açıldı."
+  "kidtags_start_done": "✅ Tamam. Krallık değişikliği etiketleri bu ittifak için yeniden açıldı.",
+  "kid_heal_title_one": "🔄 <b>Krallık güncellendi</b>",
+  "kid_heal_title_many": "🔄 <b>Krallık bilgileri güncellendi</b>",
+  "kid_heal_note_one": "Krallık değiştirmişti; yenisini otomatik bulup düzelttik. Yapmanız gereken bir şey yok — kaçırdığı kodlar yeniden denenecek.",
+  "kid_heal_note_many": "Krallık değiştirmişlerdi; yenilerini otomatik bulup düzelttik. Yapmanız gereken bir şey yok — kaçırdıkları kodlar yeniden denenecek."
 }
