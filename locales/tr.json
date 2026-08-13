@@ -3,6 +3,7 @@
   "register_mode_auto": "🔄 Otomatik (önerilen)",
   "register_mode_manual": "✏️ Manuel",
   "register_store_code_sent": "📬 <b>Kod gönderildi!</b>\n\n<b>Oyun-içi posta kutuna</b> bir doğrulama kodu gönderdik. Oyunda postanı aç ve kodu buraya yaz.\n\n<i>Gelmediyse aşağıdaki tekrar gönder butonunu kullan.</i>",
+  "register_store_already_linked": "✅ <b>Zaten bağlı!</b>\n\nBu hesap zaten resmi girişle doğrulanmış ve sana bağlı — yeni bir koda gerek yok.\n\n📩 Kaydı tamamlamak için buraya herhangi bir mesaj gönder.",
   "register_store_resend": "🔁 Kodu tekrar gönder",
   "register_store_bad_id": "❌ <b>Bu oyun ID'sini bulamadık.</b>\n\nID'ni kontrol et — oyunda isminin yanındaki numara. Hesabın farklı bir oyundaysa da bu olabilir.\n\n📩 Doğru ID'yi gönderip tekrar dene ya da /cancel ile çık.",
   "register_store_bad_code": "❌ <b>Kod yanlış veya süresi dolmuş.</b>\n\nOyun-içi postandaki güncel kodu kontrol edip tekrar yaz — ya da aşağıdan yeni kod gönder.",
