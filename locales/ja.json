@@ -854,6 +854,7 @@
   "premium_change_charged_line": "💳 今すぐ請求: <b>${amount} {currency}</b>",
   "premium_change_credited_line": "💳 請求なし — 差額はアカウント残高にクレジットされました。",
   "premium_change_failed": "プラン変更を完了できませんでした(支払いに失敗したか拒否されました)。現在のプランは変更されていません。支払い方法をご確認の上、再度お試しいただくか、サポートにお問い合わせください。",
+  "premium_change_manual_review": "このアライアンスのサブスクリプションの所有者を自動で確認できませんでした。所有者に手動で確認するよう通知しました。まもなくご連絡します。",
   "sa_title": "同盟を作成",
   "sa_select_game": "この同盟のゲームを選択してください：",
   "sa_step": "ステップ",
