@@ -880,6 +880,7 @@
   "premium_change_charged_line": "💳 Şimdi tahsil edildi: <b>${amount} {currency}</b>",
   "premium_change_credited_line": "💳 Ücret alınmadı — fiyat farkı hesap bakiyenize alacak olarak yazıldı.",
   "premium_change_failed": "Plan değişikliği tamamlanamadı (ödeme başarısız oldu veya reddedildi). Mevcut planınız değişmedi. Lütfen ödeme yönteminizi kontrol edip tekrar deneyin veya destek ile iletişime geçin.",
+  "premium_change_manual_review": "Bu ittifakin aboneligini kimin sahip oldugunu otomatik olarak dogrulayamadik. Sahibine manuel inceleme icin bildirim gonderildi - kisa surede size donus yapilacak.",
   "sa_title": "İttifak Oluştur",
   "sa_select_game": "Bu ittifak için bir oyun seçin:",
   "sa_step": "Adım",
