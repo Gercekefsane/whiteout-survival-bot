@@ -854,6 +854,7 @@
   "premium_change_charged_line": "💳 Charged now: <b>${amount} {currency}</b>",
   "premium_change_credited_line": "💳 No charge — the price difference was credited to your account balance.",
   "premium_change_failed": "The plan change could not be completed (payment failed or was declined). Your current plan is unchanged. Please check your payment method and try again, or contact support.",
+  "premium_change_manual_review": "We could not automatically verify who owns this alliance's subscription. The owner has been notified to review this manually - you will hear back soon.",
   "sa_title": "Create Alliance",
   "sa_select_game": "Select a game for this alliance:",
   "sa_step": "Step",
