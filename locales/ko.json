@@ -1057,6 +1057,7 @@
   "note_crystal_mastery": "화염 수정 레벨 9-10 해잠",
   "note_unconfirmed_gen": "이름 및 발표 데이터 미확인",
   "owner_broadcast_title": "소유자 공지",
+  "owner_broadcast_title_sponsored": "스폰서 광고",
   "owner_broadcast_disclosure": "📢 일괄 공지 — 모든 WOS Control 그룹과 멤버에게 발송되었습니다.",
   "ad_broadcast_title": "광고",
   "ad_broadcast_footer": "이것은 유료 광고입니다. 광고 메시지를 중단하려면 /stop_ads 를 입력하세요.",
