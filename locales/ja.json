@@ -1062,6 +1062,7 @@
   "note_crystal_mastery": "ファイアクリスタルレベル9-10の解放",
   "note_unconfirmed_gen": "名前と公開データは不明",
   "owner_broadcast_title": "オーナーからのお知らせ",
+  "owner_broadcast_title_sponsored": "スポンサー広告",
   "owner_broadcast_disclosure": "📢 一斉配信 — WOS Control のすべてのグループとメンバーに送信されました。",
   "ad_broadcast_title": "広告",
   "ad_broadcast_footer": "これは有料広告です。広告メッセージを停止するには /stop_ads と送信してください。",
