@@ -1062,6 +1062,7 @@
   "note_crystal_mastery": "Fire Crystal level 9-10 Unlock",
   "note_unconfirmed_gen": "Names and Publish data Unknown",
   "owner_broadcast_title": "Owner Announcement",
+  "owner_broadcast_disclosure": "📢 Broadcast message — sent to every WOS Control group and member.",
   "ad_broadcast_title": "Sponsored",
   "ad_broadcast_footer": "This is a paid advertisement. Reply /stop_ads to stop advertiser messages.",
   "broadcast_title": "Send Broadcast",
